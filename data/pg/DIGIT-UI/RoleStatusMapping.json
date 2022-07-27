@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "DIGIT-UI",
     "RoleStatusMapping": [{
             "userRole": "FSM_ADMIN",
@@ -59,7 +59,7 @@
             "statuses": [],
             "fixed": true
         },
-        {
+         {
             "userRole": "FSM_DSO",
             "statuses": [
                 "DSO_INPROGRESS",

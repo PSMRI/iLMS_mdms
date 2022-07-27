@@ -1,7 +1,8 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "TradeLicense",
-    "ApplicationType": [{
+    "ApplicationType": [
+        {
             "code": "APPLICATIONTYPE.NEW",
             "active": true
         },

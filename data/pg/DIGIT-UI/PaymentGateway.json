@@ -1,8 +1,10 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "DIGIT-UI",
-    "PaymentGateway": [{
-        "gateway": "AXIS",
-        "active": true
-    }]
+    "PaymentGateway": [
+        {
+            "gateway": "AXIS",
+            "active": true
+        }
+    ]
 }

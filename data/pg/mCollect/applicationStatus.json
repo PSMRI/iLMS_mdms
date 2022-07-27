@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "mCollect",
     "applicationStatus": [
        {
@@ -16,4 +16,3 @@
       }
     ]
   }
-  

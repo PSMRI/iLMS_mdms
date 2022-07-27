@@ -1,10 +1,10 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pb.jalandhar",
-      "districtCode": "Barnala",
+      "code": "pg.citya",
+      "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
       "femalePopultion": "74671",
@@ -13,8 +13,8 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pb.amritsar",
-      "districtCode": "Bahadaur",
+      "code": "pg.cityb",
+      "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
       "femalePopultion": "53895",
@@ -24,8 +24,8 @@
     },
   
     {
-      "code": "pb.patankot",
-      "districtCode": "Dhanaula",
+      "code": "pg.cityc",
+      "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
       "femalePopultion": "6810",
@@ -34,8 +34,18 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pb.nawanshahr",
-      "districtCode": "Dhanaula",
+      "code": "pg.cityd",
+      "districtCode": "CITYD",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": ["HN", "PN", "EN"]
+    },
+    {
+      "code": "pg.citye",
+      "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
       "femalePopultion": "5697",

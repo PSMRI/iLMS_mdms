@@ -1,7 +1,8 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "FSM",
-    "CancelReason": [{
+    "CancelReason": [
+        {
             "name": "Duplicate application",
             "code": "DUPLICATE",
             "active": true

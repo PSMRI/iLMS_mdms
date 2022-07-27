@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "CitizenEngagement",
     "DocumentsCategory":
     [
@@ -30,4 +30,3 @@
       }
     ]
 }
-  

@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pg",
   "moduleName": "PropertyTax",
   "PropertyType": [
     {
@@ -23,12 +23,6 @@
       "code": "BUILTUP.INDEPENDENTPROPERTY",
       "active": true,
       "propertyType": "BUILTUP"
-    },
-    {
-      "name": "Vacant Independent Building",
-      "code": "VACANT.INDEPENDENTPROPERTY",
-      "active": true,
-      "propertyType": "VACANT"
     }
   ]
 }

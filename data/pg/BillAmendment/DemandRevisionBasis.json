@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "BillAmendment",
     "DemandRevisionBasis": [
         {
@@ -27,4 +27,4 @@
             "active": true
         }
     ]
-  }
+} 

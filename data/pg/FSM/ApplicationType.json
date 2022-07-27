@@ -1,5 +1,5 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "FSM",
     "ApplicationType": [
        {
@@ -12,4 +12,4 @@
         "active":true
       }
     ]
-  }
+  } 

@@ -1,11 +1,11 @@
 {
-  "tenantId": "pb",
-  "moduleName": "Workflow",
-  "AutoEscalationStatesToIgnore": [
-    {
-      "businessService": "NewTL",
-      "module": "TL",
-      "state": ["INITIATED","PENDINGAPPROVAL"]
-    }
-  ]
-}
+    "tenantId": "pg",
+    "moduleName": "Workflow",
+    "AutoEscalationStatesToIgnore": [
+      {
+        "businessService": "NewTL",
+        "module": "TL",
+        "state": ["INITIATED","PENDINGAPPROVAL"]
+      }
+    ]
+  }
