@@ -658,9 +658,14 @@
       "description": "An advocate's role is to advise on all matters of law"
     },
     {
-      "code": "ADVOCATE",
-      "name": "Legal Advocate",
-      "description": "An advocate's role is to advise on all matters of law"
+      "code": "CLERK",
+      "name": "Legal Clerk",
+      "description": "Law clerks verify legal citations, attend hearings, and provide support for their judges during all court hearings and proceedings"
+    },
+    {
+      "code": "CRA",
+      "name": "Case Registration Authority",
+      "description": "all perform a similar function, in promoting the use of a particular standard through facilitating its use."
     }
   ]
 }
