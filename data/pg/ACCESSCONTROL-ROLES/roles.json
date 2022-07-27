@@ -646,6 +646,21 @@
       "code": "DEATH_APPLICATION_EDITOR",
       "name": "DEATH Application Editor",
       "description": "Death User that can edit existing applications"
+    },
+    {
+      "code": "CO",
+      "name": "Cheif Officer",
+      "description": "Head of All lcms Services"
+    },
+    {
+      "code": "ADVOCATE",
+      "name": "Legal Advocate",
+      "description": "An advocate's role is to advise on all matters of law"
+    },
+    {
+      "code": "ADVOCATE",
+      "name": "Legal Advocate",
+      "description": "An advocate's role is to advise on all matters of law"
     }
   ]
 }
