@@ -1,0 +1,26 @@
+{
+    "tenantId": "ilms",
+    "moduleName": "ilms",
+    "Department": [{
+            "name": "Software",
+            "code": "SW",
+            "active": true
+        },
+	{
+            "name": "Hardware",
+            "code": "HW",
+            "active": true
+        },
+	{
+            "name": "HumanResource",
+            "code": "HR",
+            "active": true
+        },
+
+        {
+            "name": "BuisnessDevelopment",
+            "code": "BD",
+            "active": true
+        }
+    ]
+}
