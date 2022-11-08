@@ -21,14 +21,6 @@
 		"city":"aligarh",
 		"state":"up",
             "active": true
-        },
-
-        {
-            "name": "Samta",
-            "code": "SA004",
-		"city":"hathras",
-		"state":"up",
-            "active": true
         }
     ]
 }
