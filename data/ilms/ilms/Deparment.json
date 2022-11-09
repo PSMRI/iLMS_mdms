@@ -7,11 +7,6 @@
             "active": true
         },
 	{
-            "name": "Hardware",
-            "code": "HW",
-            "active": true
-        },
-	{
             "name": "HumanResource",
             "code": "HR",
             "active": true
