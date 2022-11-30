@@ -17,9 +17,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Madhya Pradesh",
+        "name": "Bhopal",
         "localName": null,
-        "districtCode": "mp",
+        "districtCode": "BP",
         "districtName": null,
         "districtTenantCode": "mp",
         "regionName": null,
@@ -31,7 +31,7 @@
         "code": "1013",
         "ddrName": "DDR A"
       },
-      "address": "Madhya Pradesh Municipal Corporation",
+      "address": "Bhopal Education Department",
       "contactNumber": "001-2345876"
     }
    
