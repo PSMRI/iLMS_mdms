@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "footer": [
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "PT",
       "receiptFooterContent": [
         {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "PT.MUTATION",
       "receiptFooterContent": [
         {
@@ -111,115 +111,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
-      "service": "PT",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FOURTH_LINE",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIFTH_LINE",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SIXTH_LINE",
-          "order": "6."
-        }
-      ],
-      "billFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
-          "order": "6."
-        }
-      ]
-    },
-    {
-      "code": "pg.cityb",
-      "service": "PT.MUTATION",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIRST_LINE",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_SECOND_LINE",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_THIRD_LINE",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FOURTH_LINE",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_RECEIPT_DISCLAIMER_FIFTH_LINE",
-          "order": "5."
-        }
-      ],
-      "billFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PAYMENT_RECEIVED",
-          "order": "1."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_DOCUMENT",
-          "order": "2."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_THIS_IS",
-          "order": "3."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_ASSESSSMENT_PAYMENT",
-          "order": "4."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_PLEASE_DEPOSIT",
-          "order": "5."
-        },
-        {
-          "disclaimer": "PDF_STATIC_LABEL_CONSOLIDATED_BILL_IF_THE_TAX",
-          "order": "6."
-        }
-      ]
-    },
-    {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "TL",
       "receiptFooterContent": [
         {
@@ -267,7 +159,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "FIRENOC",
       "receiptFooterContent": [
         {
@@ -311,7 +203,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPA.NC_OC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -359,7 +251,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPA.NC_OC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -407,7 +299,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPA.LOW_RISK_PERMIT_FEE",
       "receiptFooterContent": [
         {
@@ -455,7 +347,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPA.NC_APP_FEE",
       "receiptFooterContent": [
         {
@@ -503,7 +395,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPA.NC_SAN_FEE",
       "receiptFooterContent": [
         {
@@ -551,7 +443,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -599,7 +491,7 @@
       ]
     },
     {
-      "code": "pg",
+      "code": "mp",
       "service": "BPAREG",
       "receiptFooterContent": [
         {
@@ -647,7 +539,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "ADVT.Hoardings",
       "receiptFooterContent": [
         {
@@ -683,7 +575,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "ADVT.Unipolls",
       "receiptFooterContent": [
         {
@@ -719,7 +611,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "ADVT.Gas_Balloon_Advertisement",
       "receiptFooterContent": [
         {
@@ -755,7 +647,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "ADVT.Wall_Paint_Advertisement",
       "receiptFooterContent": [
         {
@@ -791,7 +683,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "ADVT.Light_Wala_Board",
       "receiptFooterContent": [
         {
@@ -827,7 +719,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "TX.No_Dues_Certificate",
       "receiptFooterContent": [
         {
@@ -863,7 +755,7 @@
       ]
     },
     {
-      "code": "pg.citya",
+      "code": "mp.bhopal",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {
@@ -873,17 +765,7 @@
       ]
     },
     {
-      "code": "pg.cityb",
-      "service": "FSM.TRIP_CHARGES",
-      "receiptFooterContent": [
-        {
-          "disclaimer": "PDF_STATIC_LABEL_FSM_RECEIPT_DISCLAIMER_FIRST_LINE",
-          "order": "1."
-        }
-      ]
-    },
-    {
-      "code": "pg.balasore",
+      "code": "mp.balasore",
       "service": "FSM.TRIP_CHARGES",
       "receiptFooterContent": [
         {

@@ -10,12 +10,9 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp.citya"
-        },
-      {
-        "code": "mp.cityb"
-       }
-      ]
+          "code": "mp.bhopal"
+        }
+     ]
     }
   ]
 }
