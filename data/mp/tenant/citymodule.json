@@ -10,21 +10,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "mp.citya"
         },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-
+      {
+        "code": "mp.cityb"
+       }
       ]
     }
   ]
