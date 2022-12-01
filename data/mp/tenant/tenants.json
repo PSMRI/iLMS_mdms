@@ -18,7 +18,7 @@
       },
       "city": {
         "name": "Bhopal",
-        "localName": null,
+        "localName": "Bhopal",
         "districtCode": "BHOPAL",
         "districtName": null,
         "districtTenantCode": "mp.bhopal",

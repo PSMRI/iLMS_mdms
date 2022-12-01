@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "mp",
     "moduleName": "DIGIT-UI",
     "RoleStatusMapping": [{
             "userRole": "FSM_ADMIN",
