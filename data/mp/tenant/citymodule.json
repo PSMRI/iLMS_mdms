@@ -404,6 +404,18 @@
       "tenants": [
         {
           "code": "mp.bhopal"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
         }
       ]
     },
@@ -506,6 +518,3 @@
     }
   ]
 }
-
-
-
