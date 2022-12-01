@@ -31,6 +31,11 @@
       "code": "MO",
       "name": "Monitoring Officer ",
       "description": "Governance and Monitoring :To monitor Status of cases"
+    },
+    {
+      "code": "HRMS_ADMIN",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
     }
    ]
 }
