@@ -2,9 +2,9 @@
     "tenantId": "mp.bhopal",
     "moduleName": "FSM",
     "PeriodicService":[
-	{
-	   "timeLimit" : 7200000,
-	   "isSchedularConfiguration":true
-	}
+		{
+		"timeLimit" : 7200000,
+		"isSchedularConfiguration":true
+		}
 	]
 }

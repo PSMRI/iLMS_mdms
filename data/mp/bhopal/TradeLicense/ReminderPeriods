@@ -1,5 +1,5 @@
 {
-    "tenantId": "mp.bhopal",
+    "tenantId": "mp",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
