@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"Department": [{
             "name": "DIRECTORATE PUBLIC INSTRUCTION",
             "code": "DP001",
