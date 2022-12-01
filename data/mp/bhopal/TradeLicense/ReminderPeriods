@@ -1,9 +1,9 @@
 {
-    "tenantId": "pg",
+    "tenantId": "mp.bhopal",
     "moduleName": "TradeLicense",
     "ReminderPeriods": [
       {
-        "tenantId": "pg.citya",
+        "tenantId": "mp.bhopal",
         "reminderInterval": 691200000
       },
       {
