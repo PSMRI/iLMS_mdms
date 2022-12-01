@@ -13,6 +13,17 @@
           "code": "mp.bhopal"
         }
      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp.bhopal"
+        }
+      ]
     }
   ]
 }
