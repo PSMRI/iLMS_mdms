@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"PetitionerType": [{
             "name": "Assistant",
             "code": "A001",

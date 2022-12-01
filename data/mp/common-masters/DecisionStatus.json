@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"Decision": [{
             "name": "Appeal",
             "code": "APL001",

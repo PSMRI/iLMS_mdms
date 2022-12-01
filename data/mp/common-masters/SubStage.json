@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"SubStage": [{
             "name": "Data entry by Data entry Cell",
             "code": "DE-DEC",

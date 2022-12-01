@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"Bench": [{
             "name": "Single Judge Bench",
             "code": "SJB001",

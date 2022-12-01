@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"DepartmentIOC": [{
             "name": "District Educational Officer",
             "code": "DEO001",

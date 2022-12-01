@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"State": [{
             "name": "Madhya Pradesh",
             "code": "MP",

@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"CaseStage": [{
             "name": "Notice for petition / Copy of petition uploaded",
             "code": "NOP-CP",

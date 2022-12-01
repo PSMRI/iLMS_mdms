@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"CourtName": [{
             "name": "Supreme Court",
             "code": "SC001",

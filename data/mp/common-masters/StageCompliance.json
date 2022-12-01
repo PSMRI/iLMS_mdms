@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"StageCompliance": [{
             "name": "Compliance Initiated",
             "code": "COMP-INI",
