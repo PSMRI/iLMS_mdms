@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "ILMS",
-      "code": "ILMS",
+      "module": "PGR",
+      "code": "PGR",
       "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
       "active": true,
       "order":2,
@@ -19,7 +19,7 @@
       "module": "PT",
       "code": "PT",
       "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
-      "active": true,
+      "active": false,
       "order":1,
       "tenants": [
         {
@@ -42,7 +42,7 @@
     {
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
-      "active": true,
+      "active": false,
       "order":1,
       "tenants": [
         {
@@ -83,7 +83,7 @@
       "module": "TL",
       "code": "TL",
       "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -212,7 +212,7 @@
       "module": "OBPS",
       "code": "OBPS",
       "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -235,7 +235,7 @@
     {
       "module": "FSM",
       "code": "FSM",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -261,7 +261,7 @@
     {
       "module": "Payment",
       "code": "Payment",
-      "active": true,
+      "active": false,
       "order":1,
       "tenants": [
         {
@@ -284,7 +284,7 @@
     {
       "module": "Receipts",
       "code": "Receipts",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
@@ -307,7 +307,7 @@
     {
       "module": "NOC",
       "code": "NOC",
-      "active": true,
+      "active": false,
       "order":2,
       "tenants": [
         {
@@ -334,26 +334,15 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
+          "code": "mp"
         }
+        
       ]
     },
     {
       "module": "Engagement",
       "code": "Engagement",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
@@ -376,7 +365,7 @@
     {
       "module": "MCollect",
       "code": "MCollect",
-      "active": true,
+      "active": false,
       "order":1,
       "tenants": [
         {
@@ -411,7 +400,7 @@
     {
       "module": "CommonPT",
       "code": "CommonPT",
-      "active": true,
+      "active": false,
       "order":3,
       "tenants": [
         {
@@ -434,7 +423,7 @@
     {
       "module": "NDSS",
       "code": "NDSS",
-      "active": true,
+      "active": false,
       "order":5,
       "tenants": [
         {
