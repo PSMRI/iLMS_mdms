@@ -536,6 +536,22 @@
       ]
     }
   },
+  "ilms": {
+    "Bench": {
+      "masterName": "Bench",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CaseCategory": {
+      "masterName": "CaseCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
   "PropertyTax": {
     "MutationReason": {
       "masterName": "MutationReason",
