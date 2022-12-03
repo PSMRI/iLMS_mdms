@@ -3,6 +3,19 @@
   "moduleName": "tenant",
   "citymodule": [
     {
+      "module": "ILMS",
+      "code": "ILMS",
+      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "mp"
+        }     
+
+      ]
+    },	  
+    {
       "module": "PGR",
       "code": "PGR",
       "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
