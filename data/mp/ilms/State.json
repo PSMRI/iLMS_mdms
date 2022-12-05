@@ -1,0 +1,10 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "ilms",
+    	"State": [{
+            "name": "Madhya Pradesh",
+            "code": "MP",
+            "active": true
+        }
+    ]
+}

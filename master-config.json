@@ -536,6 +536,128 @@
       ]
     }
   },
+  "ilms": {
+    "Bench": {
+      "masterName": "Bench",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CaseCategory": {
+      "masterName": "CaseCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CaseStage": {
+      "masterName": "CaseStage",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CaseStatus": {
+      "masterName": "CaseStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CaseType": {
+      "masterName": "CaseType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CourtName": {
+      "masterName": "CourtName",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DecisionStatus": {
+      "masterName": "DecisionStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Deparment": {
+      "masterName": "Deparment",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DeparmentIOC": {
+      "masterName": "DeparmentIOC",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "District": {
+      "masterName": "District",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Division": {
+      "masterName": "Division",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "DocumentsCategory": {
+      "masterName": "DocumentsCategory",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "OrderType": {
+      "masterName": "OrderType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "PetitionerType": {
+      "masterName": "PetitionerType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "StageCompliance": {
+      "masterName": "StageCompliance",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "State": {
+      "masterName": "State",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "SubStage": {
+      "masterName": "SubStage",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+
+  },
   "PropertyTax": {
     "MutationReason": {
       "masterName": "MutationReason",
