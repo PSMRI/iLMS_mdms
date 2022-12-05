@@ -4,8 +4,8 @@
   "TenantBoundary": [
     {
       "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
+        "code": "ADMINISTRATION",
+        "name": "ADMINISTRATION"
       },
       "boundary":
       {
