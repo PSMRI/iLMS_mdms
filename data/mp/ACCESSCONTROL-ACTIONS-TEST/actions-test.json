@@ -13412,7 +13412,106 @@
       "queryParams": "",
       "sidebar": "digit-ui-links"
       
-    }	   
+    },
+    {
+      "id": 2418,
+      "name": "Create Case",
+      "url": "/ilms/case/_create",
+      "displayName": "Create New Case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2419,
+      "name": "Search Existing Case",
+      "url": "/ilms/case/_search",
+      "displayName": "Search Existing Case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+   {
+      "id": 2420,
+      "name": "Update Case",
+      "url": "/ilms/case/_update",
+      "displayName": "Update Case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2421,
+      "name": "Create Hearing",
+      "url": "/ilms/hearing/_create",
+      "displayName": "Create Hearing For Case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2422,
+      "name": "Search For Hearing Details",
+      "url": "/ilms/hearing/_search",
+      "displayName": "Search For Hearing Details",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2423,
+      "name": "Update For Hearing Details",
+      "url": "/ilms/hearing/_update",
+      "displayName": "Update For Hearing Details",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2424,
+      "name": "Create Judgement For Case",
+      "url": "/ilms/judgement/_create",
+      "displayName": "Create Judgement For Case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2425,
+      "name": "Search For Judgement",
+      "url": "/ilms/judgement/_search",
+      "displayName": "Search For Judgement",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2426,
+      "name": "Update For Judgement",
+      "url": "/ilms/judgement/_update",
+      "displayName": "Update For Judgement",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    }
 	   
    ]
 }
