@@ -13394,6 +13394,25 @@
       "serviceCode": "vehicle",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2416,
+      "name": "ILMS_CREATE",
+      "url": "digit-ui-card",
+      "displayName": "Apply for Ilms",
+      "orderNumber": 1,
+      "parentModule": "ILMS",
+      "enabled": true,
+      "serviceCode": "",
+      "code": "",
+      "path": "",
+      "navigationURL": "/digit-ui/employee/ilms/new-application",
+      "leftIcon": "IlmsIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links"
+      
+    }	   
+	   
    ]
 }

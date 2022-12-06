@@ -25189,6 +25189,12 @@
       "actionid": 2415,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2416,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }

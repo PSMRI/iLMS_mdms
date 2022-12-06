@@ -13,6 +13,24 @@
         "name": "Joint Director - Legal",
         "description": "Joint Director - Legal",
         "active": true
+      },
+      {
+        "code": "DESIG_03",
+        "name": "HOD",
+        "description": "HOD",
+        "active": true
+      },
+      {
+        "code": "DESIG_04",
+        "name": "JDE",
+        "description": "JDE",
+        "active": true
+      },
+      {
+        "code": "DESIG_05",
+        "name": "OSD",
+        "description": "OSD",
+        "active": true
       }
     ]
   }
