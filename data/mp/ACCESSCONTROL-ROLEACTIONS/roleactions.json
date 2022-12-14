@@ -25382,6 +25382,42 @@
       "actionid": 2418,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "OICA",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "AO",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "OIC",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "MO",
+      "actionid": 2426,
+      "actioncode": "",
+      "tenantId": "mp"
     }
 
   ]

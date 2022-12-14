@@ -13511,6 +13511,17 @@
       "serviceCode": "ilms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2426,
+      "name": "Search for Case Details",
+      "url": "/ilms-services/case/_caseDetails",
+      "displayName": "Search for Case Details",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
     }
 	   
    ]
