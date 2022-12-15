@@ -25418,6 +25418,12 @@
       "actionid": 2426,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2427,
+      "actioncode": "",
+      "tenantId": "mp"
     }
 
   ]
