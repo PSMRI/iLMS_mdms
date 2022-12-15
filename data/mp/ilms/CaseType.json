@@ -156,11 +156,6 @@
             "code": "CRA-S",
             "active": true
         },
-	{
-            "name": "CRIMINAL APPEAL",
-            "code": "CRA",
-            "active": true
-        },
       {
             "name": "CRIM APPEAL CONTEMP PETITION",
             "code": "CRACP",
@@ -179,11 +174,6 @@
        {
             "name": "AGAINST ACQUITALS",
             "code": "CRM-A",
-            "active": true
-        },
-	{
-            "name": "CRIMINAL APPEAL",
-            "code": "CRA",
             "active": true
         },
       {
