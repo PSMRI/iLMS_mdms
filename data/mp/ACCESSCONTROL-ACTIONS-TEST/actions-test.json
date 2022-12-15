@@ -13533,6 +13533,39 @@
       "serviceCode": "ilms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2428,
+      "name": "PDF Generate",
+      "url": "/ilms-services/case/_generatePDF",
+      "displayName": "PDF Generate",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2429,
+      "name": "Create child case",
+      "url": "/ilms-services/case/_addChildCases",
+      "displayName": "Create child case",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2430,
+      "name": "Search Document",
+      "url": "/ilms-services/document/_search",
+      "displayName": "Search Document",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
     }
 	   
    ]
