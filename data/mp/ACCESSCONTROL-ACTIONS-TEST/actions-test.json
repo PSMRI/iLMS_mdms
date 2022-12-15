@@ -13522,6 +13522,17 @@
       "serviceCode": "ilms",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2427,
+      "name": "Create Case",
+      "url": "/ilms-services/document/_create",
+      "displayName": "Add New Document",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "ilms",
+      "code": "null",
+      "path": ""
     }
 	   
    ]
