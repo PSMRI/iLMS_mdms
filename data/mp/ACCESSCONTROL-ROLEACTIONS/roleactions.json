@@ -25421,6 +25421,42 @@
     },
     {
       "rolecode": "DEC",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "RO",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "OICA",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "AO",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "OIC",
+      "actionid": 2430,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2429,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
       "actionid": 2427,
       "actioncode": "",
       "tenantId": "mp"
