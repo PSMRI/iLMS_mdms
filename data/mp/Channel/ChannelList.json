@@ -1153,9 +1153,9 @@
       ]
     },
     {
-      "businessService": "iLMS-services.CREATE",
-      "module": "iLMS",
-      "action": "CREATE",
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "Create",
       "channelNames": [
         "SMS",
         "EMAIL",
