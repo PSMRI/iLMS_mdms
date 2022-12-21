@@ -25466,6 +25466,18 @@
       "actionid": 2428,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "mp"
     }
 
   ]
