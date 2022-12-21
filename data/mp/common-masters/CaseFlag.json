@@ -1,0 +1,20 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "common-masters",
+    	"CaseFlag": [{
+            "name": "High",
+            "code": "PRI001",
+            "active": true
+        },
+	{
+            "name": "Medium",
+            "code": "PRI002",
+            "active": true
+        },
+	{
+            "name": "Low",
+            "code": "PRI003",
+            "active": true
+        }
+    ]
+}
