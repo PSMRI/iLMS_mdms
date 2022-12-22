@@ -1161,6 +1161,16 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
