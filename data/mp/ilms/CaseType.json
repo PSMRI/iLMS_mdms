@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "common-masters",
+    	"moduleName": "ilms",
     	"CaseType": [{
             "name": "ARBITRATION ACT CASE (WEF 15/10/03)",
             "code": "ARB",
