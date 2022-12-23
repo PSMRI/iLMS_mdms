@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "common-masters",
     	"CaseType": [{
             "name": "ARBITRATION ACT CASE (WEF 15/10/03)",
             "code": "ARB",
@@ -156,6 +156,11 @@
             "code": "CRA-S",
             "active": true
         },
+	{
+            "name": "CRIMINAL APPEAL",
+            "code": "CRA",
+            "active": true
+        },
       {
             "name": "CRIM APPEAL CONTEMP PETITION",
             "code": "CRACP",
@@ -174,6 +179,11 @@
        {
             "name": "AGAINST ACQUITALS",
             "code": "CRM-A",
+            "active": true
+        },
+	{
+            "name": "CRIMINAL APPEAL",
+            "code": "CRA",
             "active": true
         },
       {
@@ -298,7 +308,7 @@
         },
 	{
             "name": "First Appeal from Order (Commercial Arbitration)",
-            "code": " FAO-CARB",
+            "code": "FAO-CARB",
             "active": true
         },
        {
@@ -333,7 +343,7 @@
         },
 	{
             "name": "GIFT TAX CASE",
-            "code": " GTC",
+            "code": "GTC",
             "active": true
         },
        {
@@ -358,7 +368,7 @@
         },
       {
             "name": "Interim Order in",
-            "code": " IOIN",
+            "code": "IOIN",
             "active": true
         },
 	{
@@ -388,7 +398,7 @@
         },
       {
             "name": "MATROMONIAL REFERENCE",
-            "code": " MATRF",
+            "code": "MATRF",
             "active": true
         },
 	{
@@ -418,7 +428,7 @@
         },
       {
             "name": "REVIEW APPL",
-            "code": " RA",
+            "code": "RA",
             "active": true
         },
 	{
@@ -448,7 +458,7 @@
         },
       {
             "name": "REVIEW APPLICATION IN RFA",
-            "code": " RA-RF",
+            "code": "RA-RF",
             "active": true
         },
 	{
