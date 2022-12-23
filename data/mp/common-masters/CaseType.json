@@ -308,7 +308,7 @@
         },
 	{
             "name": "First Appeal from Order (Commercial Arbitration)",
-            "code": " FAO-CARB",
+            "code": "FAO-CARB",
             "active": true
         },
        {
@@ -343,7 +343,7 @@
         },
 	{
             "name": "GIFT TAX CASE",
-            "code": " GTC",
+            "code": "GTC",
             "active": true
         },
        {
@@ -398,7 +398,7 @@
         },
       {
             "name": "MATROMONIAL REFERENCE",
-            "code": " MATRF",
+            "code": "MATRF",
             "active": true
         },
 	{
@@ -428,7 +428,7 @@
         },
       {
             "name": "REVIEW APPL",
-            "code": " RA",
+            "code": "RA",
             "active": true
         },
 	{
@@ -458,7 +458,7 @@
         },
       {
             "name": "REVIEW APPLICATION IN RFA",
-            "code": " RA-RF",
+            "code": "RA-RF",
             "active": true
         },
 	{
