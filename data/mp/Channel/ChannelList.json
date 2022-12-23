@@ -1215,7 +1215,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "Inactiva",
+      "action": "Inactive",
       "channelNames": [
         "SMS",
         "EMAIL",
