@@ -1161,6 +1161,66 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "ReCreate",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "AssignBackToDEC",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "AssignBackToRO",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "Close",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "Inactive",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
