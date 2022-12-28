@@ -3,7 +3,7 @@
     	"moduleName": "ilms",
     	"District": [{
             "name": "Alirajpur",
-            "code": "A001",
+            "code": "A0001",
             "active": true
         },
         {
