@@ -8,7 +8,7 @@
         },
         {
             "name": "Association",
-            "code": "A0002",
+            "code": "AS002",
             "active": true
         },
 	{
@@ -48,7 +48,7 @@
         },
 	{
             "name": "Drawing Teacher ",
-            "code": "DT010 ",
+            "code": "DT010",
             "active": true
         },
       {
