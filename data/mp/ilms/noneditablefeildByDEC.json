@@ -1,10 +1,11 @@
 { 
 	"tenantId": "mp",
     	"moduleName": "ilms",
-    	"noneditablefeildByDEC": [{
+    	"noneditablefeildByDEC": [
+            {
             "name": "Unique id",
             "active": true
-        },
+         },
         {
             "name": "Flag",
             "active": true
@@ -18,16 +19,16 @@
             "active": true
         },
     {
-                "name": "Case number",
-                "active": true
+            "name": "Case number",
+            "active": true
         },
     {
-                  "name": "Decision Status",
-                  "active": true
+            "name": "Decision Status",
+            "active": true
         },
     {
-                    "name": "Status of compliance",
-                    "active": true
+            "name": "Status of compliance",
+            "active": true
         }
         
     ]
