@@ -1,0 +1,34 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "ilms",
+    	"noneditablefeildByDEC": [{
+            "name": "Unique id",
+            "active": true
+        },
+        {
+            "name": "Flag",
+            "active": true
+        },
+	{
+            "name": "Affidavit filing date",
+            "active": true
+        },
+	{
+            "name": "Oath number",
+            "active": true
+        },
+    {
+                "name": "Case number",
+                "active": true
+        },
+    {
+                  "name": "Decision Status",
+                  "active": true
+        },
+    {
+                    "name": "Status of compliance",
+                    "active": true
+        }
+        
+    ]
+}
