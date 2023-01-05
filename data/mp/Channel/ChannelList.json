@@ -1155,7 +1155,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "Create",
+      "action": "CREATE",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1165,7 +1165,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "FORWARD",
+      "action": "FORWARD_TO_RO",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1175,7 +1175,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "ReCreate",
+      "action": "ASSIGNBACK_TO_DEC",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1185,7 +1185,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "AssignBackToDEC",
+      "action": "INACTIVE",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1195,7 +1195,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "AssignBackToRO",
+      "action": "UPDATE_AT_RO_LEVEL",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1205,7 +1205,7 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "Close",
+      "action": "FORWARD_TO_OICA",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1215,7 +1215,57 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "Inactive",
+      "action": "ASSIGNBACK_TO_RO",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "UPDATE_AT_OICA_LEVEL",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "FORWARD_TO_AO",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "FORWARD_TO_OIC",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "CLOSE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "iLMS",
+      "module": "iLMS-services",
+      "action": "INACTIVE",
       "channelNames": [
         "SMS",
         "EMAIL",
