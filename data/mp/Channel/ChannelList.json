@@ -1185,16 +1185,6 @@
     {
       "businessService": "iLMS",
       "module": "iLMS-services",
-      "action": "INACTIVE",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
       "action": "UPDATE_AT_RO_LEVEL",
       "channelNames": [
         "SMS",
