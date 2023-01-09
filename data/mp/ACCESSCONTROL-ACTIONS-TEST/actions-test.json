@@ -2995,66 +2995,6 @@
          "rightIcon": ""
       },
       {
-         "id": 1557,
-         "name": "OpenComplaints",
-         "url": "url",
-         "displayName": "Open Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": false,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.MyComplaints",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": ""
-      },
-      {
-         "id": 1558,
-         "name": "ClosedComplaints",
-         "url": "url",
-         "displayName": "Closed Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.Closed Complaints",
-         "navigationURL": "closed-complaints",
-         "leftIcon": "custom:closed-complaints",
-         "rightIcon": ""
-      },
-      {
-         "id": 1559,
-         "name": "CreateComplaint",
-         "url": "url",
-         "displayName": "Create Complaint",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.CreateComplaint",
-         "navigationURL": "/digit-ui/employee/pgr/complaint/create",
-         "leftIcon": "content:add",
-         "rightIcon": ""
-      },
-      {
-         "id": 1560,
-         "name": "ComplaintTypesReport",
-         "url": "url",
-         "displayName": "Complaint Types",
-         "orderNumber": 2,
-         "parentModule": "rainmaker-pgr",
-         "enabled": false,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.PGR Reports.ComplaintTypesReport",
-         "navigationURL": "report/rainmaker-pgr/ComplaintTypesReport",
-         "leftIcon": "action:assignment",
-         "rightIcon": ""
-      },
-      {
          "id": 1561,
          "name": "DepartmentWiseReport",
          "url": "url",
@@ -5613,22 +5553,6 @@
          "leftIcon": "social:people"
       },
       {
-         "id": 1775,
-         "name": "rainmaker-common-complaints",
-         "url": "card",
-         "displayName": "Complaints",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": "",
-         "queryParams": ""
-      },
-      {
          "id": 1776,
          "name": "rainmaker-common-propertytax",
          "url": "card",
@@ -5977,21 +5901,6 @@
          "path": ""
       },
       {
-         "id": 1805,
-         "name": "Complaints",
-         "url": "url",
-         "displayName": "Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints",
-         "navigationURL": "/digit-ui/citizen/pgr/complaints",
-         "leftIcon": "custom:account-alert",
-         "rightIcon": ""
-      },
-      {
          "id": 1806,
          "name": "PropertyTax",
          "url": "url",
@@ -6100,22 +6009,6 @@
          "serviceCode": "UCREPORTS",
          "code": "null",
          "path": "UC Collection Metadata "
-      },
-      {
-         "id": 1814,
-         "name": "rainmaker-citizen-complaints",
-         "url": "card",
-         "displayName": "Complaints",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": true,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/citizen",
-         "leftIcon": "custom:account-alert",
-         "rightIcon": "",
-         "queryParams": ""
       },
       {
          "id": 1815,
@@ -6554,29 +6447,6 @@
          "id": 1851,
          "name": "StateULBReport",
          "url": "/report/rainmaker-pgr/StateULBReport/_get",
-         "displayName": "PGR Report",
-         "orderNumber": 0,
-         "enabled": false,
-         "serviceCode": "RainmakerPGRReports",
-         "code": "null",
-         "path": "PGR Report"
-      },
-      {
-         "id": 1852,
-         "name": "RainmakerPGR-ComplaintTypesReport-Metadata",
-         "url": "/report/rainmaker-pgr/ComplaintTypesReport/metadata/_get",
-         "displayName": "Rainmaker PGR report",
-         "orderNumber": 1,
-         "parentModule": "147",
-         "enabled": false,
-         "serviceCode": "RainmakerPGRReports",
-         "code": "null",
-         "path": "PGR Report"
-      },
-      {
-         "id": 1853,
-         "name": "ComplaintTypesReport",
-         "url": "/report/rainmaker-pgr/ComplaintTypesReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
          "enabled": false,
@@ -7220,18 +7090,6 @@
          "path": ""
       },
       {
-         "id": 1909,
-         "name": "ComplaintTypesReport",
-         "url": "/report/rainmaker-pgr/ComplaintTypesReport/metadata/_get",
-         "displayName": "rainmaker-pgr-ComplaintTypesReport",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "report",
-         "code": "null",
-         "path": "1902"
-      },
-      {
          "id": 1910,
          "name": "ULBDepartmentReport",
          "url": " /report/rainmaker-pgr/ULBDepartmentReport/metadata/_get",
@@ -7340,18 +7198,6 @@
          "path": ""
       },
       {
-         "id": 1919,
-         "name": "ComplaintTypesReport",
-         "url": "/report/rainmaker-pgr/ComplaintTypesReport/_get",
-         "displayName": "rainmaker-pgr-ComplaintTypesReport",
-         "orderNumber": 1,
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "report",
-         "code": "null",
-         "path": "1902"
-      },
-      {
          "id": 1920,
          "name": "ULBDepartmentReport",
          "url": " /report/rainmaker-pgr/ULBDepartmentReport/_get",
@@ -7420,22 +7266,6 @@
          "path": ""
       },
       {
-         "id": 1925,
-         "name": "CreateComplaint",
-         "url": "quickAction",
-         "displayName": "File Complaint",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": true,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "Complaints.CreateComplaint",
-         "navigationURL": "/digit-ui/employee/pgr/complaint/create",
-         "quickAction": true,
-         "leftIcon": "content:add",
-         "rightIcon": ""
-      },
-      {
          "id": 1926,
          "name": "Assess And Search Properties",
          "url": "quickAction",
@@ -7455,22 +7285,6 @@
          "quickAction": true,
          "leftIcon": "communication:business",
          "rightIcon": ""
-      },
-      {
-         "id": 1927,
-         "name": "rainmaker-common-complaints",
-         "url": "quickAction",
-         "displayName": "Search Complaints",
-         "orderNumber": 2,
-         "parentModule": "",
-         "enabled": false,
-         "serviceCode": "",
-         "code": "",
-         "path": "",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "action:announcement",
-         "rightIcon": "",
-         "queryParams": ""
       },
       {
          "id": 1928,
@@ -8854,21 +8668,6 @@
          "serviceCode": "",
          "code": "null",
          "path": ""
-      },
-      {
-         "id": 1555,
-         "name": "AllComplaints",
-         "url": "url",
-         "displayName": "All Complaints",
-         "orderNumber": 1,
-         "parentModule": "rainmaker-pgr",
-         "enabled": false,
-         "serviceCode": "PGR",
-         "code": "null",
-         "path": "AllComplaints",
-         "navigationURL": "/digit-ui/employee/pgr/inbox",
-         "leftIcon": "custom:open-complaints",
-         "rightIcon": ""
       },
       {
          "id": 2047,
