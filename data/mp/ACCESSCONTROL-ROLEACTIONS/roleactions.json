@@ -6837,12 +6837,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "RO",
-      "actionid": 1203,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "GRO",
       "actionid": 1203,
       "actioncode": "",
@@ -6861,12 +6855,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "RO",
-      "actionid": 1204,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "GRO",
       "actionid": 1204,
       "actioncode": "",
@@ -6880,12 +6868,6 @@
     },
     {
       "rolecode": "GO",
-      "actionid": 1205,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "RO",
       "actionid": 1205,
       "actioncode": "",
       "tenantId": "mp"
