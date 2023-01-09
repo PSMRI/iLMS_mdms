@@ -1635,12 +1635,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "RO",
-      "actionid": 349,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 184,
       "actioncode": "",
@@ -6251,24 +6245,6 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 1016,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 801,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 802,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 803,
       "actioncode": "",
       "tenantId": "mp"
     },
