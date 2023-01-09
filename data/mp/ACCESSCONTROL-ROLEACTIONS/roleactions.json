@@ -3,18 +3,6 @@
   "moduleName": "ACCESSCONTROL-ROLEACTIONS",
   "roleactions": [
     {
-      "rolecode": "RO",
-      "actionid": 429,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "RO",
-      "actionid": 596,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 397,
       "actioncode": "",
