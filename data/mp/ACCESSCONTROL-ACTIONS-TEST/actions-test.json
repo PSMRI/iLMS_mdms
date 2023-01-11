@@ -8147,6 +8147,18 @@
          "path": ""
       },
       {
+         "id": 2435,
+         "name": "LocalizationMessagesCacheBust",
+         "url": "/localization/messages/cache-bust",
+         "displayName": "Localization Messages Clear cache",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "localisation clear bust",
+         "code": "null",
+         "path": ""
+      },
+      {
          "id": 2001,
          "name": "NOC Create",
          "url": "/noc-services/v1/noc/_create",
