@@ -25184,6 +25184,12 @@
       "actioncode": "",
       "tenantId": "mp"
     },
+    {
+      "rolecode": "AO",
+      "actionid": 2419,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
       {
       "rolecode": "DEC",
       "actionid": 2422,
