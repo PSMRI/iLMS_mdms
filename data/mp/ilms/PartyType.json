@@ -15,10 +15,11 @@
             }
           },
           {
-            "code" : "RESPONDANT.DEPARTMENT",
-            "apiDetails" : {
-              "uri" : "mdms/v1/_search"
-            },
+            "code": "RESPONDANT.DEPARTMENT",
+            "apiDetails": {
+              "uri": "mdms/v1/_search"
+            }
+          },
           {
             "code" : "RESPONDANT.INDIVUDUAL",
             "apiDetails" : {
