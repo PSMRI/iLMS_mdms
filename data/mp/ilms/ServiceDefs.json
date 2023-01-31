@@ -1,7 +1,7 @@
 {
   "tenantId": "mp",
   "moduleName": "ilms",
-  "ServiceDefs_division": [
+  "ServiceDefs": [
 {
       "serviceCode": "Jabalpur",
       "name": "Jabalpur",
