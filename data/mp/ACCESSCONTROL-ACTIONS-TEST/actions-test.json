@@ -6833,7 +6833,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
