@@ -7,17 +7,17 @@
             "active": true
         },
         {
-            "name": "2 Judges Bench",
+            "name": "3 Judges Bench",
             "code": "TJB002",
             "active": true
         },
 	{
-            "name": "3 Judges Bench",
+            "name": "5 Judges Bench",
             "code": "TJB003",
             "active": true
         },
 	{
-            "name": "5 Judges Bench",
+            "name": "7 Judges Bench",
             "code": "FJB004",
             "active": true
         }
