@@ -7,13 +7,8 @@
             "active": true
         },
 	{
-            "name": "Medium",
+            "name": "None",
             "code": "PRI002",
-            "active": true
-        },
-	{
-            "name": "Low",
-            "code": "PRI003",
             "active": true
         }
     ]
