@@ -47,6 +47,11 @@
         "name": "Judgement",
         "code": "ILMS_DOCS_JUDGEMENT",
         "active": true
-      }
+      },
+	{
+        "name": "Others",
+        "code": "ILMS_DOCS_OTHERS",
+        "active": true
+      }	    
     ]
 }
