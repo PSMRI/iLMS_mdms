@@ -1,62 +1,42 @@
 {
-  "tenantId": "mp",
+  "tenantId": "mp.health",
   "moduleName": "ACCESSCONTROL-ROLES",
-  "roles": [
+  "roles": 
+  [
     {
-      "code": "DEC",
-      "name": "Data Entry Cell",
-      "description": "Enters Initial Case data as per the petition copy and updates case data as per the notice/interim order copy"
+      "name": "Administrator",
+      "code": "ADMINISTRATOR",
+      "description": "Admin"
     },
     {
-      "code": "RO",
-      "name": "Reviewing Officer",
-      "description": "Reviewing details of case and send to appointing officer for appointment of OIC process"
-    },
-    {
-      "code": "OICA",
-      "name": "Officer in Charge (OIC)Appointer -",
-      "description": "Appoints Officer in Charge from District/State as per the need of the case for managing Affidavit/Judgement"
-    },
-    {
-      "code": "AO",
-      "name": "Officer in Charge Approver",
-      "description": "Approves the Officer in Charge appointed"
-    },
-    {
-      "code": "OIC",
-      "name": "Officer In Charge (OIC) -",
-      "description": "Manages the Case in terms of preparing Statement of Facts and submitting Affidavits in Court and managing Judgment related tasks"
-    },
-    {
-      "code": "MO",
-      "name": "Monitoring Officer ",
-      "description": "Governance and Monitoring :To monitor Status of cases"
-    },
-    {
-      "code": "HRMS_ADMIN",
-      "name": "HRMS ADMIN",
-      "description": "HRMS Administrator which can create new employees"
-    },
-    {
-      "code": "SUPERUSER",
-      "name": "Super User",
-      "description": "System Administrator. Can change all master data and has access to all the system screens."
-    },
-    {
-      "code": "EMPLOYEE",
       "name": "Employee",
-      "description": "Default role for all employees"
+      "code": "EMPLOYEE",
+      "description": "Employee"
     },
     {
-      "code": "STADMIN",
-      "name": "State Administrator",
-      "description": "Admin role that as access over a state"
-    },	
-	 {
-      "code": "NATADMIN",
-      "name": "National Dashboard Admin",
-      "description": "Admin role that as access over a Nation"
+      "name": "HelpDesk",
+      "code": "HELPDESK",
+      "description": "Create Gr"
+    },
+    {
+      "name": "District (L1)",
+      "code": "DISTRICT_L1",
+      "description": "Access District level Gr"
+    },
+    {
+      "name": "Regional(L2)",
+      "code": "REGIONAL_L2",
+      "description": "Access Dvision level Gr"
+    },
+    {
+      "name": "State(L3)",
+      "code": "STATE_L3",
+      "description": "Access State level Gr"
+    },
+    {
+      "name": "Beneficiary",
+      "code": "BENEFICIARY",
+      "description": "Create Gr"
     }
-
-   ]
+  ]
 }
