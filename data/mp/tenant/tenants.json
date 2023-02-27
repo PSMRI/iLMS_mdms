@@ -1,10 +1,10 @@
 {
-  "tenantId": "mp",
+  "tenantId": "mp.health",
   "moduleName": "tenant",
   "tenants": [
     {
-      "code": "mp",
-      "name": "Bhopal",
+      "code": "mp.health",
+      "name": "Bihar",
       "description": null,
       "logoId": "https://s3-piramal-ilms.s3.amazonaws.com/images/ilms-logo.jpg",
       "imageId": "",
@@ -18,8 +18,8 @@
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Bhopal",
-        "localName": "Bhopal",
+        "name": "Bihar",
+        "localName": "Bihar",
         "districtCode": "D01",
         "districtName": "Bhopal",
         "regionName": "Madhya Pradesh",
@@ -29,7 +29,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "107",
-        "ddrName": "Bhopal-MC"
+        "ddrName": "Bihar-MC"
       },
       "address": "163, Madhusudan Banerjee Rd, Birati, Kolkata, West Bengal 700051",
       "pincode": [700051,700049],
