@@ -1,7 +1,7 @@
 {
   "tenantId": "mp.health",
   "moduleName": "common-masters",
-  "GRNATURE": [
+  "GrNature": [
     {
       "id": 1,
       "state_id": 6,
