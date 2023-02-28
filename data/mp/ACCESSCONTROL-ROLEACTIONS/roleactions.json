@@ -27289,6 +27289,12 @@
     },
 
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 2006,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "BENEFICIARY",
       "actionid": 2007,
       "actioncode": "",
