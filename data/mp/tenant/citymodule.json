@@ -23,12 +23,8 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp"
-        },
-        {
           "code": "mp.health"
         }
-
       ]
     },
     {
