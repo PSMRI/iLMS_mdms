@@ -11,7 +11,7 @@
       "tenants": [
         {
           "code": "mp"
-        }     
+        }
 
       ]
     },	  
@@ -23,9 +23,11 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp",
+          "code": "mp"
+        },
+        {
           "code": "mp.health"
-        }     
+        }
 
       ]
     },
@@ -406,7 +408,9 @@
       "order":2,
       "tenants": [
         {
-          "code": "mp",
+          "code": "mp"
+        },
+        {
           "code": "mp.health"
         }
        
