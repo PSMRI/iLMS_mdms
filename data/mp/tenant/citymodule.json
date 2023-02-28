@@ -19,7 +19,7 @@
       "module": "PGR",
       "code": "PGR",
       "bannerImage": "https://s3-piramal-ilms.s3.amazonaws.com/images/ilms-bgImage.png",
-      "active": active,
+      "active": true,
       "order":2,
       "tenants": [
         {
