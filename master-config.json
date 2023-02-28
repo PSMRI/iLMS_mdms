@@ -157,42 +157,6 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },
-    "GrNature": {
-      "masterName": "GrNature",
-      "moduleDefinition": null,
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
-    },
-    "GrType": {
-      "masterName": "GrType",
-      "moduleDefinition": null,
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
-    },
-    "Taluka": {
-      "masterName": "Taluka",
-      "moduleDefinition": null,
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
-    },
-    "Village": {
-      "masterName": "Village",
-      "moduleDefinition": null,
-      "isStateLevel": false,
-      "uniqueKeys": [
-        "$.code",
-        "$.tenantId"
-      ]
     }
   },
   "egf-master": {
@@ -570,6 +534,24 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
+      ]
+    },
+    "GrNature": {
+      "masterName": "GrNature",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "GrType": {
+      "masterName": "GrType",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
       ]
     }
   },
