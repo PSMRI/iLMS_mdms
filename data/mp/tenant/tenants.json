@@ -32,11 +32,51 @@
         "ddrName": "Bhopal-MC"
       },
       "address": "163, Madhusudan Banerjee Rd, Birati, Kolkata, West Bengal 700051",
-      "pincode": [700051,700049],
+      "pincode": [
+        700051,
+        700049
+      ],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
       "pdfHeader": "MP_PDF",
       "pdfContactDetails": "MP_PDF_CONTACT_DETAILS"
+    },
+    {
+      "code": "mp.health",
+      "name": "Health",
+      "description": null,
+      "logoId": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/WB+Logo.png",
+      "imageId": "",
+      "domainUrl": "",
+      "type": "CITY",
+      "twitterUrl": "",
+      "facebookUrl": "",
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "Health",
+        "localName": "Health",
+        "districtCode": "",
+        "districtName": "",
+        "regionName": "Madhya Pradesh",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "Health-MC"
+      },
+      "address": "1 N S Avenue Serampore Hooghly Pin 712201",
+      "pincode": [],
+      "contactNumber": "",
+      "helpLineNumber": "",
+      "pdfHeader": "WB_HEALTH",
+      "pdfContactDetails": "WB_HEALTH_CONTACT_DETAILS"
     }
-   ]
+  ]
+
 }

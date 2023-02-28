@@ -1,0 +1,311 @@
+{
+  "tenantId": "mp.health",
+  "moduleName": "common-masters",
+  "DISTRICT": 
+[
+  {
+    "state_id": 6,
+    "division_id": 4,
+    "id": 70,
+    "name": "Araria",
+    "code": "ARARIA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 8,
+    "id": 71,
+    "name": "Arwal",
+    "code": "ARWAL",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 8,
+    "id": 72,
+    "name": "Aurangabad",
+    "code": "AURANGABAD",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 5,
+    "id": 73,
+    "name": "Banka",
+    "code": "BANKA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 74,
+    "name": "Begusarai",
+    "code": "BEGUSARAI",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 5,
+    "id": 75,
+    "name": "Bhagalpur",
+    "code": "BHAGALPUR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 76,
+    "name": "Bhojpur",
+    "code": "BHOJPUR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 77,
+    "name": "Buxar",
+    "code": "BUXAR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 6,
+    "id": 78,
+    "name": "Darbhanga",
+    "code": "DARBHANGA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 8,
+    "id": 79,
+    "name": "Gaya",
+    "code": "GAYA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 2,
+    "id": 80,
+    "name": "Gopalganj",
+    "code": "GOPALGANJ",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 81,
+    "name": "Jamui",
+    "code": "JAMUI",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 8,
+    "id": 82,
+    "name": "Jehanabad",
+    "code": "JEHANABAD",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 83,
+    "name": "Kaimur (Bhabua)",
+    "code": "KAIMUR (BHABUA)",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 4,
+    "id": 84,
+    "name": "Katihar",
+    "code": "KATIHAR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 85,
+    "name": "Khagaria",
+    "code": "KHAGARIA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 4,
+    "id": 86,
+    "name": "Kishanganj",
+    "code": "KISHANGANJ",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 87,
+    "name": "Lakhisarai",
+    "code": "LAKHISARAI",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 7,
+    "id": 88,
+    "name": "Madhepura",
+    "code": "MADHEPURA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 6,
+    "id": 89,
+    "name": "Madhubani",
+    "code": "MADHUBANI",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 90,
+    "name": "Munger",
+    "code": "MUNGER",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 91,
+    "name": "Muzaffarpur",
+    "code": "MUZAFFARPUR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 92,
+    "name": "Nalanda",
+    "code": "NALANDA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 8,
+    "id": 93,
+    "name": "Nawada",
+    "code": "NAWADA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 94,
+    "name": "Pashchim Champaran",
+    "code": "PASHCHIM CHAMPARAN",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 95,
+    "name": "Patna",
+    "code": "PATNA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 96,
+    "name": "Purbi Champaran",
+    "code": "PURBI CHAMPARAN",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 4,
+    "id": 97,
+    "name": "Purnia",
+    "code": "PURNIA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 1,
+    "id": 98,
+    "name": "Rohtas",
+    "code": "ROHTAS",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 7,
+    "id": 99,
+    "name": "Saharsa",
+    "code": "SAHARSA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 6,
+    "id": 100,
+    "name": "Samastipur",
+    "code": "SAMASTIPUR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 2,
+    "id": 101,
+    "name": "Saran",
+    "code": "SARAN",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 9,
+    "id": 102,
+    "name": "Sheikhpura",
+    "code": "SHEIKHPURA",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 103,
+    "name": "Sheohar",
+    "code": "SHEOHAR",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 104,
+    "name": "Sitamarhi",
+    "code": "SITAMARHI",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 2,
+    "id": 105,
+    "name": "Siwan",
+    "code": "SIWAN",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 7,
+    "id": 106,
+    "name": "Supaul",
+    "code": "SUPAUL",
+    "active": true
+  },
+  {
+    "state_id": 6,
+    "division_id": 3,
+    "id": 107,
+    "name": "Vaishali",
+    "code": "VAISHALI",
+    "active": true
+  }
+]
+}
