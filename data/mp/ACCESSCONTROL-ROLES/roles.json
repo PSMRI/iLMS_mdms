@@ -56,6 +56,36 @@
       "code": "NATADMIN",
       "name": "National Dashboard Admin",
       "description": "Admin role that as access over a Nation"
+    },
+    {
+      "name": "Administrator",
+      "code": "ADMINISTRATOR",
+      "description": "Admin"
+    },
+    {
+      "name": "HelpDesk",
+      "code": "HELPDESK",
+      "description": "Create Gr"
+    },
+    {
+      "name": "District (L1)",
+      "code": "DISTRICT_L1",
+      "description": "Access District level Gr"
+    },
+    {
+      "name": "Regional(L2)",
+      "code": "REGIONAL_L2",
+      "description": "Access Dvision level Gr"
+    },
+    {
+      "name": "State(L3)",
+      "code": "STATE_L3",
+      "description": "Access State level Gr"
+    },
+    {
+      "name": "Beneficiary",
+      "code": "BENEFICIARY",
+      "description": "Create Gr"
     }
 
    ]
