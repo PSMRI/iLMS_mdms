@@ -6,54 +6,63 @@
       "serviceCode": "Jabalpur",
       "name": "Jabalpur",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Katni",
       "name": "Katni",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Narsinghpur",
       "name": "Narsinghpur",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Seoni",
       "name": "Seoni",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Chhindwara",
       "name": "Chhindwara",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Balaghat",
       "name": "Balaghat",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Mandla",
       "name": "Mandla",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Dindori",
       "name": "Dindori",
       "menuPath": "Jabalpur",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Alirajpur",
       "name": "Alirajpur",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
 
@@ -61,72 +70,84 @@
       "serviceCode": "Barwani",
       "name": "Barwani",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Burhan",
       "name": "Burhan",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Dhar",
       "name": "Dhar",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Indore",
       "name": "Indore",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Jhabua",
       "name": "Jhabua",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Khandwa",
       "name": "Khandwa",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Khargone",
       "name": "Khargone",
       "menuPath": "Indore",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Gwalior",
       "name": "Gwalior",
       "menuPath": "Gwalior",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Shivpuri",
       "name": "Shivpuri",
       "menuPath": "Gwalior",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Guna",
       "name": "Guna",
       "menuPath": "Gwalior",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Datia",
       "name": "Datia",
       "menuPath": "Gwalior",
+      "slaHours" : 336,
       "active": true
     },
     {
       "serviceCode": "Ashoknagar",
       "name": "Ashoknagar",
       "menuPath": "Gwalior",
+      "slaHours" : 336,
       "active": true
     }
   ]}

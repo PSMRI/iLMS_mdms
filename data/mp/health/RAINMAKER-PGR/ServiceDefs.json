@@ -10,6 +10,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },
     {
@@ -20,6 +21,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },
     {
@@ -30,6 +32,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },
     {
@@ -40,6 +43,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },{
       "id" : 393,
@@ -49,6 +53,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },{
       "id" : 392,
@@ -58,6 +63,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },{
       "id" : 391,
@@ -67,6 +73,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     },
     {
@@ -77,6 +84,7 @@
       "stateId":6, 
       "grievanceNatureId" : 40,
       "grievanceTypeId" : 1,
+      "slaHours" : 336,
       "active": true
     }
     ]}
