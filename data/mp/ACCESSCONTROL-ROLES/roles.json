@@ -68,23 +68,73 @@
       "description": "Create Gr"
     },
     {
-      "name": "District (L1)",
-      "code": "DISTRICT_L1",
+      "name": "District (L1) Generic",
+      "code": "DISTRICT_L1_GENERIC",
       "description": "Access District level Gr"
     },
     {
-      "name": "Regional(L2)",
-      "code": "REGIONAL_L2",
+      "name": "District (L1) Asha",
+      "code": "DISTRICT_L1_ASHA",
+      "description": "Access District level Gr"
+    },
+    {
+      "name": "District (L1) Epidemic",
+      "code": "DISTRICT_L1_EPIDEMIC",
+      "description": "Access District level Gr"
+    },
+    {
+      "name": "District (L1) Food Safety",
+      "code": "DISTRICT_L1_FOODSAFETY",
+      "description": "Access District level Gr"
+    },
+    {
+      "name": "Regional(L2) Generic",
+      "code": "REGIONAL_L2_GENERIC",
       "description": "Access Dvision level Gr"
     },
     {
-      "name": "State(L3)",
-      "code": "STATE_L3",
+      "name": "Regional(L2) Asha",
+      "code": "REGIONAL_L2_ASHA",
+      "description": "Access Dvision level Gr"
+    },
+    {
+      "name": "Regional(L2) Epidemic",
+      "code": "REGIONAL_L2_EPIDEMIC",
+      "description": "Access Dvision level Gr"
+    },
+    {
+      "name": "Regional(L2) Food Safety",
+      "code": "REGIONAL_L2_FOODSAFETY",
+      "description": "Access Dvision level Gr"
+    },
+    {
+      "name": "State(L3) Generic",
+      "code": "STATE_L3_GENERIC",
+      "description": "Access State level Gr"
+    },
+    {
+      "name": "State(L3) Asha",
+      "code": "STATE_L3_ASHA",
+      "description": "Access State level Gr"
+    },
+    {
+      "name": "State(L3) Epidemic",
+      "code": "STATE_L3_EPIDEMIC",
+      "description": "Access State level Gr"
+    },
+    {
+      "name": "State(L3) Food Safety",
+      "code": "STATE_L3_FOODSAFETY",
       "description": "Access State level Gr"
     },
     {
       "name": "Beneficiary",
       "code": "BENEFICIARY",
+      "description": "Create Gr"
+    },
+    {
+      "name": "Citizen",
+      "code": "CITIZEN",
       "description": "Create Gr"
     }
 
