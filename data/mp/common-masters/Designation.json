@@ -31,6 +31,13 @@
         "name": "OSD",
         "description": "OSD",
         "active": true
+      },
+      {
+        "code": "DESIG_06",
+        "name": "CMO",
+        "description": "CMO",
+        "active": true
       }
+
     ]
   }
