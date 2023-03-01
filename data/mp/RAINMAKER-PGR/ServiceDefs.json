@@ -3,151 +3,88 @@
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
-      "serviceCode": "Jabalpur",
-      "name": "Jabalpur",
-      "menuPath": "Jabalpur",
+      "id" : 397,
+      "serviceCode": "ConditionalCashTransfer",
+      "name": "Conditional cash transfer/ Direct benefit transfer under various central and state specific schemes",
+      "menuPath": "ConditionalCashTransfer",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
       "slaHours" : 336,
       "active": true
     },
     {
-      "serviceCode": "Katni",
-      "name": "Katni",
-      "menuPath": "Jabalpur",
+      "id" : 396,
+      "serviceCode": "ServicesByTrainedPersonnal",
+      "name": "Services by trained personnal",
+      "menuPath": "ServicesByTrainedPersonnal",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
       "slaHours" : 336,
       "active": true
     },
     {
-      "serviceCode": "Narsinghpur",
-      "name": "Narsinghpur",
-      "menuPath": "Jabalpur",
+      "id" : 395,
+      "serviceCode": "ComprehensiveAbortionCareServices",
+      "name": "Comprehensive Abortion Care Services in line with the MTP Act",
+      "menuPath": "ComprehensiveAbortionCareServices",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
       "slaHours" : 336,
       "active": true
     },
     {
-      "serviceCode": "Seoni",
-      "name": "Seoni",
-      "menuPath": "Jabalpur",
+      "id" : 394,
+      "serviceCode": "PostPartumServicesAndCounseling",
+      "name": "Post-partum services and counseling including for family planning services",
+      "menuPath": "PostPartumServicesAndCounseling",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 393,
+      "serviceCode": "ZeroBirthDoseVaccination",
+      "name": "Zero/Birth dose vaccination",
+      "menuPath": "ZeroBirthDoseVaccination",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 392,
+      "serviceCode": "CashlessServiceForSickNeonatesAndInfants",
+      "name": "Cashless service for sick neonates and infants",
+      "menuPath": "CashlessServiceForSickNeonatesAndInfants",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 391,
+      "serviceCode": "EarlyInitiationAndSupportForBreastfeeding",
+      "name": "Early initiation and support for breastfeeding",
+      "menuPath": "EarlyInitiationAndSupportForBreastfeeding",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
       "slaHours" : 336,
       "active": true
     },
     {
-      "serviceCode": "Chhindwara",
-      "name": "Chhindwara",
-      "menuPath": "Jabalpur",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Balaghat",
-      "name": "Balaghat",
-      "menuPath": "Jabalpur",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Mandla",
-      "name": "Mandla",
-      "menuPath": "Jabalpur",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Dindori",
-      "name": "Dindori",
-      "menuPath": "Jabalpur",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Alirajpur",
-      "name": "Alirajpur",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-
-    {
-      "serviceCode": "Barwani",
-      "name": "Barwani",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Burhan",
-      "name": "Burhan",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Dhar",
-      "name": "Dhar",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Indore",
-      "name": "Indore",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Jhabua",
-      "name": "Jhabua",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Khandwa",
-      "name": "Khandwa",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Khargone",
-      "name": "Khargone",
-      "menuPath": "Indore",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Gwalior",
-      "name": "Gwalior",
-      "menuPath": "Gwalior",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Shivpuri",
-      "name": "Shivpuri",
-      "menuPath": "Gwalior",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Guna",
-      "name": "Guna",
-      "menuPath": "Gwalior",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Datia",
-      "name": "Datia",
-      "menuPath": "Gwalior",
-      "slaHours" : 336,
-      "active": true
-    },
-    {
-      "serviceCode": "Ashoknagar",
-      "name": "Ashoknagar",
-      "menuPath": "Gwalior",
+      "id" : 390,
+      "serviceCode": "CashlessDeliveryAndCSectionFacilityAndManag",
+      "name": "Cashless delivery and C-Section facility and management of complications",
+      "menuPath": "CashlessDeliveryAndCSectionFacilityAndManag",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
       "slaHours" : 336,
       "active": true
     }
-  ]}
+    ]}
