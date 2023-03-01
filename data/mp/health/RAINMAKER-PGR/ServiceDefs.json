@@ -1,0 +1,90 @@
+{
+  "tenantId": "mp.health",
+  "moduleName": "RAINMAKER-PGR",
+  "ServiceDefs": [
+    {
+      "id" : 397,
+      "serviceCode": "ConditionalCashTransfer",
+      "name": "Conditional cash transfer/ Direct benefit transfer under various central and state specific schemes",
+      "menuPath": "ConditionalCashTransfer",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },
+    {
+      "id" : 396,
+      "serviceCode": "ServicesByTrainedPersonnal",
+      "name": "Services by trained personnal",
+      "menuPath": "ServicesByTrainedPersonnal",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },
+    {
+      "id" : 395,
+      "serviceCode": "ComprehensiveAbortionCareServices",
+      "name": "Comprehensive Abortion Care Services in line with the MTP Act",
+      "menuPath": "ComprehensiveAbortionCareServices",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },
+    {
+      "id" : 394,
+      "serviceCode": "PostPartumServicesAndCounseling",
+      "name": "Post-partum services and counseling including for family planning services",
+      "menuPath": "PostPartumServicesAndCounseling",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 393,
+      "serviceCode": "ZeroBirthDoseVaccination",
+      "name": "Zero/Birth dose vaccination",
+      "menuPath": "ZeroBirthDoseVaccination",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 392,
+      "serviceCode": "CashlessServiceForSickNeonatesAndInfants",
+      "name": "Cashless service for sick neonates and infants",
+      "menuPath": "CashlessServiceForSickNeonatesAndInfants",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },{
+      "id" : 391,
+      "serviceCode": "EarlyInitiationAndSupportForBreastfeeding",
+      "name": "Early initiation and support for breastfeeding",
+      "menuPath": "EarlyInitiationAndSupportForBreastfeeding",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    },
+    {
+      "id" : 390,
+      "serviceCode": "CashlessDeliveryAndCSectionFacilityAndManag",
+      "name": "Cashless delivery and C-Section facility and management of complications",
+      "menuPath": "CashlessDeliveryAndCSectionFacilityAndManag",
+      "stateId":6, 
+      "grievanceNatureId" : 40,
+      "grievanceTypeId" : 1,
+      "slaHours" : 336,
+      "active": true
+    }
+    ]}
