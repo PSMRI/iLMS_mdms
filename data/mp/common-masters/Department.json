@@ -1,7 +1,8 @@
 { 
 	"tenantId": "mp",
     	"moduleName": "common-masters",
-    	"Department": [{
+    	"Department": [
+        {
             "name": "DIRECTORATE PUBLIC INSTRUCTION",
             "code": "DP001",
             "active": true
@@ -44,13 +45,12 @@
         {
             "name": "HEALTH",
             "code": "DP009",
-            "active": "true"
+            "active": true
         },
-	{
+	    {
             "name": "HEALTH TEST",
             "code": "DP0010",
-            "active": "true"
+            "active": true
         }
-
     ]
 }
