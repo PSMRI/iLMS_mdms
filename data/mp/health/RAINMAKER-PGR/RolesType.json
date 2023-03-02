@@ -1,0 +1,114 @@
+{
+  "tenantId": "mp.health",
+  "moduleName": "RAINMAKER-PGR",
+  "RolesType": [
+    {
+      "id": 1,
+      "stateId": 6,
+      "roleCode" : "DISTRICT_L1_GENERIC",
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "stateId": 6,
+      "roleCode" : "REGIONAL_L2_GENERIC",
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "stateId": 6,
+      "roleCode" : "STATE_L3_GENERIC",
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "stateId": 6,
+      "roleCode" : "DISTRICT_L1_ASHA",
+      "name": "Asha Complaints",
+      "description": "Asha Complaints",
+      "grTypeCode": "ASHACOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "stateId": 6,
+      "roleCode" : "REGIONAL_L2_ASHA",
+      "name": "Asha Complaints",
+      "description": "Asha Complaints",
+      "grTypeCode": "ASHACOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "stateId": 6,
+      "roleCode" : "STATE_L3_ASHA",
+      "name": "Asha Complaints",
+      "description": "Asha Complaints",
+      "grTypeCode": "ASHACOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "stateId": 6,
+      "roleCode" : "DISTRICT_L1_EPIDEMIC",
+      "name": "Epidemic Complaints",
+      "description": "Epidemic Complaint",
+      "grTypeCode": "EPIDEMICCOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "stateId": 6,
+      "roleCode" : "REGIONAL_L2_EPIDEMIC",
+      "name": "Epidemic Complaints",
+      "description": "Epidemic Complaint",
+      "grTypeCode": "EPIDEMICCOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "stateId": 6,
+      "roleCode" : "STATE_L3_EPIDEMIC",
+      "name": "Epidemic Complaints",
+      "description": "Epidemic Complaint",
+      "grTypeCode": "EPIDEMICCOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "stateId": 6,
+      "roleCOde" : "DISTRICT_L1_FOODSAFETY",
+      "name": "Foodsafety Complaints",
+      "description": "Food Safety Complaints",
+      "grTypeCode": "FOODSAFETYCOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "stateId": 6,
+      "roleCOde" : "REGIONAL_L2_FOODSAFETY",
+      "name": "Foodsafety Complaints",
+      "description": "Food Safety Complaints",
+      "grTypeCode": "FOODSAFETYCOMPLAINTS",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "stateId": 6,
+      "roleCOde" : "STATE_L3_FOODSAFETY",
+      "name": "Foodsafety Complaints",
+      "description": "Food Safety Complaints",
+      "grTypeCode": "FOODSAFETYCOMPLAINTS",
+      "status": "active"
+    }
+      ]
+}

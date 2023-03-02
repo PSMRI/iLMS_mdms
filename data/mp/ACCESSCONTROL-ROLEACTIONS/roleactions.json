@@ -25564,6 +25564,366 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1527,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1527,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2310,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1527,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "HELPDESK",
       "actionid": 1524,
       "actioncode": "",

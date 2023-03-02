@@ -4,7 +4,7 @@
   "GrType": [
     {
       "id": 1,
-      "state_id": 6,
+      "stateId": 6,
       "name": "Generic Complaint",
       "description": "Generic Complaint",
       "status": "active",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "state_id": 6,
+      "stateId": 6,
       "name": "Asha Complaints",
       "description": "Asha Complaints",
       "status": "active",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "state_id": 6,
+      "stateId": 6,
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
       "status": "active",
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "state_id": 6,
+      "stateId": 6,
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
       "status": "active",
