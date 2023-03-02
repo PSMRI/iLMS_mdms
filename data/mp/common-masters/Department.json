@@ -36,11 +36,6 @@
             "code": "DP007",
             "active": true
         },
-	    {
-            "name": "NCC NATIONAL CADET CORE",
-            "code": "DP008",
-            "active": true
-        },
         {
             "name": "Health",
             "code": "HEALTH",
