@@ -1,0 +1,86 @@
+{
+  "tenantId": "mp",
+  "moduleName": "common-masters",
+  "ComplainantType": [
+      {
+        "name": "Administrator",
+        "code": "ADMINISTRATOR",
+        "active": true
+      },
+      {
+        "name": "ASHA",
+        "code": "ASHA",
+        "active": true
+      },
+      {
+        "name": "Asst Nodal Officer",
+        "code": "ASST NODAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "Block Medical Officer",
+        "code": "BLOCK MEDICAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "Chief Medical Officer",
+        "code": "CHIEF MEDICAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "Counsellor",
+        "code": "COUNSELLOR",
+        "active": true
+      },
+      {
+        "name": "Dean Medical College",
+        "code": "DEAN MEDICAL COLLEGE",
+        "active": true
+      },
+      {
+        "name": "Director Medical & Health Department",
+        "code": "DIRECTOR MEDICAL & HEALTH DEPARTMENT",
+        "active": true
+      },
+      {
+        "name": "District Nodal Officer",
+        "code": "DISTRICT NODAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "Division Nodal Officer",
+        "code": "DIVISION NODAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "Doctor",
+        "code": "DOCTOR",
+        "active": true
+      },
+      {
+        "name": "Driver",
+        "code": "DRIVER",
+        "active": true
+      },
+      {
+        "name": "Drug Controller",
+        "code": "DRUG CONTROLLER",
+        "active": true
+      },
+      {
+        "name": "ED-NHM",
+        "code": "ED-NHM",
+        "active": true
+      },
+      {
+        "name": "Facility Nodal Officer",
+        "code": "FACILITY NODAL OFFICER",
+        "active": true
+      },
+      {
+        "name": "General Public",
+        "code": "GENERAL PUBLIC",
+        "active": true
+      }
+  ]
+}
