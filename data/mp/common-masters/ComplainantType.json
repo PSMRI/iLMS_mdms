@@ -14,17 +14,17 @@
       },
       {
         "name": "Asst Nodal Officer",
-        "code": "ASST NODAL OFFICER",
+        "code": "ASST_NODAL_OFFICER",
         "active": true
       },
       {
         "name": "Block Medical Officer",
-        "code": "BLOCK MEDICAL OFFICER",
+        "code": "BLOCK_MEDICAL_OFFICER",
         "active": true
       },
       {
         "name": "Chief Medical Officer",
-        "code": "CHIEF MEDICAL OFFICER",
+        "code": "CHIEF_MEDICAL_OFFICER",
         "active": true
       },
       {
@@ -34,22 +34,22 @@
       },
       {
         "name": "Dean Medical College",
-        "code": "DEAN MEDICAL COLLEGE",
+        "code": "DEAN_MEDICAL_COLLEGE",
         "active": true
       },
       {
         "name": "Director Medical & Health Department",
-        "code": "DIRECTOR MEDICAL & HEALTH DEPARTMENT",
+        "code": "DIRECTOR_MEDICAL_HEALTH_DEPARTMENT",
         "active": true
       },
       {
         "name": "District Nodal Officer",
-        "code": "DISTRICT NODAL OFFICER",
+        "code": "DISTRICT_NODAL_OFFICER",
         "active": true
       },
       {
         "name": "Division Nodal Officer",
-        "code": "DIVISION NODAL OFFICER",
+        "code": "DIVISION_NODAL_OFFICER",
         "active": true
       },
       {
@@ -64,22 +64,22 @@
       },
       {
         "name": "Drug Controller",
-        "code": "DRUG CONTROLLER",
+        "code": "DRUG_CONTROLLER",
         "active": true
       },
       {
         "name": "ED-NHM",
-        "code": "ED-NHM",
+        "code": "ED_NHM",
         "active": true
       },
       {
         "name": "Facility Nodal Officer",
-        "code": "FACILITY NODAL OFFICER",
+        "code": "FACILITY_NODAL_OFFICER",
         "active": true
       },
       {
         "name": "General Public",
-        "code": "GENERAL PUBLIC",
+        "code": "GENERAL_PUBLIC",
         "active": true
       }
   ]
