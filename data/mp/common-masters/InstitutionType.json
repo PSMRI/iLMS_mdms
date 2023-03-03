@@ -183,24 +183,6 @@
       "active": true
     },
     {
-      "id": 21,
-      "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
-      "name": 108,
-      "code": 108,
-      "active": true
-    },
-    {
-      "id": 22,
-      "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
-      "name": 102,
-      "code": 102,
-      "active": true
-    },
-    {
       "id": 23,
       "stateId": 6,
       "districtId": 70,
