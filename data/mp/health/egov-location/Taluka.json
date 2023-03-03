@@ -543,7 +543,7 @@
       "district_id": 91,
       "id": 600,
       "name": "Baruraj (Motipur)",
-      "code": "BARURAJMOTIPUR",
+      "code": "BARURAJ_MOTIPUR",
       "active": true
     },
     {
@@ -711,7 +711,7 @@
       "district_id": 105,
       "id": 732,
       "name": "Bhagwanpur Hat",
-      "code": "BHAGWANPURHAT",
+      "code": "BHAGWANPUR_HAT",
       "active": true
     },
     {
@@ -871,7 +871,7 @@
       "district_id": 79,
       "id": 933,
       "name": "Bodh Gaya",
-      "code": "BODHGAYA",
+      "code": "BODH_GAYA",
       "active": true
     },
     {
@@ -911,7 +911,7 @@
       "district_id": 96,
       "id": 1043,
       "name": "Chakia(Pipra)",
-      "code": "CHAKIAPIPRA",
+      "code": "CHAKIA_PIPRA",
       "active": true
     },
     {
@@ -928,14 +928,6 @@
       "id": 1071,
       "name": "Chanan",
       "code": "CHANAN",
-      "active": true
-    },
-    {
-      "state_id": 6,
-      "district_id": 87,
-      "id": 1072,
-      "name": "Chanan*",
-      "code": "CHANAN*",
       "active": true
     },
     {
@@ -1023,7 +1015,7 @@
       "district_id": 107,
       "id": 1166,
       "name": "Chehra Kalan",
-      "code": "CHEHRAKALAN",
+      "code": "CHEHRA_KALAN",
       "active": true
     },
     {
@@ -1039,7 +1031,7 @@
       "district_id": 74,
       "id": 1179,
       "name": "Cheria Bariarpur",
-      "code": "CHERIABARIARPUR",
+      "code": "CHERIA_BARIARPUR",
       "active": true
     },
     {
@@ -1223,7 +1215,7 @@
       "district_id": 91,
       "id": 1551,
       "name": "Dholi (Moraul)",
-      "code": "DHOLIMORAUL",
+      "code": "DHOLI_MORAUL",
       "active": true
     },
     {
@@ -1279,7 +1271,7 @@
       "district_id": 95,
       "id": 1643,
       "name": "Dulhin Bazar",
-      "code": "DULHINBAZAR",
+      "code": "DULHIN_BAZAR",
       "active": true
     },
     {
@@ -1311,7 +1303,7 @@
       "district_id": 103,
       "id": 1657,
       "name": "Dumri Katsari",
-      "code": "DUMRIKATSARI",
+      "code": "DUMRI_KATSARI",
       "active": true
     },
     {
@@ -1423,7 +1415,7 @@
       "district_id": 79,
       "id": 1843,
       "name": "Gaya Town C.D.Block",
-      "code": "GAYATOWNC.D.BLOCK",
+      "code": "GAYATOWN",
       "active": true
     },
     {
@@ -1447,7 +1439,7 @@
       "district_id": 102,
       "id": 1874,
       "name": "Ghat Kusumbha",
-      "code": "GHATKUSUMBHA",
+      "code": "GHAT_KUSUMBHA",
       "active": true
     },
     {
@@ -1543,7 +1535,7 @@
       "district_id": 78,
       "id": 1963,
       "name": "Gora Bauram",
-      "code": "GORABAURAM",
+      "code": "GORA_BAURAM",
       "active": true
     },
     {
@@ -1751,7 +1743,7 @@
       "district_id": 81,
       "id": 2253,
       "name": "Islamnagar Aliganj",
-      "code": "ISLAMNAGARALIGANJ",
+      "code": "ISLAMNAGAR_ALIGANJ",
       "active": true
     },
     {
@@ -1967,7 +1959,7 @@
       "district_id": 92,
       "id": 2675,
       "name": "Karai Parsurai",
-      "code": "KARAIPARSURAI",
+      "code": "KARAI_PARSURAI",
       "active": true
     },
     {
@@ -2007,7 +1999,7 @@
       "district_id": 93,
       "id": 2732,
       "name": "Kashi Chak",
-      "code": "KASHICHAK",
+      "code": "KASHI_CHAK",
       "active": true
     },
     {
@@ -2239,7 +2231,7 @@
       "district_id": 97,
       "id": 3122,
       "name": "Krityanand Nagar",
-      "code": "KRITYANANDNAGAR",
+      "code": "KRITYANAND_NAGAR",
       "active": true
     },
     {
@@ -2303,7 +2295,7 @@
       "district_id": 78,
       "id": 3206,
       "name": "Kusheshwar Asthan",
-      "code": "KUSHESHWARASTHAN",
+      "code": "KUSHESHWAR_ASTHAN",
       "active": true
     },
     {
@@ -2311,7 +2303,7 @@
       "district_id": 78,
       "id": 3207,
       "name": "Kusheshwar Asthan Purbi",
-      "code": "KUSHESHWARASTHANPURBI",
+      "code": "KUSHESHWAR_ASTHAN_PURBI",
       "active": true
     },
     {
@@ -2359,7 +2351,7 @@
       "district_id": 105,
       "id": 3248,
       "name": "Lakri Nabiganj",
-      "code": "LAKRINABIGANJ",
+      "code": "LAKRI_NABIGANJ",
       "active": true
     },
     {
@@ -2791,7 +2783,7 @@
       "district_id": 92,
       "id": 3927,
       "name": "Nagar Nausa",
-      "code": "NAGARNAUSA",
+      "code": "NAGAR_NAUSA",
       "active": true
     },
     {
@@ -2951,7 +2943,7 @@
       "district_id": 79,
       "id": 4124,
       "name": "Neem Chak Bathani",
-      "code": "NEEMCHAKBATHANI",
+      "code": "NEEM_CHAK_BATHANI",
       "active": true
     },
     {
@@ -2999,7 +2991,7 @@
       "district_id": 80,
       "id": 4266,
       "name": "Pach Deuri",
-      "code": "PACHDEURI",
+      "code": "PACH_DEURI",
       "active": true
     },
     {
@@ -3031,7 +3023,7 @@
       "district_id": 96,
       "id": 4302,
       "name": "Pakri Dayal",
-      "code": "PAKRIDAYAL",
+      "code": "PAKRI_DAYAL",
       "active": true
     },
     {
@@ -3159,7 +3151,7 @@
       "district_id": 107,
       "id": 4444,
       "name": "Paterhi Belsar",
-      "code": "PATERHIBELSAR",
+      "code": "PATERHI_BELSAR",
       "active": true
     },
     {
@@ -3167,7 +3159,7 @@
       "district_id": 95,
       "id": 4465,
       "name": "Patna Rural",
-      "code": "PATNARURAL",
+      "code": "PATNA_RURAL",
       "active": true
     },
     {
@@ -3335,7 +3327,7 @@
       "district_id": 97,
       "id": 4716,
       "name": "Purnia East",
-      "code": "PURNIAEAST",
+      "code": "PURNIA_EAST",
       "active": true
     },
     {
@@ -3391,7 +3383,7 @@
       "district_id": 107,
       "id": 4802,
       "name": "Raja Pakar",
-      "code": "RAJAPAKAR",
+      "code": "RAJA_PAKAR",
       "active": true
     },
     {
@@ -3455,7 +3447,7 @@
       "district_id": 87,
       "id": 4879,
       "name": "Ramgarh Chowk",
-      "code": "RAMGARHCHOWK",
+      "code": "RAMGARH_CHOWK",
       "active": true
     },
     {
@@ -3487,7 +3479,7 @@
       "district_id": 75,
       "id": 4920,
       "name": "Rangra Chowk",
-      "code": "RANGRACHOWK",
+      "code": "RANGRA_CHOWK",
       "active": true
     },
     {
@@ -3503,7 +3495,7 @@
       "district_id": 82,
       "id": 4954,
       "name": "Ratni Faridpur",
-      "code": "RATNIFARIDPUR",
+      "code": "RATNI_FARIDPUR",
       "active": true
     },
     {
@@ -3591,7 +3583,7 @@
       "district_id": 107,
       "id": 5091,
       "name": "Sahdai Buzurg",
-      "code": "SAHDAIBUZURG",
+      "code": "SAHDAI_BUZURG",
       "active": true
     },
     {
@@ -3607,7 +3599,7 @@
       "district_id": 74,
       "id": 5093,
       "name": "Sahebpur Kamal",
-      "code": "SAHEBPURKAMAL",
+      "code": "SAHEBPUR_KAMAL",
       "active": true
     },
     {
@@ -3687,7 +3679,7 @@
       "district_id": 106,
       "id": 5210,
       "name": "Saraigarh Bhaptiyahi",
-      "code": "SARAIGARHBHAPTIYAHI",
+      "code": "SARAIGARH_BHAPTIYAHI",
       "active": true
     },
     {
@@ -3727,7 +3719,7 @@
       "district_id": 99,
       "id": 5252,
       "name": "Satar Kataiya",
-      "code": "SATARKATAIYA",
+      "code": "SATAR_KATAIYA",
       "active": true
     },
     {
@@ -3735,7 +3727,7 @@
       "district_id": 99,
       "id": 5267,
       "name": "Saur Bazar",
-      "code": "SAURBAZAR",
+      "code": "SAUR_BAZAR",
       "active": true
     },
     {
@@ -3767,7 +3759,7 @@
       "district_id": 74,
       "id": 5354,
       "name": "Shamho Akha Kurha",
-      "code": "SHAMHOAKHAKURHA",
+      "code": "SHAMHO_AKHA_KURHA",
       "active": true
     },
     {
@@ -3791,7 +3783,7 @@
       "district_id": 102,
       "id": 5373,
       "name": "Shekhopur Sarai",
-      "code": "SHEKHOPURSARAI",
+      "code": "SHEKHOPUR_SARAI",
       "active": true
     },
     {
@@ -3823,7 +3815,7 @@
       "district_id": 100,
       "id": 5398,
       "name": "Shivaji Nagar",
-      "code": "SHIVAJINAGAR",
+      "code": "SHIVAJI_NAGAR",
       "active": true
     },
     {
@@ -3887,7 +3879,7 @@
       "district_id": 99,
       "id": 5456,
       "name": "Simri Bakhtiarpur",
-      "code": "SIMRIBAKHTIARPUR",
+      "code": "SIMRI_BAKHTIARPUR",
       "active": true
     },
     {
@@ -3959,7 +3951,7 @@
       "district_id": 71,
       "id": 5551,
       "name": "Sonbhadra Banshi Suryapur",
-      "code": "SONBHADRABANSHISURYAPUR",
+      "code": "SONBHADRA_BANSHI_SURYAPUR",
       "active": true
     },
     {
@@ -4063,7 +4055,7 @@
       "district_id": 79,
       "id": 5713,
       "name": "Tan Kuppa",
-      "code": "TANKUPPA",
+      "code": "TAN_KUPPA",
       "active": true
     },
     {
@@ -4103,7 +4095,7 @@
       "district_id": 103,
       "id": 5733,
       "name": "Tariani Chowk",
-      "code": "TARIANICHOWK",
+      "code": "TARIANI_CHOWK",
       "active": true
     },
     {
@@ -4135,7 +4127,7 @@
       "district_id": 90,
       "id": 5768,
       "name": "Tetiha Bambor",
-      "code": "TETIHABAMBOR",
+      "code": "TETIHA_BAMBOR",
       "active": true
     },
     {
@@ -4215,7 +4207,7 @@
       "district_id": 76,
       "id": 5992,
       "name": "Udwant Nagar",
-      "code": "UDWANTNAGAR",
+      "code": "UDWANT_NAGAR",
       "active": true
     },
     {
@@ -4239,7 +4231,7 @@
       "district_id": 100,
       "id": 6148,
       "name": "Vidyapati Nagar",
-      "code": "VIDYAPATINAGAR",
+      "code": "VIDYAPATI_NAGAR",
       "active": true
     },
     {
@@ -4327,7 +4319,7 @@
       "district_id": 95,
       "id": 6288,
       "name": "PATNA SADAR",
-      "code": "PATNASADAR",
+      "code": "PATNA_SADAR",
       "active": true
     },
     {
@@ -4359,7 +4351,7 @@
       "district_id": 95,
       "id": 6292,
       "name": "PHULWARI SHARIF",
-      "code": "PHULWARISHARIF",
+      "code": "PHULWARI_SHARIF",
       "active": true
     },
     {

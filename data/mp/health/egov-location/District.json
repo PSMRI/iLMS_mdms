@@ -112,7 +112,7 @@
     "division_id": 1,
     "id": 83,
     "name": "Kaimur (Bhabua)",
-    "code": "KAIMUR (BHABUA)",
+    "code": "KAIMUR_BHABUA",
     "active": true
   },
   {
@@ -200,7 +200,7 @@
     "division_id": 3,
     "id": 94,
     "name": "Pashchim Champaran",
-    "code": "PASHCHIM CHAMPARAN",
+    "code": "PASHCHIM_CHAMPARAN",
     "active": true
   },
   {
@@ -216,7 +216,7 @@
     "division_id": 3,
     "id": 96,
     "name": "Purbi Champaran",
-    "code": "PURBI CHAMPARAN",
+    "code": "PURBI_CHAMPARAN",
     "active": true
   },
   {
