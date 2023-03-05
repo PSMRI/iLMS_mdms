@@ -5,15 +5,19 @@
     {
       "id": 1,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "DISTRICT_L1_GENERIC",
-      "name": "Generic Complaint",
-      "description": "Generic Complaint",
       "grTypeCode": "GENERICCOMPLAINT",
       "status": "active"
     },
     {
       "id": 2,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "REGIONAL_L2_GENERIC",
       "name": "Generic Complaint",
       "description": "Generic Complaint",
@@ -23,6 +27,9 @@
     {
       "id": 3,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "STATE_L3_GENERIC",
       "name": "Generic Complaint",
       "description": "Generic Complaint",
@@ -32,6 +39,9 @@
     {
       "id": 4,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "DISTRICT_L1_ASHA",
       "name": "Asha Complaints",
       "description": "Asha Complaints",
@@ -41,6 +51,9 @@
     {
       "id": 5,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "REGIONAL_L2_ASHA",
       "name": "Asha Complaints",
       "description": "Asha Complaints",
@@ -50,6 +63,9 @@
     {
       "id": 6,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "STATE_L3_ASHA",
       "name": "Asha Complaints",
       "description": "Asha Complaints",
@@ -59,6 +75,9 @@
     {
       "id": 7,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "DISTRICT_L1_EPIDEMIC",
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
@@ -68,6 +87,9 @@
     {
       "id": 8,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "REGIONAL_L2_EPIDEMIC",
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
@@ -77,6 +99,9 @@
     {
       "id": 9,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "STATE_L3_EPIDEMIC",
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
@@ -86,6 +111,9 @@
     {
       "id": 10,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCOde" : "DISTRICT_L1_FOODSAFETY",
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
@@ -95,6 +123,9 @@
     {
       "id": 11,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCOde" : "REGIONAL_L2_FOODSAFETY",
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
@@ -104,6 +135,9 @@
     {
       "id": 12,
       "stateId": 6,
+      "divisionId" : 1,
+      "districtId" : 70,
+      "grCategoryCode" : "ConditionalCashTransfer",
       "roleCOde" : "STATE_L3_FOODSAFETY",
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
