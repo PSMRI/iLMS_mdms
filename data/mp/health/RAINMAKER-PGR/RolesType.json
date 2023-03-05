@@ -10,7 +10,7 @@
       "grCategoryCode" : "ConditionalCashTransfer",
       "roleCode" : "DISTRICT_L1_GENERIC",
       "grTypeCode": "GENERICCOMPLAINT",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "name": "Generic Complaint",
       "description": "Generic Complaint",
       "grTypeCode": "GENERICCOMPLAINT",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "name": "Generic Complaint",
       "description": "Generic Complaint",
       "grTypeCode": "GENERICCOMPLAINT",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
       "name": "Asha Complaints",
       "description": "Asha Complaints",
       "grTypeCode": "ASHACOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
       "name": "Asha Complaints",
       "description": "Asha Complaints",
       "grTypeCode": "ASHACOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 6,
@@ -70,7 +70,7 @@
       "name": "Asha Complaints",
       "description": "Asha Complaints",
       "grTypeCode": "ASHACOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 7,
@@ -82,7 +82,7 @@
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
       "grTypeCode": "EPIDEMICCOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 8,
@@ -94,7 +94,7 @@
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
       "grTypeCode": "EPIDEMICCOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 9,
@@ -106,7 +106,7 @@
       "name": "Epidemic Complaints",
       "description": "Epidemic Complaint",
       "grTypeCode": "EPIDEMICCOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 10,
@@ -118,7 +118,7 @@
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
       "grTypeCode": "FOODSAFETYCOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 11,
@@ -130,7 +130,7 @@
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
       "grTypeCode": "FOODSAFETYCOMPLAINTS",
-      "status": "active"
+      "active" : true
     },
     {
       "id": 12,
@@ -142,7 +142,7 @@
       "name": "Foodsafety Complaints",
       "description": "Food Safety Complaints",
       "grTypeCode": "FOODSAFETYCOMPLAINTS",
-      "status": "active"
+      "active" : true
     }
       ]
 }
