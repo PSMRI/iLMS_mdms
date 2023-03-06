@@ -55,6 +55,11 @@
             "name": "Compliance Monitoring by decided level",
             "code": "CMD",
             "active": true
+        },
+	{
+            "name": " After Notice for Admission",
+            "code": " After_Notice_for_Admission",
+            "active": true
         }
         
     ]
