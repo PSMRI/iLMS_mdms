@@ -11,27 +11,27 @@
             "code": "Individual",
             "active": true
         },
-	{
+	    {
             "name": "Contract Teacher",
             "code": "Contract_Teacher",
             "active": true
         },
-	{
+	    {
             "name": "Assistant Teacher",
             "code": "Assistant_Teacher",
             "active": true
         },
-      {
+        {
             "name": "Retired Teacher",
             "code": "Retired_Teacher",
             "active": true
         },
-	{
+	    {
             "name": "Guest Teacher",
             "code": "Guest_Teacher",
             "active": true
         },
-      {
+        {
             "name": "Headmaster",
             "code": "Headmaster",
             "active": true

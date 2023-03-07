@@ -36,11 +36,25 @@
             "code": "DP007",
             "active": true
         },
-	    {
+        {
             "name": "NCC NATIONAL CADET CORE",
             "code": "DP008",
             "active": true
+        },
+        {
+            "name": "HEALTH DP",
+            "code": "DP008",
+            "active": true
+        },
+        {
+            "name": "HEALTH",
+            "code": "DP009",
+            "active": true
+        },
+	    {
+            "name": "HEALTH TEST",
+            "code": "DP0010",
+            "active": true
         }
-
     ]
 }

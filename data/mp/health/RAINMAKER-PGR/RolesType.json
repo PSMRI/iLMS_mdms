@@ -1,0 +1,40 @@
+{
+  "tenantId": "mp.health",
+  "moduleName": "RAINMAKER-PGR",
+  "RolesType": [
+    {
+      "id": 1,
+      "stateCode": "BH",
+      "divisionCode" : "PATNA",
+      "districtCode" : "BHOJPUR",
+      "grCategoryCode" : "ConditionalCashTransferDirectBenefitTransfer",
+      "roleCode" : "DISTRICT_L1_GENERIC",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "active" : true
+    },
+    {
+      "id": 2,
+      "stateCode": "BH",
+      "divisionCode" : "PATNA",
+      "districtCode" : "",
+      "grCategoryCode" : "ConditionalCashTransferDirectBenefitTransfer",
+      "roleCode" : "REGIONAL_L2_GENERIC",
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "active" : true
+    },
+    {
+      "id": 3,
+      "stateCode": "BH",
+      "divisionCode" : "",
+      "districtCode" : "",
+      "grCategoryCode" : "ConditionalCashTransferDirectBenefitTransfer",
+      "roleCode" : "STATE_L3_GENERIC",
+      "name": "Generic Complaint",
+      "description": "Generic Complaint",
+      "grTypeCode": "GENERICCOMPLAINT",
+      "active" : true
+    }
+  ]
+}

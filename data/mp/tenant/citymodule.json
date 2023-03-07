@@ -11,21 +11,19 @@
       "tenants": [
         {
           "code": "mp"
-        }     
-
+        }
       ]
     },	  
     {
       "module": "PGR",
       "code": "PGR",
-      "bannerImage": "https://egov-uatassets.s3.ap-south-1.amazonaws.com/Wallpaper.png",
-      "active": false,
+      "bannerImage": "https://s3-piramal-ilms.s3.amazonaws.com/images/ilms-bgImage.png",
+      "active": true,
       "order":2,
       "tenants": [
         {
-          "code": "mp"
-        }     
-
+          "code": "mp.health"
+        }
       ]
     },
     {
@@ -406,6 +404,9 @@
       "tenants": [
         {
           "code": "mp"
+        },
+        {
+          "code": "mp.health"
         }
        
       ]

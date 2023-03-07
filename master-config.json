@@ -73,7 +73,8 @@
       ]
     }
   },
-  "common-masters": {
+  "common-masters":
+  {
     "uiCommonPay": {
       "masterName": "uiCommonPay",
       "isStateLevel": true,
@@ -533,6 +534,24 @@
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
+      ]
+    },
+    "GrNature": {
+      "masterName": "GrNature",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "GrType": {
+      "masterName": "GrType",
+      "moduleDefinition": null,
+      "isStateLevel": false,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
       ]
     }
   },
