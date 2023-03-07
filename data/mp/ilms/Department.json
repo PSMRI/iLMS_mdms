@@ -1,8 +1,7 @@
 { 
 	"tenantId": "mp",
     	"moduleName": "ilms",
-    	"Department": [
-        {
+    	"Department": [{
             "name": "DIRECTORATE PUBLIC INSTRUCTION",
             "code": "DP001",
             "active": true
@@ -41,11 +40,6 @@
             "name": "NCC NATIONAL CADET CORE",
             "code": "DP008",
             "active": true
-        },
-        {
-            "name": "Health",
-            "code": "HEALTH",
-            "active": "true"
         }
 
     ]
