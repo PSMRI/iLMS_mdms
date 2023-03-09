@@ -30856,12 +30856,6 @@
       "actionid": 1527,
       "actioncode": "",
       "tenantId": "mp"
-    },
-{
-      "rolecode": "DEC",
-      "actionid": 2431,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
+    }
   ]
 }
