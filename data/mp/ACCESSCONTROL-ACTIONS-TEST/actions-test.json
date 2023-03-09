@@ -13227,19 +13227,7 @@
       "serviceCode": "ilms",
       "code": "null",
       "path": ""
-    },
-    {
-         "id": 2431,
-         "name": "DSS Dashboard Config Overview for ilms",
-         "url": "/dashboard-analytics/dashboard/getDashboardConfig/ilms",
-         "parentModule": "",
-         "displayName": "DSS",
-         "orderNumber": 0,
-         "enabled": true,
-         "serviceCode": "DSS",
-         "code": "null",
-         "path": ""
-      }
+    }
 	   
    ]
 }

@@ -32,7 +32,10 @@
         "ddrName": "Bhopal-MC"
       },
       "address": "163, Madhusudan Banerjee Rd, Birati, Kolkata, West Bengal 700051",
-      "pincode": [700051,700049],
+      "pincode": [
+        700051,
+        700049
+      ],
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300",
       "pdfHeader": "MP_PDF",

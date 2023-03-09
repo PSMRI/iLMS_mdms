@@ -13324,7 +13324,7 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 2431,
+      "actionid": 1886,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -27084,6 +27084,7 @@
       "actioncode": "",
       "tenantId": "mp"
     },
+
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2007,

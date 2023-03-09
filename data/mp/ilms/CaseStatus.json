@@ -45,13 +45,7 @@
             "name": "Disposed off",
             "code": "DIO009",
             "active": true
-        },
-	{
-            "name": "Pending for Notice",
-            "code": "Pending_for_Notice",
-            "active": true
         }
-
         
     ]
 }
