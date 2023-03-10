@@ -57,13 +57,6 @@
       "code": "EDU",
       "active": "true",
       "tenantId": "default"
-    },
-    {
-      "id": "12",
-      "name": "Health",
-      "code": "HEALTH",
-      "active": "true",
-      "tenantId": "default"
     }
   ]
 }

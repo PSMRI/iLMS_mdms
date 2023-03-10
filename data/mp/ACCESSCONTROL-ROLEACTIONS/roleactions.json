@@ -13324,7 +13324,7 @@
     },
     {
       "rolecode": "STADMIN",
-      "actionid": 1886,
+      "actionid": 2431,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -27084,7 +27084,6 @@
       "actioncode": "",
       "tenantId": "mp"
     },
-
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2007,
@@ -27129,50 +27128,43 @@
       "actionid": 2034,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2035,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2036,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2037,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2038,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2039,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2040,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2041,
@@ -27184,8 +27176,7 @@
       "actionid": 2042,
       "actioncode": "",
       "tenantId": "mp"
-    }
-  ,
+    },
     {
       "rolecode": "BENEFICIARY",
       "actionid": 2043,
