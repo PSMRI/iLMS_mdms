@@ -1,7 +1,8 @@
 { 
 	"tenantId": "mp",
     	"moduleName": "common-masters",
-    	"Department": [{
+    	"Department": [
+        {
             "name": "DIRECTORATE PUBLIC INSTRUCTION",
             "code": "DP001",
             "active": true
@@ -17,7 +18,7 @@
             "active": true
         },
 	    {
-            "name": "OPEN SCHOOL SCHOOL",
+            "name": "OPEN SCHOOL",
             "code": "DP004",
             "active": true
         },
@@ -27,18 +28,13 @@
             "active": true
         },
 	    {
-            "name": "TEXT BOOK CORP.",
+            "name": "TEXT BOOK CORP",
             "code": "DP006",
             "active": true
         },
 	    {
             "name": "SCOUT AND GUIDE",
             "code": "DP007",
-            "active": true
-        },
-        {
-            "name": "NCC NATIONAL CADET CORE",
-            "code": "DP008",
             "active": true
         },
         {

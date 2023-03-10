@@ -2,8 +2,8 @@
 	"tenantId": "mp",
     	"moduleName": "common-masters",
     	"PetitionerType": [{
-            "name": "Private Teacher",
-            "code": "Private_Teacher",
+            "name": "Assistant",
+            "code": "A001",
             "active": true
         },
         {
