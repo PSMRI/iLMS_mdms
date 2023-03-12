@@ -25462,6 +25462,30 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "DISTRICT_L1_GENERIC",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_ASHA",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_EPIDEMIC",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_FOODSAFETY",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "STATE_L3_GENERIC",
       "actionid": 2008,
       "actioncode": "",
