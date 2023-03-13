@@ -1,50 +1,11 @@
 {
   "tenantId": "mp.health",
   "moduleName": "RAINMAKER-PGR",
-  "ServiceDefs": [ {
-    "id" : 86,
-    "serviceCode" : "UnavailabilityOfDoctorsStaff",
-    "name" : "Unavailability of Doctors/Staff",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 87,
-    "serviceCode" : "UnavailabilityOfDrugs",
-    "name" : "Unavailability of Drugs",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  "ServiceDefs": [
+    {
     "id" : 88,
     "serviceCode" : "UnavailabilityOfXrayServices",
     "name" : "Unavailability of X-Ray Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 89,
-    "serviceCode" : "UnavailabilityOfUltrasoundServices",
-    "name" : "Unavailability of Ultrasound Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 90,
-    "serviceCode" : "UnavailabilityOfPathologicalServices",
-    "name" : "Unavailability of Pathological Services",
     "stateId" : 6,
     "menuPath" : "GeneralServices",
     "grievanceNatureId" : 37,
@@ -61,17 +22,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 92,
-    "serviceCode" : "AdmissionOfPatients",
-    "name" : "Admission of Patients",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },{
     "id" : 93,
     "serviceCode" : "Others",
     "name" : "Others",
@@ -81,47 +32,8 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 94,
-    "serviceCode" : "Flood",
-    "name" : "Flood",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 95,
-    "serviceCode" : "Earthquake",
-    "name" : "Earthquake",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 96,
-    "serviceCode" : "Heatstroke",
-    "name" : "Heatstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 97,
-    "serviceCode" : "Coldstroke",
-    "name" : "Coldstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 98,
     "serviceCode" : "Others",
     "name" : "Others",
@@ -131,27 +43,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 99,
-    "serviceCode" : "Accident",
-    "name" : "Accident",
-    "stateId" : 6,
-    "menuPath" : "Accident",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 100,
-    "serviceCode" : "LakshyaProgram",
-    "name" : "Lakshya program",
-    "stateId" : 6,
-    "menuPath" : "MaternalHealthProgram",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },   {
     "id" : 101,
     "serviceCode" : "MamtaProgram",
     "name" : "Mamta program",
@@ -371,40 +263,11 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 123,
-    "serviceCode" : "Kalazar",
-    "name" : "Kalazar",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgram",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 124,
-    "serviceCode" : "Malaria",
-    "name" : "Malaria",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgram",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 125,
     "serviceCode" : "Jeaes",
     "name" : "JE/AES",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgram",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 126,
-    "serviceCode" : "DengueAndChikungunya",
-    "name" : "Dengue and Chikungunya",
     "stateId" : 6,
     "menuPath" : "NationalVectorBornDiseasesControlProgram",
     "grievanceNatureId" : 37,
@@ -441,17 +304,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 130,
-    "serviceCode" : "Npcdcs",
-    "name" : "NPCDCS",
-    "stateId" : 6,
-    "menuPath" : "Npcdcs",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },{
     "id" : 131,
     "serviceCode" : "Nphce",
     "name" : "NPHCE",
@@ -482,26 +335,6 @@
     "slaHours" : 336,
     "active" : true
   }, {
-    "id" : 134,
-    "serviceCode" : "NonAvailabilityOfAmbulance",
-    "name" : "Non availability of Ambulance",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransport-AmbulanceService",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 135,
-    "serviceCode" : "DemandOfMoneyAgainstFreeService",
-    "name" : "Demand of Money against free service",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransport-AmbulanceService",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
     "id" : 136,
     "serviceCode" : "RegardingNonFunctionalityOfCallCenter",
     "name" : "Regarding non-functionality of Call Center",
@@ -521,37 +354,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 138,
-    "serviceCode" : "MukhyamantriKanyaUtthanYojanaMkuy",
-    "name" : "Mukhyamantri Kanya Utthan Yojana (MKUY)",
-    "stateId" : 6,
-    "menuPath" : "MukhyamantriKanyaUtthanYojana",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 139,
-    "serviceCode" : "General",
-    "name" : "General",
-    "stateId" : 6,
-    "menuPath" : "Pc-pndt",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 140,
-    "serviceCode" : "ComplainRegardingSexDetermination",
-    "name" : "Complain regarding Sex-determination",
-    "stateId" : 6,
-    "menuPath" : "Pc-pndt",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },   {
     "id" : 141,
     "serviceCode" : "AdministrativeStaffs",
     "name" : "Administrative Staffs",
@@ -881,37 +684,8 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 174,
-    "serviceCode" : "UnavailabilityOfDoctorsStaff",
-    "name" : "Unavailability of Doctors/Staff",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 175,
-    "serviceCode" : "UnavailabilityOfDrugs",
-    "name" : "Unavailability of Drugs",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 176,
-    "serviceCode" : "BloodBankRelated",
-    "name" : "Blood Bank Related",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 177,
     "serviceCode" : "DemandOfMoneyAgainstFreeServicesExceptRt",
     "name" : "Demand of Money against free services-Except RT & ASHA",
@@ -921,17 +695,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 178,
-    "serviceCode" : "Accident",
-    "name" : "Accident",
-    "stateId" : 6,
-    "menuPath" : "Accident",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 179,
     "serviceCode" : "LakshyaProgramme",
     "name" : "Lakshya Programme",
@@ -951,37 +715,8 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 181,
-    "serviceCode" : "UnavailabilityOfXRayServices",
-    "name" : "Unavailability of X-Ray Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 182,
-    "serviceCode" : "BloodBankRelated",
-    "name" : "Blood Bank Related",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 183,
-    "serviceCode" : "UnavailabilityOfUltrasoundServices",
-    "name" : "Unavailability of Ultrasound Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 184,
     "serviceCode" : "DemandOfMoneyAgainstFreeServicesExceptRt",
     "name" : "Demand of Money against free services-Except RT & ASHA",
@@ -991,17 +726,8 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 185,
-    "serviceCode" : "AdmissionOfPatients",
-    "name" : "Admission of Patients",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 186,
     "serviceCode" : "Others",
     "name" : "Others",
@@ -1011,47 +737,8 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 187,
-    "serviceCode" : "UnavailabilityOfPathologicalServices",
-    "name" : "Unavailability of Pathological Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 188,
-    "serviceCode" : "Flood",
-    "name" : "Flood",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 189,
-    "serviceCode" : "Heatstroke",
-    "name" : "Heatstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 190,
-    "serviceCode" : "Coldstroke",
-    "name" : "Coldstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 191,
     "serviceCode" : "Others",
     "name" : "Others",
@@ -1061,27 +748,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 192,
-    "serviceCode" : "Accident",
-    "name" : "Accident",
-    "stateId" : 6,
-    "menuPath" : "Accident",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 193,
-    "serviceCode" : "LakshyaProgramme",
-    "name" : "Lakshya Programme",
-    "stateId" : 6,
-    "menuPath" : "MaternalHealthProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 194,
     "serviceCode" : "JbsyJananiBalSurakshaYojanaPayment",
     "name" : "JBSY (Janani Bal Suraksha Yojana) Payment ",
@@ -1301,67 +968,8 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 216,
-    "serviceCode" : "Malaria",
-    "name" : "Malaria",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 217,
-    "serviceCode" : "Je/aes",
-    "name" : "JE/AES",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 218,
-    "serviceCode" : "DengueAndChikungunya",
-    "name" : "Dengue and Chikungunya",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 219,
-    "serviceCode" : "NationalFilariaControlProgramme",
-    "name" : "National  Filaria Control Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalFilariaControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 220,
-    "serviceCode" : "NationalBlindnessControlProgramme",
-    "name" : "National  Blindness Control Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalBlindnessControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 221,
-    "serviceCode" : "NationalMentalHealthProgramme",
-    "name" : "National  Mental Health Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalMentalHealthProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 222,
     "serviceCode" : "NationalProgrammeNpcdcs",
     "name" : "National Programme For Prevention and Control of Cancer, diabetes, Cardiovascular Diseases & Stroke ",
@@ -1381,57 +989,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 224,
-    "serviceCode" : "NationalLeprosyEliminationProgramme",
-    "name" : "National Leprosy Elimination Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalLeprosyEliminationProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 225,
-    "serviceCode" : "RevisedNationalTuberculosisControlProgramme",
-    "name" : "Revised National Tuberculosis Control Programme",
-    "stateId" : 6,
-    "menuPath" : "RevisedNationalTuberculosisControlProgramme",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 226,
-    "serviceCode" : "NonAvailabilityOfAmbulance",
-    "name" : "Non availability of Ambulance",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransport-AmbulanceService",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 227,
-    "serviceCode" : "DemandOfMoneyAgainstFreeService",
-    "name" : "Demand of Money against free service",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransportAmbulanceService",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 228,
-    "serviceCode" : "RegardingNonfunctionalityOfCallCentre",
-    "name" : "Regarding non-functionality of Call Centre",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransportAmbulanceService",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 229,
     "serviceCode" : "Others",
     "name" : "Others",
@@ -1441,37 +999,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 230,
-    "serviceCode" : "MukhyamantriKanyaUtthanYojanaMkuy",
-    "name" : "Mukhyamantri Kanya Utthan Yojana (MKUY)",
-    "stateId" : 6,
-    "menuPath" : "MukhyamantriKanyaUtthanYojana",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 231,
-    "serviceCode" : "General",
-    "name" : "General",
-    "stateId" : 6,
-    "menuPath" : "Pc-pndt",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 232,
-    "serviceCode" : "ComplainRegardingSexDetermination",
-    "name" : "Complain regarding SexDetermination",
-    "stateId" : 6,
-    "menuPath" : "Pc-pndt",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 233,
     "serviceCode" : "AdministrativeStaffs",
     "name" : "Administrative Staffs",
@@ -1479,16 +1007,6 @@
     "menuPath" : "AdministrativeStaffs",
     "grievanceNatureId" : 38,
     "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 234,
-    "serviceCode" : "RevisedNationalTuberculosisControlProgramme",
-    "name" : "Revised National Tuberculosis Control Programme",
-    "stateId" : 6,
-    "menuPath" : "RevisedNationalTuberculosisControlProgram",
-    "grievanceNatureId" : 37,
-    "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
   }, {
@@ -1811,132 +1329,13 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 267,
-    "serviceCode" : "UnavailabilityOfDoctorsStaff",
-    "name" : "Unavailability of Doctors/Staff",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 268,
-    "serviceCode" : "UnavailabilityOfDrugs",
-    "name" : "Unavailability of Drugs",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 269,
-    "serviceCode" : "BloodBankRelated",
-    "name" : "Blood Bank Related",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 38,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 270,
-    "serviceCode" : "UnavailabilityOfXRayServices",
-    "name" : "Unavailability of X-Ray Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 271,
-    "serviceCode" : "UnavailabilityOfPathologicalServices",
-    "name" : "Unavailability of Pathological Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 272,
-    "serviceCode" : "UnavailabilityOfUltrasoundServices",
-    "name" : "Unavailability of Ultrasound Services",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 273,
-    "serviceCode" : "DemandOfMoneyAgainstFreeServices",
-    "name" : "Demand of Money against free services (Except RT & ASHA)",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 274,
-    "serviceCode" : "AdmissionOfPatients",
-    "name" : "Admission of Patients",
-    "stateId" : 6,
-    "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },
+    {
     "id" : 275,
     "serviceCode" : "Others",
     "name" : "Others",
     "stateId" : 6,
     "menuPath" : "GeneralServices",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 276,
-    "serviceCode" : "Flood",
-    "name" : "Flood",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 277,
-    "serviceCode" : "Earthquake",
-    "name" : "Earthquake",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 278,
-    "serviceCode" : "Heatstroke",
-    "name" : "Heatstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 279,
-    "serviceCode" : "Coldstroke",
-    "name" : "Coldstroke",
-    "stateId" : 6,
-    "menuPath" : "NaturalDisaster",
     "grievanceNatureId" : 8,
     "grievanceTypeId" : 1,
     "slaHours" : 336,
@@ -1951,27 +1350,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 281,
-    "serviceCode" : "Accident",
-    "name" : "Accident",
-    "stateId" : 6,
-    "menuPath" : "Accident",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 282,
-    "serviceCode" : "LakshyaProgramme",
-    "name" : "Lakshya Programme",
-    "stateId" : 6,
-    "menuPath" : "MaternalHealthProgramme",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 283,
     "serviceCode" : "MamtaProgramme",
     "name" : "Mamta Programme",
@@ -2271,17 +1650,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 313,
-    "serviceCode" : "Nphce",
-    "name" : "NPHCE",
-    "stateId" : 6,
-    "menuPath" : "NationalLeprosyEliminationProgramme",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 314,
     "serviceCode" : "NationalLeprosyEliminationProgramme",
     "name" : "National Leprosy Elimination Programme",
@@ -2341,27 +1710,7 @@
     "grievanceTypeId" : 1,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 320,
-    "serviceCode" : "MukhyamantriKanyaUtthanYojanaMkuy",
-    "name" : "Mukhyamantri Kanya Utthan Yojana (MKUY)",
-    "stateId" : 6,
-    "menuPath" : "MukhyamantriKanyaUtthanYojana",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 321,
-    "serviceCode" : "General",
-    "name" : "General",
-    "stateId" : 6,
-    "menuPath" : "Pc-pndt",
-    "grievanceNatureId" : 8,
-    "grievanceTypeId" : 1,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 322,
     "serviceCode" : "ComplainRegardingSexDetermination",
     "name" : "Complain regarding Sex-determination",
@@ -2421,17 +1770,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 328,
-    "serviceCode" : "LakshyaProgramme",
-    "name" : "Lakshya Programme",
-    "stateId" : 6,
-    "menuPath" : "MaternalHealthProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 329,
     "serviceCode" : "MamtaProgramme",
     "name" : "Mamta Programme",
@@ -2662,16 +2001,6 @@
     "slaHours" : 336,
     "active" : true
   }, {
-    "id" : 352,
-    "serviceCode" : "Malaria",
-    "name" : "Malaria",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
     "id" : 353,
     "serviceCode" : "JeAes",
     "name" : "JE/AES",
@@ -2681,47 +2010,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 354,
-    "serviceCode" : "DengueAndChikungunya",
-    "name" : "Dengue and Chikungunya",
-    "stateId" : 6,
-    "menuPath" : "NationalVectorBornDiseasesControlProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 355,
-    "serviceCode" : "NationalFilariaControlProgramme",
-    "name" : "National  Filaria Control Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalFilariaControlProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 356,
-    "serviceCode" : "NationalBlindnessControlProgramme",
-    "name" : "National  Blindness Control Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalBlindnessControlProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 357,
-    "serviceCode" : "NationalMentalHealthProgramme",
-    "name" : "National  Mental Health Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalMentalHealthProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 358,
     "serviceCode" : "Npcdcs",
     "name" : "NPCDCS",
@@ -2737,46 +2026,6 @@
     "name" : "NPHCE",
     "stateId" : 6,
     "menuPath" : "NationalProgrammeForHealthCareOfTheElderly",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 360,
-    "serviceCode" : "NationalLeprosyEliminationProgramme",
-    "name" : "National Leprosy Elimination Programme",
-    "stateId" : 6,
-    "menuPath" : "NationalLeprosyEliminationProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 361,
-    "serviceCode" : "RevisedNationalTuberculosisControlProgramme",
-    "name" : "Revised National Tuberculosis Control Programme",
-    "stateId" : 6,
-    "menuPath" : "RevisedNationalTuberculosisControlProgramme",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 362,
-    "serviceCode" : "NonAvailabilityOfAmbulance",
-    "name" : "Non availability of Ambulance",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransport-AmbulanceService",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
-    "id" : 363,
-    "serviceCode" : "DemandOfMoneyAgainstFreeService",
-    "name" : "Demand of Money against free service",
-    "stateId" : 6,
-    "menuPath" : "RefferalTransportAmbulanceService",
     "grievanceNatureId" : 34,
     "grievanceTypeId" : 2,
     "slaHours" : 336,
@@ -2821,17 +2070,7 @@
     "grievanceTypeId" : 2,
     "slaHours" : 336,
     "active" : true
-  }, {
-    "id" : 368,
-    "serviceCode" : "ComplainRegardingSexDetermination",
-    "name" : "Complain regarding Sex-determination",
-    "stateId" : 6,
-    "menuPath" : "PcPndt",
-    "grievanceNatureId" : 34,
-    "grievanceTypeId" : 2,
-    "slaHours" : 336,
-    "active" : true
-  }, {
+  },  {
     "id" : 370,
     "serviceCode" : "UnavailabilityOfDoctorsStaff",
     "name" : "Unavailability of Doctors/Staff",
