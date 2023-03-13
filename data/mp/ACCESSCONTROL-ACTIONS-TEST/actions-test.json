@@ -13251,7 +13251,19 @@
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
-      }
+      },
+     {
+         "id": 2432,
+         "name": "Update PGR Request",
+         "url": "/pgr-services/v2/request/_update",
+         "parentModule": "",
+         "displayName": "Update PGR Request",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "pgr-services",
+         "code": "null",
+         "path": ""
+      },	   
 	   
    ]
 }
