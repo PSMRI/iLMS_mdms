@@ -11103,8 +11103,20 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "SUPERUSER",
+      "actionid": 15291,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1751,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 15291,
       "actioncode": "",
       "tenantId": "mp"
     },

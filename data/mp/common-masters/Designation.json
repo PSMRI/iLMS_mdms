@@ -76,7 +76,7 @@
         },
         {
           "name": "Director Medical & Health Department",
-          "code": "DIRECTOR_MEDICAL_&_HEALTH_DEPARTMENT",
+          "code": "DIRECTOR_MEDICAL_HEALTH_DEPARTMENT",
           "description": "",
           "active": true
         },
@@ -136,7 +136,7 @@
         },
         {
           "name": "MPHW (m)",
-          "code": "MPHW_(M)",
+          "code": "MPHW",
           "description": "",
           "active": true
         },
@@ -262,7 +262,7 @@
         },
         {
           "name": "Principal Secretary - Health, Govt of Bihar",
-          "code": "PRINCIPAL_SECRETARY_HEALTH,_GOVT_OF_BIHAR",
+          "code": "PRINCIPAL_SECRETARY_HEALTH",
           "description": "",
           "active": true
         },
