@@ -1,5 +1,5 @@
 {
-  "tenantId": "mp",
+  "tenantId": "mp.health",
   "moduleName": "RAINMAKER-PGR",
   "ServiceDefs": [
     {
