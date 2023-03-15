@@ -5474,7 +5474,21 @@
          "path": "HRMS.Search",
          "leftIcon": "social:people"
       },
-	{
+      {
+         "id": 1774,
+         "name": "Survey",
+         "url": "url",
+         "displayName": "Search Survey",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "egov-survey-services",
+         "code": "null",
+         "navigationURL": "/egov-survey-services/egov-ss/survey/_search",
+         "path": "",
+         "leftIcon": ""
+      },
+	  {
          "id": 1775,
          "name": "rainmaker-common-complaints",
          "url": "card",
@@ -12136,7 +12150,8 @@
       "navigationURL": "/digit-ui/employee/dss/dashboard/noc",
       "leftIcon": "places:business-center",
       "rightIcon": ""
-    }, {
+    },
+      {
       "id": 2341,
       "name": "Dashboard Mcollect",
       "url": "url",
