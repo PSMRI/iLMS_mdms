@@ -22995,6 +22995,12 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 691,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 2155,
       "actioncode": "",
@@ -27301,6 +27307,12 @@
     {
       "rolecode": "BENEFICIARY",
       "actionid": 694,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "BENEFICIARY",
+      "actionid": 691,
       "actioncode": "",
       "tenantId": "mp"
     },
