@@ -171,6 +171,12 @@
       "tenantId": "mp.health"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mp.health"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 635,
       "actioncode": "",
