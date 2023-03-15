@@ -25463,6 +25463,12 @@
     },
     {
       "rolecode": "STATE_L3_GENERIC",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
       "actionid": 11,
       "actioncode": "",
       "tenantId": "mp"
@@ -25875,6 +25881,12 @@
     {
       "rolecode": "STATE_L3_ASHA",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -26292,6 +26304,12 @@
     {
       "rolecode": "STATE_L3_EPIDEMIC",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -26709,6 +26727,12 @@
     {
       "rolecode": "STATE_L3_FOODSAFETY",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -29759,6 +29783,12 @@
     },
     {
       "rolecode": "DISTRICT_L1_GENERIC",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_GENERIC",
       "actionid": 11,
       "actioncode": "",
       "tenantId": "mp"
@@ -30171,6 +30201,12 @@
     {
       "rolecode": "DISTRICT_L1_ASHA",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_ASHA",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -30588,6 +30624,12 @@
     {
       "rolecode": "DISTRICT_L1_EPIDEMIC",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_EPIDEMIC",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -31005,6 +31047,12 @@
     {
       "rolecode": "DISTRICT_L1_FOODSAFETY",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_L1_FOODSAFETY",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -31422,6 +31470,12 @@
     {
       "rolecode": "REGIONAL_L2_GENERIC",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "REGIONAL_L2_GENERIC",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -31839,6 +31893,12 @@
     {
       "rolecode": "REGIONAL_L2_ASHA",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "REGIONAL_L2_ASHA",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -32256,6 +32316,12 @@
     {
       "rolecode": "REGIONAL_L2_EPIDEMIC",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "REGIONAL_L2_EPIDEMIC",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
@@ -32673,6 +32739,12 @@
     {
       "rolecode": "REGIONAL_L2_FOODSAFETY",
       "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "REGIONAL_L2_FOODSAFETY",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },

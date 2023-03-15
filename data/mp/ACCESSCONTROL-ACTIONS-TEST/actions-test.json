@@ -5477,16 +5477,13 @@
       {
          "id": 1774,
          "name": "Survey",
-         "url": "url",
+         "url": "/egov-survey-services/egov-ss/survey/_search",
          "displayName": "Search Survey",
-         "orderNumber": 2,
-         "parentModule": "",
+         "orderNumber": 1,
          "enabled": true,
          "serviceCode": "egov-survey-services",
          "code": "null",
-         "navigationURL": "/egov-survey-services/egov-ss/survey/_search",
-         "path": "",
-         "leftIcon": ""
+         "path": ""
       },
 	  {
          "id": 1775,
