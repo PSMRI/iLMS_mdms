@@ -5485,6 +5485,17 @@
          "code": "null",
          "path": ""
       },
+      {
+         "id": 17741,
+         "name": "Survey",
+         "url": "/egov-survey-services/egov-ss/survey/_create",
+         "displayName": "Search Survey",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "egov-survey-services",
+         "code": "null",
+         "path": ""
+      },
 	  {
          "id": 1775,
          "name": "rainmaker-common-complaints",
