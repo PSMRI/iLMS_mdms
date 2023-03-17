@@ -1060,6 +1060,12 @@
     },
     {
       "rolecode": "CITIZEN",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
       "actionid": 287,
       "actioncode": "",
       "tenantId": "mp"
@@ -27361,6 +27367,12 @@
     {
       "rolecode": "BENEFICIARY",
       "actionid": 694,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "BENEFICIARY",
+      "actionid": 1774,
       "actioncode": "",
       "tenantId": "mp"
     },
