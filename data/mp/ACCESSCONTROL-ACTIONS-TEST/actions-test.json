@@ -8220,19 +8220,7 @@
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
-      },
-      {
-         "id": 2015,
-         "name": "PGR-ULBReport-Metadata",
-         "url": "/report/pgr/ULBReport/metadata/_get",
-         "displayName": "Rainmaker PGR report",
-         "orderNumber": 1,
-         "parentModule": "147",
-         "enabled": false,
-         "serviceCode": "PGRReports",
-         "code": "null",
-         "path": "PGR Report"
-      },
+      },      
       {
          "id": 2016,
          "name": "PGR-LMEPerformanceReport-Metadata",
@@ -13349,15 +13337,15 @@
        },
       {
          "id": 2439,
-         "name": "Reports",
-         "url": "/report/pgr/ULBReport/_get",
-         "displayName": "Reports",
+         "name": "PGR-ULBReport-Metadata",
+         "url": "/report/pgr/ULBReport/metadata/_get",
+         "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "report",
+         "parentModule": "147",
+         "enabled": false,
+         "serviceCode": "PGRReports",
          "code": "null",
-         "path": ""
-       }
-	   
+         "path": "PGR Report"
+      }	   
    ]
 }
