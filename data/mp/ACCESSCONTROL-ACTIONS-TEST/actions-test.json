@@ -5473,29 +5473,7 @@
          "navigationURL": "/digit-ui/employee/hrms/inbox",
          "path": "HRMS.Search",
          "leftIcon": "social:people"
-      },
-      {
-         "id": 1774,
-         "name": "Survey",
-         "url": "/egov-survey-services/egov-ss/survey/_search",
-         "displayName": "Search Survey",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "egov-survey-services",
-         "code": "null",
-         "path": ""
-      },
-      {
-         "id": 17741,
-         "name": "Survey",
-         "url": "/egov-survey-services/egov-ss/survey/_create",
-         "displayName": "Search Survey",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "egov-survey-services",
-         "code": "null",
-         "path": ""
-      },
+      },      
 	  {
          "id": 1775,
          "name": "rainmaker-common-complaints",
@@ -13302,7 +13280,73 @@
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
-      }	   
+      },
+      {
+         "id": 2433,
+         "name": "Survey",
+         "url": "/egov-survey-services/egov-ss/survey/_search",
+         "displayName": "Search Survey",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "egov-survey-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2434,
+         "name": "Survey",
+         "url": "/egov-survey-services/egov-ss/survey/_create",
+         "displayName": "Search Survey",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "egov-survey-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2435,
+         "name": "Survey Service: Update survey",
+         "url": "/egov-survey-services/egov-ss/survey/_update",
+         "displayName": "Update survey",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "SS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2436,
+         "name": "Survey Service: Delete survey",
+         "url": "/egov-survey-services/egov-ss/survey/_delete",
+         "displayName": "Delete survey",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "SS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2437,
+         "name": "Survey Service: Response submit",
+         "url": "/egov-survey-services/egov-ss/survey/response/_submit",
+         "displayName": "Submit survey response",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "SS",
+         "code": "null",
+         "path": ""
+       },
+       {
+         "id": 2438,
+         "name": "Survey Service: Response view",
+         "url": "/egov-survey-services/egov-ss/survey/response/_results",
+         "displayName": "Submit survey response",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "SS",
+         "code": "null",
+         "path": ""
+       }
 	   
    ]
 }
