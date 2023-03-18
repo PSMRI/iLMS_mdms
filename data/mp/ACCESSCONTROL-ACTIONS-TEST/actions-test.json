@@ -13308,9 +13308,9 @@
          "name": "Survey Service: Update survey",
          "url": "/egov-survey-services/egov-ss/survey/_update",
          "displayName": "Update survey",
-         "orderNumber": 0,
+         "orderNumber": 1,
          "enabled": true,
-         "serviceCode": "SS",
+         "serviceCode": "egov-survey-services",
          "code": "null",
          "path": ""
        },
@@ -13319,9 +13319,9 @@
          "name": "Survey Service: Delete survey",
          "url": "/egov-survey-services/egov-ss/survey/_delete",
          "displayName": "Delete survey",
-         "orderNumber": 0,
+         "orderNumber": 1,
          "enabled": true,
-         "serviceCode": "SS",
+         "serviceCode": "egov-survey-services",
          "code": "null",
          "path": ""
        },
@@ -13330,9 +13330,9 @@
          "name": "Survey Service: Response submit",
          "url": "/egov-survey-services/egov-ss/survey/response/_submit",
          "displayName": "Submit survey response",
-         "orderNumber": 0,
+         "orderNumber": 1,
          "enabled": true,
-         "serviceCode": "SS",
+         "serviceCode": "egov-survey-services",
          "code": "null",
          "path": ""
        },
@@ -13341,9 +13341,9 @@
          "name": "Survey Service: Response view",
          "url": "/egov-survey-services/egov-ss/survey/response/_results",
          "displayName": "Submit survey response",
-         "orderNumber": 0,
+         "orderNumber": 1,
          "enabled": true,
-         "serviceCode": "SS",
+         "serviceCode": "egov-survey-services",
          "code": "null",
          "path": ""
        }
