@@ -10,7 +10,7 @@
          "orderNumber": 0,
          "queryParams": "locationName=",
          "parentModule": "BNDRY",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BNDRY",
          "code": "null",
          "path": "Boundary Module.Get location by LocationName"
@@ -23,7 +23,7 @@
          "orderNumber": 0,
          "queryParams": "boundaryTypeName=&hierarchyTypeName=",
          "parentModule": "BNDRY",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BNDRY",
          "code": "null",
          "path": "Boundary Module.Search Boundary by BoundryTypeName and HierarchyTypeName"
@@ -36,7 +36,7 @@
          "orderNumber": 0,
          "queryParams": "boundaryId=",
          "parentModule": "BNDRY",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BNDRY",
          "path": "Boundary Module.Get ChildBoundary by BoundaryId"
       },
@@ -48,7 +48,7 @@
          "orderNumber": 0,
          "queryParams": "fileStoreId=",
          "parentModule": "PGR",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGR",
          "code": "null",
          "path": "PGR.Get File by FileStoreId"
@@ -61,7 +61,7 @@
          "orderNumber": 0,
          "queryParams": "boundary=",
          "parentModule": "BNDRY",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BNDRY",
          "code": "null",
          "path": "Boundary Module.Search Boundary by boundaryId"
@@ -73,7 +73,7 @@
          "displayName": "CalendarSearch",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Calendar",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarSetUp.CalendarSearch"
@@ -85,7 +85,7 @@
          "displayName": "CreateHoliday",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CalendarHolidays",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarHolidaysSetUp.CreateHoliday"
@@ -97,7 +97,7 @@
          "displayName": "UpdateHoliday",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CalendarHolidays",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarHolidaysSetUp.UpdateHoliday"
@@ -109,7 +109,7 @@
          "displayName": "CalendarHolidaysSearch",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CalendarHolidays",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarHolidaysSetUp.CalendarHolidaysSearch"
@@ -121,7 +121,7 @@
          "displayName": "CommonLanguages",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.CommonLanguages"
@@ -133,7 +133,7 @@
          "displayName": "CommonReligions",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.CommonReligions"
@@ -145,7 +145,7 @@
          "displayName": "CommonDepartmentsSearch",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.CommonDepartmentsSearch"
@@ -157,7 +157,7 @@
          "displayName": "Get Boundary by Boundary Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Boundary by Boundary Type"
@@ -169,7 +169,7 @@
          "displayName": "Get Child locations by Boundary",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Child locations by Boundary"
@@ -181,7 +181,7 @@
          "displayName": "Get Location by Location Name",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Location by Location Name"
@@ -193,7 +193,7 @@
          "displayName": "Get Boundaries by Code",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Boundaries by Code"
@@ -205,7 +205,7 @@
          "displayName": "Get Boundary Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Boundary Type"
@@ -217,7 +217,7 @@
          "displayName": "Get BoundaryTypes By Heirarchy Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get BoundaryTypes By Heirarchy Type"
@@ -229,7 +229,7 @@
          "displayName": "Get City",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get City"
@@ -241,7 +241,7 @@
          "displayName": "Get City By City Request",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get City By City Request"
@@ -253,7 +253,7 @@
          "displayName": "Get Heirarchy Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Heirarchy Type"
@@ -265,7 +265,7 @@
          "displayName": "Get Heirarchy Type By Code",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Heirarchy Type By Code"
@@ -277,7 +277,7 @@
          "displayName": "Cross Hierarchys",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Cross Hierarchys"
@@ -289,7 +289,7 @@
          "displayName": "Get Cross Hierarchy By Code",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Cross Hierarchy By Code"
@@ -301,7 +301,7 @@
          "displayName": "Create Boundary Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Create Boundary Type"
@@ -313,7 +313,7 @@
          "displayName": "Get Boundaries by boundarytype and hierarchy Type",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Get Boundaries by boundarytype and hierarchy Type"
@@ -325,7 +325,7 @@
          "displayName": "uploadfiles",
          "orderNumber": 1,
          "parentModule": "76",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "uploadfiles",
          "code": "null",
          "path": ""
@@ -337,7 +337,7 @@
          "displayName": "filesearch",
          "orderNumber": 1,
          "parentModule": "76",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filesearch",
          "code": "null",
          "path": ""
@@ -349,7 +349,7 @@
          "displayName": "filesearchbytag",
          "orderNumber": 1,
          "parentModule": "76",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filesearchbytag",
          "code": "null",
          "path": ""
@@ -361,7 +361,7 @@
          "displayName": "Holidays",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.Holidays"
@@ -373,7 +373,7 @@
          "displayName": "BoundarySearch",
          "orderNumber": 0,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.BoundarySearch"
@@ -385,7 +385,7 @@
          "displayName": "Search UOM",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EGOV Common Masters",
          "code": "null",
          "path": ""
@@ -397,7 +397,7 @@
          "displayName": "Search Uom Categories",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EGOV Common Masters",
          "code": "null",
          "path": ""
@@ -409,7 +409,7 @@
          "displayName": "SearchGender",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.SearchGender"
@@ -421,7 +421,7 @@
          "displayName": "SearchRelationship",
          "orderNumber": 0,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.SearchRelationship"
@@ -433,7 +433,7 @@
          "displayName": "Create Instrument",
          "orderNumber": 1,
          "parentModule": "212",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Create Instrument",
          "code": "null",
          "path": "Financials.Instrument.Instrument Transactions.Create Instrument.createInstrument"
@@ -445,7 +445,7 @@
          "displayName": "Modify Instrument",
          "orderNumber": 2,
          "parentModule": "212",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Create Instrument",
          "code": "null",
          "path": "Financials.Instrument.Instrument Transactions.Create Instrument.updateInstrument"
@@ -457,7 +457,7 @@
          "displayName": "Search Instrument",
          "orderNumber": 3,
          "parentModule": "212",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Create Instrument",
          "code": "null",
          "path": "Financials.Instrument.Instrument Transactions.Create Instrument.searchInstrument"
@@ -469,7 +469,7 @@
          "displayName": "Instrument Account Code",
          "orderNumber": 1,
          "parentModule": "213",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Account Code",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Account Code.createInstrumentAccountCode"
@@ -481,7 +481,7 @@
          "displayName": "Instrument Account Code",
          "orderNumber": 2,
          "parentModule": "213",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Account Code",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Account Code.updateInstrumentAccountCode"
@@ -493,7 +493,7 @@
          "displayName": "Instrument Account Code",
          "orderNumber": 3,
          "parentModule": "213",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Account Code",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Account Code.searchInstrumentAccountCode"
@@ -505,7 +505,7 @@
          "displayName": "Create Instrument Type",
          "orderNumber": 1,
          "parentModule": "214",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Type",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Type.createInstrumentType"
@@ -517,7 +517,7 @@
          "displayName": "Modify Instrument Type",
          "orderNumber": 2,
          "parentModule": "214",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Type",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Type.updateInstrumentType"
@@ -529,7 +529,7 @@
          "displayName": "Search Instrument Type",
          "orderNumber": 3,
          "parentModule": "214",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Instrument Type",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Instrument Type.searchInstrumentType"
@@ -541,7 +541,7 @@
          "displayName": "Create Surrender Reasons",
          "orderNumber": 1,
          "parentModule": "215",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Surrender Reason",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Surrender Reason.createSurrenderReason"
@@ -553,7 +553,7 @@
          "displayName": "Modify Surrender Reasons",
          "orderNumber": 2,
          "parentModule": "215",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Surrender Reason",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Surrender Reason.updateSurrenderReason"
@@ -565,7 +565,7 @@
          "displayName": "Search Surrender Reasons",
          "orderNumber": 3,
          "parentModule": "215",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Surrender Reason",
          "code": "null",
          "path": "Financials.Instrument.Instrument Masters.Surrender Reason.searchSurrenderReason"
@@ -576,7 +576,7 @@
          "url": "/egov-common-masters/categories/_search",
          "displayName": "Search Categories",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Category",
          "code": "null",
          "path": "Employee Management.Employee Masters.Category.SearchCategories"
@@ -587,7 +587,7 @@
          "url": "/egov-common-masters/bloodgroups/_search",
          "displayName": "Search Blood Groups",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.SearchBloodGroups"
@@ -598,7 +598,7 @@
          "url": "/egov-common-masters/maritalstatuses/_search",
          "displayName": "Search Marital Statuses",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.SearchMaritalStatuses"
@@ -609,7 +609,7 @@
          "url": "/access/v1/actions/_get",
          "displayName": "Get All Actions",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.Get All Actions"
@@ -620,7 +620,7 @@
          "url": "/user/_search",
          "displayName": "Search User",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.SearchUser"
@@ -631,7 +631,7 @@
          "url": "/user/users/_createnovalidate",
          "displayName": "Create User novalidate",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.CreateUsernovalidate"
@@ -642,7 +642,7 @@
          "url": "/collection-services/report/_get",
          "displayName": "Get Report Data",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-REPORTS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -654,7 +654,7 @@
          "url": "/collection-services/report/metadata/_get",
          "displayName": "Get Report Metadata",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-REPORTS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -666,7 +666,7 @@
          "url": "/collection-services/report/_reload",
          "displayName": "Reload Report",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-REPORTS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -678,7 +678,7 @@
          "url": "/egov-idgen/id/_generate",
          "displayName": "Generate Number",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.GenerateNumber"
@@ -690,7 +690,7 @@
          "displayName": "Search Boundary",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Search Boundary"
@@ -702,7 +702,7 @@
          "displayName": "Create Account Detail Key",
          "orderNumber": 1,
          "parentModule": "227",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Detail_key_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Detail_key_Master.createAccountDetailKey_Master"
@@ -714,7 +714,7 @@
          "displayName": "Modify Account Detail Key",
          "orderNumber": 2,
          "parentModule": "227",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Detail_key_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Detail_key_Master.updateAccountDetailKey_Master"
@@ -726,7 +726,7 @@
          "displayName": "Search Account Detail Key",
          "orderNumber": 3,
          "parentModule": "227",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Detail_key_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Detail_key_Master.searchAccountDetailKey_Master"
@@ -738,7 +738,7 @@
          "displayName": "Create Bank",
          "orderNumber": 1,
          "parentModule": "228",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank",
          "code": "null",
          "path": "Financials.Financials_Masters.Bank.createBank_Master"
@@ -750,7 +750,7 @@
          "displayName": "Modify Bank",
          "orderNumber": 3,
          "parentModule": "228",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank",
          "code": "null",
          "path": "Financials.Financials_Masters.Bank.updateBank_Master"
@@ -762,7 +762,7 @@
          "displayName": "Search Bank",
          "orderNumber": 3,
          "parentModule": "228",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank",
          "code": "null",
          "path": "Financials.Financials_Masters.Bank.searchBank_Master"
@@ -774,7 +774,7 @@
          "displayName": "Create BankAccount",
          "orderNumber": 1,
          "parentModule": "229",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank_Account_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Bank_Account_Master.createBankAccount_Master"
@@ -786,7 +786,7 @@
          "displayName": "Modify BankAccount",
          "orderNumber": 2,
          "parentModule": "229",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank_Account_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Bank_Account_Master.updateBankAccount_Master"
@@ -798,7 +798,7 @@
          "displayName": "Search BankAccount",
          "orderNumber": 3,
          "parentModule": "229",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bank_Account_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Bank_Account_Master.searchBankAccount_Master"
@@ -810,7 +810,7 @@
          "displayName": "Create Account Code Purpose",
          "orderNumber": 1,
          "parentModule": "230",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Code_Purpose_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
@@ -822,7 +822,7 @@
          "displayName": "Modify Account Code Purpose",
          "orderNumber": 2,
          "parentModule": "230",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Code_Purpose_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
@@ -846,7 +846,7 @@
          "displayName": "Create Supplier",
          "orderNumber": 1,
          "parentModule": "231",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Supplier_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Supplier_Master.createSupplier_Master"
@@ -858,7 +858,7 @@
          "displayName": "Modify Supplier",
          "orderNumber": 2,
          "parentModule": "231",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Supplier_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Supplier_Master.updateSupplier_Master"
@@ -870,7 +870,7 @@
          "displayName": "Search Supplier",
          "orderNumber": 3,
          "parentModule": "231",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Supplier_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Supplier_Master.searchSupplier_Master"
@@ -882,7 +882,7 @@
          "displayName": "Create Fund",
          "orderNumber": 1,
          "parentModule": "232",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Fund_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Fund_Master.createFund_Master"
@@ -894,7 +894,7 @@
          "displayName": "Modify Fund",
          "orderNumber": 2,
          "parentModule": "232",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Fund_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Fund_Master.updateFund_Master"
@@ -906,7 +906,7 @@
          "displayName": "Search Fund",
          "orderNumber": 3,
          "parentModule": "232",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Fund_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Fund_Master.searchFund_Master"
@@ -918,7 +918,7 @@
          "displayName": "Create SubScheme",
          "orderNumber": 1,
          "parentModule": "233",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "SubScheme_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.SubScheme_Master.createSubScheme_Master"
@@ -930,7 +930,7 @@
          "displayName": "Modify SubScheme",
          "orderNumber": 2,
          "parentModule": "233",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "SubScheme_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.SubScheme_Master.updateSubScheme_Master"
@@ -942,7 +942,7 @@
          "displayName": "Search SubScheme",
          "orderNumber": 3,
          "parentModule": "233",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "SubScheme_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.SubScheme_Master.searchSubScheme_Master"
@@ -954,7 +954,7 @@
          "displayName": "Create Function",
          "orderNumber": 1,
          "parentModule": "234",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Function_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Function_Master.createFunction_Master"
@@ -966,7 +966,7 @@
          "displayName": "Modify Function",
          "orderNumber": 2,
          "parentModule": "234",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Function_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Function_Master.updateFunction_Master"
@@ -978,7 +978,7 @@
          "displayName": "Search Function",
          "orderNumber": 3,
          "parentModule": "234",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Function_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Function_Master.searchFunction_Master"
@@ -990,7 +990,7 @@
          "displayName": "Create Budget Group",
          "orderNumber": 1,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.createBudgetGroup_Master"
@@ -1002,7 +1002,7 @@
          "displayName": "Modify Budget Group",
          "orderNumber": 2,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.updateBudgetGroup_Master"
@@ -1014,7 +1014,7 @@
          "displayName": "Search Budget Group",
          "orderNumber": 3,
          "parentModule": "235",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BudgetGroup_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BudgetGroup_Master.searchBudgetGroup_Master"
@@ -1026,7 +1026,7 @@
          "displayName": "Create Scheme",
          "orderNumber": 1,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.createScheme_Master"
@@ -1038,7 +1038,7 @@
          "displayName": "Modify Scheme",
          "orderNumber": 2,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.updateScheme_Master"
@@ -1050,7 +1050,7 @@
          "displayName": "Search Scheme",
          "orderNumber": 3,
          "parentModule": "236",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Scheme_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Scheme_Master.searchScheme_Master"
@@ -1062,7 +1062,7 @@
          "displayName": "Create BankBranch",
          "orderNumber": 1,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.createBankBranch_Master"
@@ -1074,7 +1074,7 @@
          "displayName": "Modify BankBranch",
          "orderNumber": 2,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.updateBankBranch_Master"
@@ -1086,7 +1086,7 @@
          "displayName": "Search BankBranch",
          "orderNumber": 3,
          "parentModule": "237",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BankBranch_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.BankBranch_Master.searchBankBranch_Master"
@@ -1098,7 +1098,7 @@
          "displayName": "Create Fund Source",
          "orderNumber": 1,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.createFundSource_Master"
@@ -1110,7 +1110,7 @@
          "displayName": "Modify Fund Source",
          "orderNumber": 2,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.updateFundSource_Master"
@@ -1122,7 +1122,7 @@
          "displayName": "Search Fund Source",
          "orderNumber": 3,
          "parentModule": "238",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FundSource_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FundSource_Master.searchFundSource_Master"
@@ -1134,7 +1134,7 @@
          "displayName": "Create Functionary",
          "orderNumber": 1,
          "parentModule": "239",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Functionary_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Functionary_Master.createFunctionary_Master"
@@ -1146,7 +1146,7 @@
          "displayName": "Modify Functionary",
          "orderNumber": 2,
          "parentModule": "239",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Functionary_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Functionary_Master.updateFunctionary_Master"
@@ -1158,7 +1158,7 @@
          "displayName": "Search Functionary",
          "orderNumber": 3,
          "parentModule": "239",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Functionary_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.Functionary_Master.searchFunctionary_Master"
@@ -1170,7 +1170,7 @@
          "displayName": "Create Chart Of Accounts",
          "orderNumber": 1,
          "parentModule": "240",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccount_Master.createChartOfAccount_Master"
@@ -1182,7 +1182,7 @@
          "displayName": "Modify Chart Of Accounts",
          "orderNumber": 2,
          "parentModule": "240",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccount_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccount_Master.updateChartOfAccount_Master"
@@ -1194,7 +1194,7 @@
          "displayName": "Create Chart Of Accounts Detail",
          "orderNumber": 1,
          "parentModule": "241",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccountDetail_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccountDetail_Master.createChartOfAccountDetail_Master"
@@ -1206,7 +1206,7 @@
          "displayName": "Modify Chart Of Accounts Detail",
          "orderNumber": 2,
          "parentModule": "241",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccountDetail_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccountDetail_Master.updateChartOfAccountDetail_Master"
@@ -1218,7 +1218,7 @@
          "displayName": "Search Chart Of Accounts Detail",
          "orderNumber": 3,
          "parentModule": "241",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartOfAccountDetail_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.ChartOfAccountDetail_Master.searchChartOfAccountDetail_Master"
@@ -1230,7 +1230,7 @@
          "displayName": "Create Account Entity",
          "orderNumber": 1,
          "parentModule": "242",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountEntiy_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountEntiy_Master.createAccountEntiy_Master"
@@ -1242,7 +1242,7 @@
          "displayName": "Modify Account Entity",
          "orderNumber": 2,
          "parentModule": "242",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountEntiy_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountEntiy_Master.updateAccountEntiy_Master"
@@ -1254,7 +1254,7 @@
          "displayName": "Search Account Entity",
          "orderNumber": 3,
          "parentModule": "242",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountEntiy_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountEntiy_Master.searchAccountEntiy_Master"
@@ -1266,7 +1266,7 @@
          "displayName": "Create Financial Year",
          "orderNumber": 1,
          "parentModule": "243",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialYear_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialYear_Master.createFinancialYear_Master"
@@ -1278,7 +1278,7 @@
          "displayName": "Modify Financial Year",
          "orderNumber": 2,
          "parentModule": "243",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialYear_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialYear_Master.updateFinancialYear_Master"
@@ -1290,7 +1290,7 @@
          "displayName": "Search Financial Year",
          "orderNumber": 3,
          "parentModule": "243",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialYear_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialYear_Master.searchFinancialYear_Master"
@@ -1302,7 +1302,7 @@
          "displayName": "Create Fiscal Period",
          "orderNumber": 1,
          "parentModule": "244",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FiscalPeriod_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FiscalPeriod_Master.createFiscalPeriod_Master"
@@ -1314,7 +1314,7 @@
          "displayName": "Modify Fiscal Period",
          "orderNumber": 2,
          "parentModule": "244",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FiscalPeriod_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FiscalPeriod_Master.updateFiscalPeriod_Master"
@@ -1326,7 +1326,7 @@
          "displayName": "Search Fiscal Period",
          "orderNumber": 3,
          "parentModule": "244",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FiscalPeriod_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FiscalPeriod_Master.searchFiscalPeriod_Master"
@@ -1338,7 +1338,7 @@
          "displayName": "Create Account Detail Type",
          "orderNumber": 1,
          "parentModule": "245",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountDetailType_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountDetailType_Master.createAccountDetailType_Master"
@@ -1350,7 +1350,7 @@
          "displayName": "Modify Account Detail Type",
          "orderNumber": 2,
          "parentModule": "245",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountDetailType_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountDetailType_Master.updateAccountDetailType_Master"
@@ -1362,7 +1362,7 @@
          "displayName": "Search Account Detail Type",
          "orderNumber": 3,
          "parentModule": "245",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccountDetailType_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.AccountDetailType_Master.searchAccountDetailType_Master"
@@ -1374,7 +1374,7 @@
          "displayName": "Create Financial Configuration",
          "orderNumber": 1,
          "parentModule": "246",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialConfiguration_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialConfiguration_Master.createFinancialConfiguration_Master"
@@ -1386,7 +1386,7 @@
          "displayName": "Modify Financial Configuration",
          "orderNumber": 2,
          "parentModule": "246",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialConfiguration_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialConfiguration_Master.updateFinancialConfiguration_Master"
@@ -1398,7 +1398,7 @@
          "displayName": "Search Financial Configuration",
          "orderNumber": 3,
          "parentModule": "246",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinancialConfiguration_Master",
          "code": "null",
          "path": "Financials.Financials_Masters.FinancialConfiguration_Master.searchFinancialConfiguration_Master"
@@ -1410,7 +1410,7 @@
          "displayName": "Create Otp",
          "orderNumber": 1,
          "parentModule": "247",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "OTP",
          "code": "null",
          "path": "Otp.CreateOtp"
@@ -1422,7 +1422,7 @@
          "displayName": "Validate Otp",
          "orderNumber": 1,
          "parentModule": "247",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "OTP",
          "code": "null",
          "path": "Otp.ValidateOtp"
@@ -1434,7 +1434,7 @@
          "displayName": "Search Otp",
          "orderNumber": 1,
          "parentModule": "247",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "OTP",
          "code": "null",
          "path": "Otp.SearchOtp"
@@ -1445,7 +1445,7 @@
          "url": "/user/citizen/_create",
          "displayName": "Create Citizen",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Create Citizen"
@@ -1456,7 +1456,7 @@
          "url": "/user/v1/_search",
          "displayName": "Search User Details",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Search User Details"
@@ -1467,7 +1467,7 @@
          "url": "/user/_details",
          "displayName": "Get User Details",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Get User"
@@ -1478,7 +1478,7 @@
          "url": "/user/profile/_update",
          "displayName": "Profile Update",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Profile Update"
@@ -1489,7 +1489,7 @@
          "url": "/user/password/_update",
          "displayName": "Update Password",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Update Password"
@@ -1500,7 +1500,7 @@
          "url": "/user/password/nologin/_update",
          "displayName": "UpdatePassword For NonLogged InUser",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.UpdatePasswordForNonLoggedInUser"
@@ -1511,7 +1511,7 @@
          "url": "/user/_logout",
          "displayName": "Delete Token",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": "Administration.Delete Token"
@@ -1522,7 +1522,7 @@
          "url": "/billing-service/demand/collection/_update",
          "displayName": "Update Collection",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.UpdateCollection"
@@ -1533,7 +1533,7 @@
          "url": "/billing-service/demand/demanddetail/_search",
          "displayName": "Search Demand Detail",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.BS_SearchDemandDetail"
@@ -1544,7 +1544,7 @@
          "url": "/billing-service/demand/_update",
          "displayName": "Update Demand",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.UpdateDemand"
@@ -1555,7 +1555,7 @@
          "url": "/billing-service/demand/_create",
          "displayName": "Create Demand",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.CreateDemand"
@@ -1566,7 +1566,7 @@
          "url": "/billing-service/demand/_search",
          "displayName": "Search Demand",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.SearchDemand"
@@ -1577,7 +1577,7 @@
          "url": "/billing-service/taxheads/_update",
          "displayName": "Update Tax Head",
          "orderNumber": 6,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAXHEADS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Heads.UpdateTaxHead"
@@ -1588,7 +1588,7 @@
          "url": "/billing-service/taxheads/_create",
          "displayName": "Create Tax Head",
          "orderNumber": 7,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAXHEADS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Heads.CreateTaxHead"
@@ -1599,7 +1599,7 @@
          "url": "/billing-service/taxheads/_search",
          "displayName": "Search Tax Head",
          "orderNumber": 8,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAXHEADS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Heads.SearchTaxHead"
@@ -1610,7 +1610,7 @@
          "url": "/billing-service/bill/_generate",
          "displayName": "Generate Bill",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.GenerateBill"
@@ -1621,7 +1621,7 @@
          "url": "/billing-service/bill/_apportion",
          "displayName": "Apportion",
          "orderNumber": 10,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.Apportion"
@@ -1632,7 +1632,7 @@
          "url": "/billing-service/bill/_create",
          "displayName": "Create Bill",
          "orderNumber": 11,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.CreateBill"
@@ -1643,7 +1643,7 @@
          "url": "/billing-service/bill/_search",
          "displayName": "Search Bill",
          "orderNumber": 12,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.SearchBill"
@@ -1654,7 +1654,7 @@
          "url": "/billing-service/businessservices/_update",
          "displayName": "Update Business Service",
          "orderNumber": 13,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_BUSINESS_SERVICE",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Business Service.UpdateBusinessService"
@@ -1665,7 +1665,7 @@
          "url": "/billing-service/businessservices/_create",
          "displayName": "Create Business Service",
          "orderNumber": 14,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_BUSINESS_SERVICE",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Business Service.CreateBusinessService"
@@ -1676,7 +1676,7 @@
          "url": "/billing-service/businessservices/_search",
          "displayName": "Search Business Service",
          "orderNumber": 15,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_BUSINESS_SERVICE",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Business Service.SearchBusinessService"
@@ -1687,7 +1687,7 @@
          "url": "/billing-service/glcodemasters/_update",
          "displayName": "Update Glcode Master",
          "orderNumber": 16,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_GLCODE_MASTER",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS GLCode Master.UpdateGlcodeMaster"
@@ -1698,7 +1698,7 @@
          "url": "/billing-service/glcodemasters/_create",
          "displayName": "Create Glcode Master",
          "orderNumber": 17,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_GLCODE_MASTER",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS GLCode Master.CreateGlcodeMaster"
@@ -1709,7 +1709,7 @@
          "url": "/billing-service/glcodemasters/_search",
          "displayName": "Search Glcode Master",
          "orderNumber": 18,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_GLCODE_MASTER",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS GLCode Master.SearchGlcodeMaster"
@@ -1720,7 +1720,7 @@
          "url": "/billing-service/taxperiods/_update",
          "displayName": "Update Tax Period",
          "orderNumber": 19,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAX_PERIODS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Periods.BS_UpdateTaxPeriod"
@@ -1731,7 +1731,7 @@
          "url": "/billing-service/taxperiods/_create",
          "displayName": "Create Tax Period",
          "orderNumber": 20,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAX_PERIODS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Periods.BS_CreateTaxPeriod"
@@ -1742,7 +1742,7 @@
          "url": "/billing-service/taxperiods/_search",
          "displayName": "Search Tax Period",
          "orderNumber": 21,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BS_TAX_PERIODS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Periods.BS_SearchTaxPeriod"
@@ -1753,7 +1753,7 @@
          "url": "/access/v1/actions/_search",
          "displayName": "Search Actions",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.SearchActions"
@@ -1764,7 +1764,7 @@
          "url": "/access/v1/actions/_validate",
          "displayName": "Validate Action",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.ValidateAction"
@@ -1775,7 +1775,7 @@
          "url": "/access/v1/actions/_create",
          "displayName": "Create Action",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.CreateActions"
@@ -1786,7 +1786,7 @@
          "url": "/access/v1/actions/_update",
          "displayName": "Update Action",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.UpdateActions"
@@ -1797,7 +1797,7 @@
          "url": "/access/v1/role-actions/_create",
          "displayName": "Create Role actions",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.CreateRoleActions"
@@ -1808,7 +1808,7 @@
          "url": "/access/v1/roles/_search",
          "displayName": "Search Roles",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.SearchRoles"
@@ -1819,7 +1819,7 @@
          "url": "/access/v1/roles/_create",
          "displayName": "Create Roles",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.CreateRoles"
@@ -1830,7 +1830,7 @@
          "url": "/access/v1/roles/_update",
          "displayName": "Update Roles",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.updateRoles"
@@ -1842,7 +1842,7 @@
          "displayName": "Is ShapeFile ExistOrNot",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.isShapeFileExist"
@@ -1853,7 +1853,7 @@
          "url": "/egov-common-masters/modules/_search",
          "displayName": "Search Modules",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EIS Masters",
          "code": "null",
          "path": "Employee Management.Employee Masters.SearchModules"
@@ -1864,7 +1864,7 @@
          "url": "/collection-services/receipts-workflow/_start",
          "displayName": "Start Workflow",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1876,7 +1876,7 @@
          "url": "/collection-services/receipts-workflow/_update",
          "displayName": "Update Workflow",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1888,7 +1888,7 @@
          "url": "/collection-services/receipts/_update",
          "displayName": "Update Receipt",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1900,7 +1900,7 @@
          "url": "/collection-services/receipts/_getDistinctCollectedBy",
          "displayName": "Distinct collected By",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1912,7 +1912,7 @@
          "url": "/collection-services/receipts/_status",
          "displayName": "Collection status",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1924,7 +1924,7 @@
          "url": "/collection-services/receipts/_getDistinctBusinessDetails",
          "displayName": "Business Details",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1936,7 +1936,7 @@
          "url": "/collection-services/receipts/_getChartOfAccounts",
          "displayName": "Chart Of Accounts",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1948,7 +1948,7 @@
          "url": "/egov-common-masters/businessDetails/_getBusinessTypes",
          "displayName": "Business Types",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-MASTERS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1961,7 +1961,7 @@
          "displayName": "Update Department",
          "orderNumber": 2,
          "parentModule": "273",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DEPT",
          "code": "null",
          "path": "Administration.Department.Update Department"
@@ -1973,7 +1973,7 @@
          "displayName": "ReportMetaData",
          "orderNumber": 2,
          "parentModule": "223",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-REPORTS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1986,7 +1986,7 @@
          "displayName": "ReportGet",
          "orderNumber": 2,
          "parentModule": "223",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-REPORTS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -1998,7 +1998,7 @@
          "url": "/billing-service/taxperiod/_search",
          "displayName": "Get Tax Periods",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.BS_TaxPeriodSearch"
@@ -2009,7 +2009,7 @@
          "url": "/billing-service/demand/_dues",
          "displayName": "Get Demand Dues",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.BS_GetDemandDues"
@@ -2021,7 +2021,7 @@
          "displayName": "Get TL Report Metadata",
          "orderNumber": 1,
          "parentModule": "165",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LICENSEREPORTS",
          "code": "null",
          "path": "Trade License.License Reports.TL Report MetaData"
@@ -2033,7 +2033,7 @@
          "displayName": "Get TL Report",
          "orderNumber": 1,
          "parentModule": "165",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LICENSEREPORTS",
          "code": "null",
          "path": "Trade License.License Reports.TL Report"
@@ -2044,7 +2044,7 @@
          "url": "/report/tradelicense/_reload",
          "displayName": "TL Report Reload",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LICENSEREPORTS",
          "code": "null",
          "path": "Trade License.License Reports.TL Report Reload"
@@ -2056,7 +2056,7 @@
          "displayName": "Update Legacy License",
          "orderNumber": 1,
          "parentModule": "268",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLTRANSACTIONS",
          "code": "null",
          "path": "Trade License.License Transactions.UpdateLegacyLicense"
@@ -2067,7 +2067,7 @@
          "url": "/report/property/_get",
          "displayName": "PT Report",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PTIS_REPORTS",
          "code": "null",
          "path": "Property Tax.PTIS Reports.PT Report"
@@ -2078,7 +2078,7 @@
          "url": "/report/property/metadata/_get",
          "displayName": "PT Report Metadata",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PTIS_REPORTS",
          "code": "null",
          "path": "Property Tax.PTIS Reports.PT Report Metadata"
@@ -2090,7 +2090,7 @@
          "displayName": "Search BoundaryType",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.SearchBoundaryType"
@@ -2102,7 +2102,7 @@
          "displayName": "Search HierarchyTypes",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.SearchHierarchyTypes"
@@ -2114,7 +2114,7 @@
          "displayName": "Search Cross Hierarchys",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Search Cross Hierarchy"
@@ -2126,7 +2126,7 @@
          "displayName": "Create Voucher",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": "VOUCHER SERVICE.VoucherCreate"
@@ -2138,7 +2138,7 @@
          "displayName": "Create Reverse Voucher",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": "VOUCHER SERVICE.VoucherReverse"
@@ -2150,7 +2150,7 @@
          "displayName": "Update Voucher",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": "VOUCHER SERVICE.VoucherUpdate"
@@ -2162,7 +2162,7 @@
          "displayName": "Search Voucher",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": "VOUCHER SERVICE.VoucherSearch"
@@ -2174,7 +2174,7 @@
          "displayName": "Delete Voucher",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": "VOUCHER SERVICE.VoucherDelete"
@@ -2186,7 +2186,7 @@
          "displayName": "Create Notice Document",
          "orderNumber": 0,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.CreateNoticeDocuments"
@@ -2198,7 +2198,7 @@
          "displayName": "Update Notice Document",
          "orderNumber": 1,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.UpdateNoticeDocuments"
@@ -2210,7 +2210,7 @@
          "displayName": "Search Notice Document",
          "orderNumber": 2,
          "parentModule": "303",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOTICEDOCUMENTS",
          "code": "null",
          "path": "Trade License.Notice Documents.SearchNoticeDocuments"
@@ -2221,7 +2221,7 @@
          "url": "/collection-services/receipts/_legacycreate",
          "displayName": "Create Legacy  Receipt",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION-TRANSACTIONS",
          "code": "null",
          "leftIcon": "editor:collections",
@@ -2234,7 +2234,7 @@
          "displayName": "Search TL Configurations",
          "orderNumber": 0,
          "parentModule": "268",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLTRANSACTIONS",
          "code": "null",
          "path": "Trade License.License Transactions.SearchTLConfigurations"
@@ -2246,7 +2246,7 @@
          "displayName": "Financialstatuses Search",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "financialstatuses",
          "code": "null",
          "path": ""
@@ -2258,7 +2258,7 @@
          "displayName": "ChartofaccountsSearch Search",
          "orderNumber": 0,
          "parentModule": "302",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ChartofaccountsSearch",
          "code": "null",
          "path": ""
@@ -2270,7 +2270,7 @@
          "displayName": "Create VoucherSubType",
          "orderNumber": 0,
          "parentModule": "305",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHERSUBTYPE",
          "code": "null",
          "path": "VOUCHERSUBTYPE SERVICE.VoucherSubTypeCreate"
@@ -2282,7 +2282,7 @@
          "displayName": "Update VoucherSubType",
          "orderNumber": 0,
          "parentModule": "305",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHERSUBTYPE",
          "code": "null",
          "path": "VOUCHERSUBTYPE SERVICE.VoucherSubTypeUpdate"
@@ -2294,7 +2294,7 @@
          "displayName": "Search VoucherSubType",
          "orderNumber": 0,
          "parentModule": "305",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHERSUBTYPE",
          "code": "null",
          "path": "VOUCHERSUBTYPE SERVICE.VoucherSubTypeSearch"
@@ -2306,7 +2306,7 @@
          "displayName": "Create Boundary",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Create Boundary"
@@ -2318,7 +2318,7 @@
          "displayName": "Create HierarchyType",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Create HierarchyType"
@@ -2329,7 +2329,7 @@
          "url": "/report/property/v1/_get",
          "displayName": "PT Report",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PTIS_REPORTS",
          "code": "null",
          "path": "Property Tax.PTIS Reports.PT V1 Report"
@@ -2340,7 +2340,7 @@
          "url": "/report/property/v1/metadata/_get",
          "displayName": "PT Report Metadata",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PTIS_REPORTS",
          "code": "null",
          "path": "Property Tax.PTIS Reports.PT Report V1 Metadata"
@@ -2352,7 +2352,7 @@
          "displayName": "MDMS Search",
          "orderNumber": 0,
          "parentModule": "306",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "MDMS Search",
          "code": "null",
          "path": ""
@@ -2364,7 +2364,7 @@
          "displayName": "CalendarHolidayTypesSearch",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CalendarHolidays",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarHolidaysSetUp.CalendarHolidayTypesSearch"
@@ -2376,7 +2376,7 @@
          "displayName": "FutureCalendarYearSearch",
          "orderNumber": 1,
          "parentModule": "71",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Calendar",
          "code": "null",
          "path": "Employee Management.Employee Masters.CalendarSetUp.FutureCalendarYearSearch"
@@ -2388,7 +2388,7 @@
          "displayName": "Update Boundary",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Update Boundary"
@@ -2400,7 +2400,7 @@
          "displayName": "Update BoundaryType",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Update BoundaryType"
@@ -2412,7 +2412,7 @@
          "displayName": "Update CrossHierarchy",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Update CrossHierarchy"
@@ -2424,7 +2424,7 @@
          "displayName": "Update HierarchyType",
          "orderNumber": 1,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Update HierarchyType"
@@ -2436,7 +2436,7 @@
          "displayName": "Get CommonInbox Report Metadata",
          "orderNumber": 1,
          "parentModule": "633",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CRPT",
          "code": "null",
          "path": "Common Report.Common Inbox Report MetaData"
@@ -2448,7 +2448,7 @@
          "displayName": "Get Common Inbox Report",
          "orderNumber": 1,
          "parentModule": "633",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CRPT",
          "code": "null",
          "path": "Common Report.Common Inbox Report"
@@ -2460,7 +2460,7 @@
          "displayName": "HR Report Reload",
          "orderNumber": 1,
          "parentModule": "633",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CRPT",
          "code": "null",
          "path": "Common Report.Common Inbox Report Reload"
@@ -2472,7 +2472,7 @@
          "displayName": "Get Actions from mdms",
          "orderNumber": 1,
          "parentModule": "221",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "code": "null",
          "path": "Access Control.Get Actions from MDMS"
@@ -2483,7 +2483,7 @@
          "url": "/access/v1/roles/mdms/_search",
          "displayName": "Get Roles from MDMS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "AccessControl",
          "path": "AccessControl"
       },
@@ -2541,7 +2541,7 @@
          "displayName": "Create Account Code Purpose",
          "orderNumber": 1,
          "parentModule": "230",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Code_Purpose_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.createAccountCodePurpose_Master"
@@ -2553,7 +2553,7 @@
          "displayName": "Modify Account Code Purpose",
          "orderNumber": 2,
          "parentModule": "230",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Account_Code_Purpose_Master",
          "code": "null",
          "path": "Financial_Master.Financials_Master.Account_Code_Purpose_Master.updateAccountCodePurpose_Master"
@@ -2577,7 +2577,7 @@
          "displayName": "Boundaries Mdms Search",
          "orderNumber": 3,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Search Boundary"
@@ -2589,7 +2589,7 @@
          "displayName": "Bill Create",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bill",
          "code": "null",
          "path": "Financials.Transactions.Create Bill"
@@ -2601,7 +2601,7 @@
          "displayName": "Bill Update",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bill",
          "code": "null",
          "path": "Financials.Transactions.Update Bill"
@@ -2613,7 +2613,7 @@
          "displayName": "Bill Search",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Bill",
          "code": "null",
          "path": "Financials.Transactions.Search Bill"
@@ -2625,7 +2625,7 @@
          "displayName": "CheckList Create",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CheckList",
          "code": "null",
          "path": "Financials.Transactions.Create CheckList"
@@ -2637,7 +2637,7 @@
          "displayName": "CheckList Update",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CheckList",
          "code": "null",
          "path": "Financials.Transactions.Update CheckList"
@@ -2649,7 +2649,7 @@
          "displayName": "CheckList Search",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CheckList",
          "code": "null",
          "path": "Financials.Transactions.Search CheckList"
@@ -2661,7 +2661,7 @@
          "displayName": "CheckList Create",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CheckList",
          "code": "null",
          "path": "Financials.Transactions.Create CheckList"
@@ -2673,7 +2673,7 @@
          "displayName": "CheckList Update",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "CheckList",
          "code": "null",
          "path": "Financials.Transactions.Update CheckList"
@@ -2686,7 +2686,7 @@
          "orderNumber": 1,
          "queryParams": null,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FILE_METADATA",
          "code": "null",
          "path": ""
@@ -2698,7 +2698,7 @@
          "displayName": "Geographical Search",
          "orderNumber": 0,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Search Geography GeoJSON"
@@ -2710,7 +2710,7 @@
          "displayName": "Tenant Search",
          "orderNumber": 0,
          "parentModule": "67",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "LOCATION_MS",
          "code": "null",
          "path": "Location.Search Tenant Resolve"
@@ -2722,7 +2722,7 @@
          "displayName": "Rainmaker Pgr Create",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
@@ -2734,7 +2734,7 @@
          "displayName": "Rainmaker Pgr Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
@@ -2746,7 +2746,7 @@
          "displayName": "Rainmaker Pgr Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
@@ -2758,7 +2758,7 @@
          "displayName": "Rainmaker Pgr Count",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "rainmaker pgr",
          "code": "null",
          "path": ""
@@ -2770,7 +2770,7 @@
          "displayName": "Filestore Url",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -2782,7 +2782,7 @@
          "displayName": "Localization Messages Create",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -2794,7 +2794,7 @@
          "displayName": "Localization Messages Delete",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -2806,7 +2806,7 @@
          "displayName": "Localization Messages Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -2818,7 +2818,7 @@
          "displayName": "Localization Messages Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -2830,7 +2830,7 @@
          "displayName": "Construction Subtype",
          "orderNumber": 4,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.ConstructionSubType",
@@ -2843,7 +2843,7 @@
          "displayName": "Occupany Type",
          "orderNumber": 5,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.OccupanyType",
@@ -2856,7 +2856,7 @@
          "displayName": "Ownership Category",
          "orderNumber": 6,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.OwnershipCategory",
@@ -2869,7 +2869,7 @@
          "displayName": "Subownerhip Category",
          "orderNumber": 7,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.SubOwnerShipCategory",
@@ -2882,7 +2882,7 @@
          "displayName": "Usage Category Detail",
          "orderNumber": 8,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.UsageCategoryDetail",
@@ -2895,7 +2895,7 @@
          "displayName": "Usage Category Major",
          "orderNumber": 9,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.UsageCategoryMajor",
@@ -2908,7 +2908,7 @@
          "displayName": "Usage Category Minor",
          "orderNumber": 10,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.UsageCategoryMinor",
@@ -2921,7 +2921,7 @@
          "displayName": "Usage Category Subminor",
          "orderNumber": 11,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.UsageCategorySubMinor",
@@ -2934,7 +2934,7 @@
          "displayName": "Property Type",
          "orderNumber": 1,
          "parentModule": "propertytax",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT",
          "code": "null",
          "path": "Property Tax.PT Masters.PropertyType",
@@ -2974,7 +2974,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -2986,7 +2986,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -3013,7 +3013,7 @@
          "displayName": "PropertyTaxEstimates",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3025,7 +3025,7 @@
          "displayName": "PropertyTaxCalculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3037,7 +3037,7 @@
          "displayName": "PropertyTaxGetBill",
          "orderNumber": 2,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -3049,7 +3049,7 @@
          "displayName": "Transaction Search",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pg-service",
          "code": "null",
          "path": ""
@@ -3061,7 +3061,7 @@
          "displayName": "Transaction Create",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pg-service",
          "code": "null",
          "path": ""
@@ -3073,7 +3073,7 @@
          "displayName": "Transaction Update",
          "orderNumber": 2,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pg-service",
          "code": "null",
          "path": ""
@@ -3085,7 +3085,7 @@
          "displayName": "bill apportion",
          "orderNumber": 3,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "proeprtytax",
          "code": "null",
          "path": ""
@@ -3097,7 +3097,7 @@
          "displayName": "Billing Slab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -3130,7 +3130,7 @@
          "url": "/customization/protected/reports/lmereport",
          "displayName": "PGR LME Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRCUSTOMREPORT",
          "code": "null",
          "path": "PGR Report"
@@ -3143,7 +3143,7 @@
          "orderNumber": 1,
          "queryParams": "",
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "tenantId": "mp",
          "createdDate": null,
@@ -3202,7 +3202,7 @@
          "displayName": "BankAccountServiceMapping Create",
          "orderNumber": 1,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "collection-masters",
          "code": "collection-masters.bankAccountServiceMapping",
          "path": ""
@@ -3214,7 +3214,7 @@
          "displayName": "BankAccountServiceMapping Create",
          "orderNumber": 1,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "collection-masters",
          "code": "collection-masters.bankAccountServiceMapping",
          "path": ""
@@ -3236,7 +3236,7 @@
          "url": "/collection-services/receipts/_create",
          "displayName": "Create Reciept",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -3247,7 +3247,7 @@
          "url": "/collection-services/receipts/_search",
          "displayName": "Search Reciept",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -3301,7 +3301,7 @@
          "parentModule": "",
          "displayName": "Financial Year",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -4183,7 +4183,7 @@
          "parentModule": "",
          "displayName": "business category search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Collections",
          "code": "null",
          "path": "",
@@ -4196,7 +4196,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Collections",
          "code": "null",
          "path": "",
@@ -4209,7 +4209,7 @@
          "parentModule": "",
          "displayName": "business category search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Collections",
          "code": "null",
          "path": "",
@@ -4222,7 +4222,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Collections",
          "code": "null",
          "path": "",
@@ -4277,7 +4277,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4290,7 +4290,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4303,7 +4303,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
@@ -4316,7 +4316,7 @@
          "parentModule": "",
          "displayName": "Create TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4328,7 +4328,7 @@
          "parentModule": "",
          "displayName": "Update TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4340,7 +4340,7 @@
          "parentModule": "",
          "displayName": "Search TradeLicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -4352,7 +4352,7 @@
          "parentModule": "",
          "displayName": "Get Bill",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-calculator",
          "code": "null",
          "path": ""
@@ -4364,7 +4364,7 @@
          "displayName": "Create Voucher",
          "orderNumber": 0,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": ""
@@ -4404,7 +4404,7 @@
          "displayName": "Fetch Bill",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Billing-service",
          "code": "null",
          "path": ""
@@ -4430,7 +4430,7 @@
          "displayName": "Cancel Voucher",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": ""
@@ -4442,7 +4442,7 @@
          "displayName": "Search Voucher",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "VOUCHER",
          "code": "null",
          "path": ""
@@ -4454,7 +4454,7 @@
          "displayName": "Create Remittance",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -4466,7 +4466,7 @@
          "displayName": "Search Remittance",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -4492,7 +4492,7 @@
          "displayName": "Create Remittance",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Property Tax",
          "code": "null",
          "path": ""
@@ -4503,7 +4503,7 @@
          "url": "/user/users/_updatenovalidate",
          "displayName": "Update User novalidate",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ADMIN",
          "code": "null",
          "path": ""
@@ -4556,7 +4556,7 @@
          "url": "/report/rainmaker-tl/_get",
          "displayName": "TL Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLREPORTS",
          "code": "null",
          "path": "TL Report"
@@ -4567,7 +4567,7 @@
          "url": "/report/rainmaker-tl/metadata/_get",
          "displayName": "Rainmaker TL report metadata",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TLREPORTS",
          "code": "null",
          "path": "TL Report Metadata "
@@ -4674,7 +4674,7 @@
          "displayName": "Trade License Registry Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseRegistryReport",
@@ -4689,7 +4689,7 @@
          "displayName": "Trade Wise Collection Report",
          "orderNumber": 2,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeWiseCollectionReport",
@@ -4704,7 +4704,7 @@
          "displayName": "Trade License Application Status Report",
          "orderNumber": 3,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.TradeLicenseApplicationStatusReport",
@@ -4719,7 +4719,7 @@
          "displayName": "State Level Status",
          "orderNumber": 6,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelStatus",
@@ -4734,7 +4734,7 @@
          "displayName": "State Level Trade Wise Collection",
          "orderNumber": 5,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelTradeWiseCollection",
@@ -4749,7 +4749,7 @@
          "displayName": "State Level Trade License Registry Report",
          "orderNumber": 4,
          "parentModule": "rainmaker-tl",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TL",
          "code": "null",
          "path": "TradeLicense.Trade License Reports.StateLevelTradeLicenseRegistryReport",
@@ -4805,7 +4805,7 @@
          "displayName": "Receipts Workflow",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null"
       },
@@ -4874,7 +4874,7 @@
          "parentModule": "",
          "displayName": "Workflow transition",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -4886,7 +4886,7 @@
          "parentModule": "",
          "displayName": "Workflow search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -4940,7 +4940,7 @@
          "displayName": "Localization Messages Upsert",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "filestore url",
          "code": "null",
          "path": ""
@@ -4992,7 +4992,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Uploader",
          "code": "null",
          "path": "",
@@ -5005,7 +5005,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Uploader",
          "code": "null",
          "path": "",
@@ -5018,7 +5018,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Uploader",
          "code": "null",
          "path": "",
@@ -5031,7 +5031,7 @@
          "parentModule": "",
          "displayName": "BusinessService Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -5043,7 +5043,7 @@
          "parentModule": "",
          "displayName": "BusinessService Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -5055,7 +5055,7 @@
          "parentModule": "",
          "displayName": "BusinessService Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-workflow-v2",
          "code": "null",
          "path": ""
@@ -5095,7 +5095,7 @@
          "displayName": "Receipts Workflow",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -5151,7 +5151,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5163,7 +5163,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5175,7 +5175,7 @@
          "parentModule": "egov-hrms",
          "displayName": "Employee Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
@@ -5455,7 +5455,7 @@
          "parentModule": "",
          "displayName": "Apportion Service",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-apportion-service",
          "code": "null",
          "path": ""
@@ -5711,7 +5711,7 @@
          "parentModule": "",
          "displayName": "Close Period",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinanceMaster",
          "code": "null",
          "leftIcon": "editor:insert-chart",
@@ -5739,7 +5739,7 @@
          "parentModule": "",
          "displayName": "Create FireNoc",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-service",
          "code": "null",
          "path": ""
@@ -5751,7 +5751,7 @@
          "parentModule": "",
          "displayName": "Update FireNoc",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-service",
          "code": "null",
          "path": ""
@@ -5763,7 +5763,7 @@
          "parentModule": "",
          "displayName": "Search FireNoc",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-service",
          "code": "null",
          "path": ""
@@ -5833,7 +5833,7 @@
          "parentModule": "",
          "displayName": "Search Bills with details",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Searcher",
          "code": "null",
          "path": ""
@@ -6003,7 +6003,7 @@
          "parentModule": "",
          "displayName": "Get Bill",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-calculator",
          "code": "null",
          "path": ""
@@ -6015,7 +6015,7 @@
          "parentModule": "",
          "displayName": "Calculate",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-calculator",
          "code": "null",
          "path": ""
@@ -6027,7 +6027,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-calculator",
          "code": "null",
          "path": ""
@@ -6039,7 +6039,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-calculator",
          "code": "null",
          "path": ""
@@ -6051,7 +6051,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "firenoc-calculator",
          "code": "null",
          "path": ""
@@ -6063,7 +6063,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-indexer",
          "code": "null",
          "path": ""
@@ -6096,7 +6096,7 @@
          "url": "/pt-services-v2/demandBased/_generate",
          "displayName": "pt-services demand based system",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PT-SERVICES-V2",
          "code": "null",
          "path": ""
@@ -6107,7 +6107,7 @@
          "url": "/egov-user-event/v1/events/_create",
          "displayName": "mSeva Event Notification",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "msea-event-notification",
          "code": "null",
          "path": ""
@@ -6118,7 +6118,7 @@
          "url": "/egov-user-event/v1/events/_update",
          "displayName": "mSeva Event Notification",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "msea-event-notification",
          "code": "null",
          "path": ""
@@ -6129,7 +6129,7 @@
          "url": "/egov-user-event/v1/events/_search",
          "displayName": "mSeva Event Notification",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "msea-event-notification",
          "code": "null",
          "path": ""
@@ -6140,7 +6140,7 @@
          "url": "/egov-user-event/v1/events/notifications/_count",
          "displayName": "mSeva Event Notification",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "msea-event-notification",
          "code": "null",
          "path": ""
@@ -6151,7 +6151,7 @@
          "url": "/egov-user-event/v1/events/lat/_update",
          "displayName": "mSeva Event Notification",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "msea-event-notification",
          "code": "null",
          "path": ""
@@ -6177,7 +6177,7 @@
          "url": "/pdf-service/v1/_create",
          "displayName": "Pdf Generator create",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pdf-generator-create",
          "code": "null",
          "path": ""
@@ -6188,7 +6188,7 @@
          "url": "/pdf-service/v1/_search",
          "displayName": "Pdf Generator search",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pdf-generator-search",
          "code": "null",
          "path": ""
@@ -6200,7 +6200,7 @@
          "displayName": "Deductions RTGS Assignment",
          "orderNumber": 5,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FinanceDeductions",
          "navigationURL": "services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
          "code": "null",
@@ -6467,7 +6467,7 @@
          "url": "/billing-service/bill/v2/_generate",
          "displayName": "Generate Bill v2",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.GenerateBill"
@@ -6478,7 +6478,7 @@
          "url": "/billing-service/bill/v2/_search",
          "displayName": "search Bill v2",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.GenerateBill"
@@ -6489,7 +6489,7 @@
          "url": "/billing-service/bill/v2/_fetchbill",
          "displayName": "fetch Bill v2",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.GenerateBill"
@@ -6500,7 +6500,7 @@
          "url": "/collection-services/payments/_create",
          "displayName": "Create Payment",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -6511,7 +6511,7 @@
          "url": "/collection-services/payments/_search",
          "displayName": "Search Payment",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -6522,7 +6522,7 @@
          "url": "/collection-services/payments/_update",
          "displayName": "Update paymentt",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -6533,7 +6533,7 @@
          "url": "/collection-services/payments/_workflow",
          "displayName": "Payment workflow",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "COLLECTION",
          "code": "null",
          "path": ""
@@ -6573,7 +6573,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-indexer",
          "code": "null",
          "path": ""
@@ -6585,7 +6585,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-indexer",
          "code": "null",
          "path": ""
@@ -6610,7 +6610,7 @@
          "url": "/pdf-service/v1/_createnosave",
          "displayName": "Pdf Generator createnosave",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pdf-generator-createnosave",
          "code": "null",
          "path": ""
@@ -6636,7 +6636,7 @@
          "displayName": "TradeLicenseCalculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicenseCalculator",
          "code": "null",
          "path": "null"
@@ -6648,7 +6648,7 @@
          "parentModule": "",
          "displayName": "Create BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -6660,7 +6660,7 @@
          "parentModule": "",
          "displayName": "Update BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -6672,7 +6672,7 @@
          "parentModule": "",
          "displayName": "Search BPALicense",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-services",
          "code": "null",
          "path": ""
@@ -6684,7 +6684,7 @@
          "parentModule": "",
          "displayName": "Get Bill BPA",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "tl-calculator",
          "code": "null",
          "path": ""
@@ -6849,7 +6849,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -6887,7 +6887,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -6899,7 +6899,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -6911,7 +6911,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -6923,7 +6923,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -6962,7 +6962,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeWiseCollection",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -6974,7 +6974,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -6986,7 +6986,7 @@
          "displayName": "rainmaker-tl-TradeLicenseApplicationStatusReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -6998,7 +6998,7 @@
          "displayName": "rainmaker-tl-TradeWiseCollectionReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7010,7 +7010,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7070,7 +7070,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeWiseCollection",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7082,7 +7082,7 @@
          "displayName": "rainmaker-tl-StateLevelTradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7094,7 +7094,7 @@
          "displayName": "rainmaker-tl-TradeLicenseApplicationStatusReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": "Asset Management.Asset Reports.AssetImmovableRegister"
@@ -7106,7 +7106,7 @@
          "displayName": "rainmaker-tl-TradeWiseCollectionReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7118,7 +7118,7 @@
          "displayName": "rainmaker-tl-TradeLicenseRegistryReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7165,7 +7165,7 @@
          "url": "/property-services/property/_create",
          "displayName": "Create Property Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7176,7 +7176,7 @@
          "url": "/property-services/property/_update",
          "displayName": "Update Property Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7187,7 +7187,7 @@
          "url": "/property-services/property/_search",
          "displayName": "Search Property Registry",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7198,7 +7198,7 @@
          "url": "/property-services/property/_cancel",
          "displayName": "Cancel Property Registry",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7274,7 +7274,7 @@
          "url": "/egov-searcher/locality/tl-services/_get",
          "displayName": "TL locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7285,7 +7285,7 @@
          "url": "/egov-searcher/locality/fireNoc/_get",
          "displayName": "FIRENOC locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7296,7 +7296,7 @@
          "url": "/ws-services/wc/_create",
          "displayName": "Create Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7307,7 +7307,7 @@
          "url": "/ws-services/wc/_search",
          "displayName": "Search Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7318,7 +7318,7 @@
          "url": "/ws-services/wc/_update",
          "displayName": "Update Water COnnection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-services",
          "code": "null",
          "path": ""
@@ -7329,7 +7329,7 @@
          "url": "/ws-calculator/meterConnection/_create",
          "displayName": "Enter Meter Reading",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7340,7 +7340,7 @@
          "url": "/ws-calculator/meterConnection/_search",
          "displayName": "Search Meter Reading",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7351,7 +7351,7 @@
          "url": "/ws-calculator/waterCalculator/_calculate",
          "displayName": "Calculate Water Bill",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7362,7 +7362,7 @@
          "url": "/sw-services/swc/_create",
          "displayName": "Create Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7373,7 +7373,7 @@
          "url": "/sw-services/swc/_update",
          "displayName": "Update Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7384,7 +7384,7 @@
          "url": "/sw-services/swc/_search",
          "displayName": "Search Sewerage Connection",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-services",
          "code": "null",
          "path": ""
@@ -7395,7 +7395,7 @@
          "url": "/sw-calculator/sewerageCalculator/_calculate",
          "displayName": "Sewerage Calculation",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
@@ -7406,7 +7406,7 @@
          "url": "/egov-searcher/locality/BPAREG/_get",
          "displayName": "BPA locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7432,7 +7432,7 @@
          "url": "/bpa-services/v1/bpa/_create",
          "displayName": "Apply",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -7443,7 +7443,7 @@
          "url": "/bpa-services/v1/bpa/_search",
          "displayName": "Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -7454,7 +7454,7 @@
          "url": "/bpa-services/v1/bpa/_update",
          "displayName": "Apply",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -7465,7 +7465,7 @@
          "url": "/property-services/assessment/_create",
          "displayName": "Create Assessment Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7476,7 +7476,7 @@
          "url": "/property-services/assessment/_update",
          "displayName": "Update Assessment Registry",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7487,7 +7487,7 @@
          "url": "/property-services/assessment/_search",
          "displayName": "Search Assessment Registry",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7531,7 +7531,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7579,7 +7579,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7591,7 +7591,7 @@
          "displayName": "Draft Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7603,7 +7603,7 @@
          "displayName": "Mutation Billing Slab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pt-calculator-v2",
          "code": "null",
          "path": ""
@@ -7615,7 +7615,7 @@
          "displayName": "Mutation fees Calculation",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -7656,7 +7656,7 @@
          "url": "/egov-searcher/bill-genie/waterbills/_get",
          "displayName": "Search Water Bill",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Searcher",
          "code": "null",
          "path": ""
@@ -7667,7 +7667,7 @@
          "url": "/egov-searcher/bill-genie/seweragebills/_get",
          "displayName": "Search Sewerage Bill",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Searcher",
          "code": "null",
          "path": ""
@@ -7678,7 +7678,7 @@
          "url": "/ws-calculator/waterCalculator/_estimate",
          "displayName": "Fee Calculation For Water Application",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -7689,7 +7689,7 @@
          "url": "/sw-calculator/sewerageCalculator/_estimate",
          "displayName": "Fee Calculation For Sewerage Application",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
@@ -7701,7 +7701,7 @@
          "displayName": "PropertyTaxEstimatesV2",
          "orderNumber": 0,
          "parentModule": null,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PropertytaxCalculatorV2",
          "code": "null",
          "path": "null"
@@ -7713,7 +7713,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7725,7 +7725,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7737,7 +7737,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7748,7 +7748,7 @@
          "url": "/egov-searcher/locality/PT/_get",
          "displayName": "PT locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7759,7 +7759,7 @@
          "url": "/egov-searcher/locality/pt-services/_get",
          "displayName": "PT locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7771,7 +7771,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7796,7 +7796,7 @@
          "url": "/bpa-services/v1/bpa/_permitorderedcr",
          "displayName": "Apply",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -7807,7 +7807,7 @@
          "url": "/egov-searcher/locality/bpa-services/_get",
          "displayName": "BPA locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7818,7 +7818,7 @@
          "url": "/egov-searcher/locality/BPAREG/_get",
          "displayName": "BPA locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7830,7 +7830,7 @@
          "parentModule": "",
          "displayName": "DSS",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "DSS",
          "code": "null",
          "path": ""
@@ -7841,7 +7841,7 @@
          "url": "/property-services/property/_migration",
          "displayName": "Migrate Property v1 to v2",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "property-services",
          "code": "null",
          "path": ""
@@ -7867,7 +7867,7 @@
          "displayName": "Localization",
          "orderNumber": 5,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "",
          "path": "Localization",
@@ -7924,7 +7924,7 @@
          "url": "/egov-searcher/locality/sw-services/_get",
          "displayName": "SW-Service locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7935,7 +7935,7 @@
          "url": "/egov-searcher/locality/ws-services/_get",
          "displayName": "WS-Service locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -7946,7 +7946,7 @@
          "url": "/egov-pdf/download/PAYMENT/consolidatedreceipt",
          "displayName": "consolidatedreceipt search",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -7957,7 +7957,7 @@
          "url": "/egov-pdf/download/BILL/consolidatedbill",
          "displayName": "consolidatedbill search",
          "orderNumber": 2,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -7968,7 +7968,7 @@
          "url": "/egov-pdf/download/TL/tlreceipt",
          "displayName": "tlreceipt search",
          "orderNumber": 3,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -7979,7 +7979,7 @@
          "url": "/egov-pdf/download/TL/tlcertificate",
          "displayName": "tlcertificate search",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -7990,7 +7990,7 @@
          "url": "/egov-pdf/download/TL/tlrenewalcertificate",
          "displayName": "tlrenewalcertificate search",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8001,7 +8001,7 @@
          "url": "/egov-pdf/download/TL/tlbill",
          "displayName": "tlbill search",
          "orderNumber": 6,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8012,7 +8012,7 @@
          "url": "/egov-pdf/download/PT/ptmutationcertificate",
          "displayName": "ptmutationcertificate search",
          "orderNumber": 7,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8023,7 +8023,7 @@
          "url": "/egov-pdf/download/PT/ptbill",
          "displayName": "ptbill search",
          "orderNumber": 8,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8034,7 +8034,7 @@
          "url": "/egov-pdf/download/PT/ptreceipt",
          "displayName": "ptreceipt search",
          "orderNumber": 9,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-pdf",
          "code": "null",
          "path": ""
@@ -8045,7 +8045,7 @@
          "url": "/land-services/v1/land/_create",
          "displayName": "Land Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8056,7 +8056,7 @@
          "url": "/land-services/v1/land/_update",
          "displayName": "Land Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8067,7 +8067,7 @@
          "url": "/land-services/v1/land/_search",
          "displayName": "Land Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
@@ -8079,7 +8079,7 @@
          "displayName": "Localization Messages Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "localisation search",
          "code": "null",
          "path": ""
@@ -8091,7 +8091,7 @@
          "displayName": "Localization Messages Clear cache",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "localisation clear bust",
          "code": "null",
          "path": ""
@@ -8102,7 +8102,7 @@
          "url": "/noc-services/v1/noc/_create",
          "displayName": "Create",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8113,7 +8113,7 @@
          "url": "/noc-services/v1/noc/_search",
          "displayName": "Search",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8124,7 +8124,7 @@
          "url": "/noc-services/v1/noc/_update",
          "displayName": "Update",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "NOC",
          "code": "null",
          "path": ""
@@ -8156,7 +8156,7 @@
          "url": "/egov-searcher/locality/noc-services/_get",
          "displayName": "Noc locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -8168,7 +8168,7 @@
          "parentModule": "",
          "displayName": "Create PGR Request",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
@@ -8180,7 +8180,7 @@
          "parentModule": "",
          "displayName": "Update PGR Request",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
@@ -8192,7 +8192,7 @@
          "parentModule": "",
          "displayName": "Search PGR Request",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
@@ -8204,7 +8204,7 @@
          "parentModule": "",
          "displayName": "Count PGR Request",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
@@ -8216,7 +8216,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8228,7 +8228,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8240,7 +8240,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8251,7 +8251,7 @@
          "url": "/report/pgr/ULBReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8262,7 +8262,7 @@
          "url": "/report/pgr/DescriptionReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8273,7 +8273,7 @@
          "url": "/report/pgr/LMEPerformanceReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8284,7 +8284,7 @@
          "url": "/report/pgr/GROPerformanceReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -8295,7 +8295,7 @@
          "url": "/ws-calculator/waterCalculator/_applyAdhocTax",
          "displayName": "Add adhoc tax",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "ws-calculator",
          "code": "null",
          "path": ""
@@ -8306,7 +8306,7 @@
          "url": "/sw-calculator/sewerageCalculator/_applyAdhocTax",
          "displayName": "Add adhoc tax",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "sw-calculator",
          "code": "null",
          "path": ""
@@ -8332,7 +8332,7 @@
          "displayName": "Workflow Count",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8344,7 +8344,7 @@
          "displayName": "PT Receipt Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8356,7 +8356,7 @@
          "displayName": "PT Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8398,7 +8398,7 @@
          "displayName": "BPA LOW Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8410,7 +8410,7 @@
          "displayName": "PT Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8422,7 +8422,7 @@
          "displayName": "TL Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8434,7 +8434,7 @@
          "displayName": "FIRENOC Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8446,7 +8446,7 @@
          "displayName": "WS Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8458,7 +8458,7 @@
          "displayName": "SW Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8470,7 +8470,7 @@
          "displayName": "UC Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8482,7 +8482,7 @@
          "displayName": "UC Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8494,7 +8494,7 @@
          "displayName": "DEFAULT Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8506,7 +8506,7 @@
          "displayName": "BPA Application Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8518,7 +8518,7 @@
          "displayName": "BPA San Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8530,7 +8530,7 @@
          "displayName": "BPA OC Application Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8542,7 +8542,7 @@
          "displayName": "BPA OC San Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8554,7 +8554,7 @@
          "displayName": "Electricity_Chungi Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8566,7 +8566,7 @@
          "displayName": "No_Dues_Certificate Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8578,7 +8578,7 @@
          "displayName": "Unipolls Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8590,7 +8590,7 @@
          "displayName": "Wall_Paint_Advertisement Payment search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8601,7 +8601,7 @@
          "url": "/billing-service/amendment/_create",
          "displayName": "Create Amendment",
          "orderNumber": 4,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.CreateAmendment"
@@ -8612,7 +8612,7 @@
          "url": "/billing-service/amendment/_search",
          "displayName": "Search Amendment",
          "orderNumber": 5,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.SearchAmendment"
@@ -8639,7 +8639,7 @@
          "url": "/billing-service/amendment/_update",
          "displayName": "Update Amendment",
          "orderNumber": 6,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "BILLING_SERVICE",
          "code": "null",
          "path": "Billing Service.Amendment"
@@ -8650,7 +8650,7 @@
          "url": "/egov-searcher/locality/BS/_get",
          "displayName": "Bill amendment locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -8676,7 +8676,7 @@
          "url": "/report/hrms/EmployeeReport/metadata/_get",
          "displayName": "Rainmaker Employee report",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EmployeeReport",
          "code": "null",
          "path": "Employee Report"
@@ -8687,7 +8687,7 @@
          "url": "/report/hrms/EmployeeReport/_get",
          "displayName": "Employee Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "EmployeeReport",
          "code": "null",
          "path": "Employee Report"
@@ -8698,7 +8698,7 @@
          "url": "/fsm/v1/_create",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8709,7 +8709,7 @@
          "url": "/fsm/v1/_search",
          "displayName": "Search  FSM Appliacations",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8720,7 +8720,7 @@
          "url": "/fsm/v1/_update",
          "displayName": "Update FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -8731,7 +8731,7 @@
          "url": "/egov-searcher/locality/FSM/_get",
          "displayName": "FSM locality searcher",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "egov-searcher",
          "code": "null",
          "path": ""
@@ -8742,7 +8742,7 @@
          "url": "/vehicle/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -8753,7 +8753,7 @@
          "url": "/vehicle/v1/_search",
          "displayName": "Search  Vehicle",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vehicle",
          "code": "null",
          "path": ""
@@ -8764,7 +8764,7 @@
          "url": "/vendor/v1/_create",
          "displayName": "Create Vehicle",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
@@ -8775,7 +8775,7 @@
          "url": "/vendor/v1/_search",
          "displayName": "Search  Vendor",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "vendor",
          "code": "null",
          "path": ""
@@ -8787,7 +8787,7 @@
          "displayName": "FSM Application Audit serach",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8799,7 +8799,7 @@
          "displayName": "FSM BillingSlab Create",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8811,7 +8811,7 @@
          "displayName": "FSM BillingSlab Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8823,7 +8823,7 @@
          "displayName": "FSM BillingSlab Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8835,7 +8835,7 @@
          "displayName": "Vehicle Trip Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8847,7 +8847,7 @@
          "displayName": "Vehicle Trip Update",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -8859,7 +8859,7 @@
          "displayName": "FSM Estimate",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9015,7 +9015,7 @@
          "displayName": "FSM Application Charge Payment Search",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "",
          "code": "null",
          "path": ""
@@ -9027,7 +9027,7 @@
          "displayName": "MDMS GET",
          "orderNumber": 0,
          "parentModule": "306",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "MDMS GET",
          "code": "null",
          "path": ""
@@ -9038,7 +9038,7 @@
          "url": "/egov-enc-service/crypto/v1/_encrypt",
          "displayName": "Encrypt",
          "orderNumber": 1,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "Enc",
          "code": "null",
          "path": "Enc.Encrypt"
@@ -9050,7 +9050,7 @@
       "parentModule": "",
       "displayName": "BPA Calculator",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "tl-services",
       "code": "null",
       "path": ""
@@ -9061,7 +9061,7 @@
       "url": "/edcr/rest/dcr/scrutinize",
       "displayName": "Building Plan Scrutiny",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9072,7 +9072,7 @@
       "url": "/edcr/rest/dcr/scrutinydetails",
       "displayName": "Search Building Plan Scrutiny",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9083,7 +9083,7 @@
       "url": "/edcr/rest/dcr/downloadfile",
       "displayName": "Download Files",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9094,7 +9094,7 @@
       "url": "/edcr/rest/dcr/occomparison",
       "displayName": "Compare OC and Permit Plans",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "EDCR",
       "code": "null",
       "path": ""
@@ -9247,7 +9247,7 @@
       "parentModule": "",
       "displayName": "Create Challan",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
@@ -9259,7 +9259,7 @@
       "parentModule": "",
       "displayName": "Search mcollect Bill",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Searcher",
       "code": "null",
       "path": ""
@@ -9271,7 +9271,7 @@
       "parentModule": "",
       "displayName": "Search Challan",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
@@ -9282,7 +9282,7 @@
       "url": "/egov-pdf/download/UC/mcollect-challan",
       "displayName": "mchallan search",
       "orderNumber": 9,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9293,7 +9293,7 @@
       "url": "/egov-pdf/download/UC/mcollect-bill",
       "displayName": "mbill search",
       "orderNumber": 9,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9305,7 +9305,7 @@
       "parentModule": "",
       "displayName": "Update Challan",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
@@ -9332,7 +9332,7 @@
       "displayName": "Rainmaker PGR report",
       "orderNumber": 1,
       "parentModule": "147",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "ChallanStatusRegistry"
@@ -9343,7 +9343,7 @@
       "url": "/report/rainmaker-uc/ChallanStatusRegistry/_get",
       "displayName": "PGR Report",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "UCREPORTS",
       "code": "null",
       "path": "ChallanStatusRegistry"
@@ -9384,7 +9384,7 @@
       "url": "/egov-pdf/download/UC/mcollect-receipt",
       "displayName": "mchallan search",
       "orderNumber": 9,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9409,7 +9409,7 @@
       "url": "/billing-service/bill/v2/_generate",
       "displayName": "Generate Bill",
       "orderNumber": 9,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
       "path": "Billing Service.GenerateBill"
@@ -9434,7 +9434,7 @@
       "url": "/egov-pdf/download/PAYMENT/ws-onetime-receipt",
       "displayName": "WS One time search",
       "orderNumber": 9,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9446,7 +9446,7 @@
       "displayName": "Gas_Balloon_Advertisement payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9458,7 +9458,7 @@
       "displayName": "Transfer_Property_Fees payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9470,7 +9470,7 @@
       "displayName": "TS1_copy_register_for_old_survey payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9482,7 +9482,7 @@
       "displayName": "No_Dues_Certificate payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9494,7 +9494,7 @@
       "displayName": "No_Dues_Certificate payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9506,7 +9506,7 @@
       "displayName": "Light_Wala_Board Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9518,7 +9518,7 @@
       "displayName": "Hoardings Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9530,7 +9530,7 @@
       "displayName": "Mutation receipt download",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9541,7 +9541,7 @@
       "url": "/egov-searcher/locality/property-services/_get",
       "displayName": "PT locality searcher",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
@@ -9553,7 +9553,7 @@
       "displayName": "TL receipt download",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9564,7 +9564,7 @@
       "url": "/egov-pdf/download/WNS/wnsreceipt",
       "displayName": "Water and Sewerage receipt search",
       "orderNumber": 10,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9575,7 +9575,7 @@
       "url": "/egov-pdf/download/WNS/wnsbill",
       "displayName": "Water and Sewerage bill search",
       "orderNumber": 11,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9586,7 +9586,7 @@
       "url": "/egov-pdf/download/BILL/billamendmentcertificate",
       "displayName": "billamendmentcertificate search",
       "orderNumber": 12,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -9598,7 +9598,7 @@
       "displayName": "WS payment download",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9609,7 +9609,7 @@
       "url": "/collectionservices/payments/FIRENOC/_search",
       "displayName": "Firenoc payment search",
       "orderNumber": 10,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "null",
       "code": "null",
       "path": ""
@@ -9620,7 +9620,7 @@
       "url": "/collectionservices/payments/WS.ONE_TIME_FEE/_search",
       "displayName": "collectionservices search",
       "orderNumber": 11,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "null",
       "code": "null",
       "path": ""
@@ -9631,7 +9631,7 @@
       "url": "/collectionservices/payments/SW.ONE_TIME_FEE/_search",
       "displayName": "collectionservices search",
       "orderNumber": 12,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "null",
       "code": "null",
       "path": ""
@@ -9643,7 +9643,7 @@
       "displayName": "SW payment download",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -9654,7 +9654,7 @@
       "url": "/collection-services/payments/WS.ONE_TIME_FEE/_search",
       "displayName": "collectionservices search",
       "orderNumber": 11,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "null",
       "code": "null",
       "path": ""
@@ -9665,7 +9665,7 @@
       "url": "/collection-services/payments/SW.ONE_TIME_FEE/_search",
       "displayName": "collectionservices search",
       "orderNumber": 12,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "null",
       "code": "null",
       "path": ""
@@ -9788,7 +9788,7 @@
       "parentModule": "egov-hrms",
       "displayName": "Employee Count",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-hrms",
       "code": "null",
       "path": ""
@@ -9799,7 +9799,7 @@
       "url": "/fsm/plantmap/v1/_create",
       "displayName": "Create FSTP FSTPOperator Map",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FSM",
       "code": "null",
       "path": ""
@@ -9810,7 +9810,7 @@
       "url": "/fsm/plantmap/v1/_update",
       "displayName": "Update FSTP FSTPOperator Map",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FSM",
       "code": "null",
       "path": ""
@@ -9821,7 +9821,7 @@
       "url": "/fsm/plantmap/v1/_search",
       "displayName": "Search FSTP FSTPOperator Map",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FSM",
       "code": "null",
       "path": ""
@@ -9862,7 +9862,7 @@
       "url": "/inbox/v1/_search",
       "displayName": "Inbox Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "inbox",
       "code": "null",
       "path": ""
@@ -9874,7 +9874,7 @@
       "parentModule": "",
       "displayName": "Workflow Escalation search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -10070,7 +10070,7 @@
       "url": "/egov-searcher/property-services/inboxpropertysearch/_get",
       "displayName": "Inbox service property searcher",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
@@ -10081,7 +10081,7 @@
       "url": "/egov-pdf/download/WNS/wnsgroupbill",
       "displayName": "Water and Sewerage Group Bill",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -10130,7 +10130,7 @@
       "displayName": "Cancel Bill",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Billing-service",
       "code": "null",
       "path": ""
@@ -10170,7 +10170,7 @@
       "parentModule": "",
       "displayName": "Count Challan",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "CHALLAN_SERVICE",
       "code": "null",
       "path": ""
@@ -10197,7 +10197,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -11702,7 +11702,7 @@
          "url": "/fsm/v1/_getapplicationsforperiodic",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -11713,7 +11713,7 @@
          "url": "/fsm/v1/_schedular",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -11724,7 +11724,7 @@
          "url": "/fsm/v1/_createperiodicapplications",
          "displayName": "Apply FSM",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "FSM",
          "code": "null",
          "path": ""
@@ -11735,7 +11735,7 @@
       "url": "/egov-searcher/locality/pgr-services/_get",
       "displayName": "PGR locality searcher",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-searcher",
       "code": "null",
       "path": ""
@@ -11746,7 +11746,7 @@
       "url": "/egov-document-uploader/egov-du/document/_create",
       "displayName": "Create document",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DU",
       "code": "null",
       "path": ""
@@ -11757,7 +11757,7 @@
       "url": "/egov-document-uploader/egov-du/document/_search",
       "displayName": "Search document",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DU",
       "code": "null",
       "path": ""
@@ -11768,7 +11768,7 @@
       "url": "/egov-document-uploader/egov-du/document/_update",
       "displayName": "Update document",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DU",
       "code": "null",
       "path": ""
@@ -11779,7 +11779,7 @@
       "url": "/egov-document-uploader/egov-du/document/_delete",
       "displayName": "Delete document",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DU",
       "code": "null",
       "path": ""
@@ -11790,7 +11790,7 @@
       "url": "/property-services/property/_addAlternateNumber",
       "displayName": "Add Alternate Mobile Numbers",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "PT",
       "code": "null",
       "path": ""
@@ -11802,7 +11802,7 @@
       "displayName": "Stakeholder Registration Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -11814,7 +11814,7 @@
       "displayName": "Filestore Url",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "filestore url",
       "code": "null",
       "path": ""
@@ -11840,7 +11840,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -11852,7 +11852,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -11864,7 +11864,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -11875,7 +11875,7 @@
       "url": "/national-dashboard/metric/_ingest",
       "displayName": "Ingest metrics",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -11886,7 +11886,7 @@
       "url": "/national-dashboard/masterdata/_ingest",
       "displayName": "Ingest master data metrics",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -11898,7 +11898,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -11910,7 +11910,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -11937,7 +11937,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -11964,7 +11964,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -11991,7 +11991,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -12033,7 +12033,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -12060,7 +12060,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -12147,7 +12147,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -12189,7 +12189,7 @@
       "url": "/pdf-service/v1/_getBulkPdfRecordsDetails",
       "displayName": "Bulk PDF Details",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pdf-generator-create",
       "code": "null",
       "path": ""
@@ -12200,7 +12200,7 @@
       "url": "/pdf-service/v1/_cancelProcess",
       "displayName": "Bulk PDF Cancel Process",
       "orderNumber": 1,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "pdf-generator-create",
       "code": "null",
       "path": ""
@@ -12482,7 +12482,7 @@
       "parentModule": "",
       "displayName": "DSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
@@ -12494,7 +12494,7 @@
       "parentModule": "",
       "displayName": "Death New Registration",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
@@ -12506,7 +12506,7 @@
       "parentModule": "",
       "displayName": "Birth New Registration",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "leftIcon": "custom:library-books",
@@ -12519,7 +12519,7 @@
       "parentModule": "",
       "displayName": "My Applications",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
@@ -12531,7 +12531,7 @@
       "parentModule": "",
       "displayName": "My Applications",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
@@ -12543,7 +12543,7 @@
       "parentModule": "",
       "displayName": "Home",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
@@ -12555,7 +12555,7 @@
       "parentModule": "",
       "displayName": "Home",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "Birth-Death",
       "code": "null",
       "path": ""
@@ -12687,7 +12687,7 @@
       "parentModule": "",
       "displayName": "Get file store id for consumer code",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12699,7 +12699,7 @@
       "parentModule": "",
       "displayName": "my requests",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12728,7 +12728,7 @@
       "parentModule": "",
       "displayName": "death Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12740,7 +12740,7 @@
       "parentModule": "",
       "displayName": "Download death Cert",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12752,7 +12752,7 @@
       "parentModule": "",
       "displayName": "Get file store id for consumer code",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12764,7 +12764,7 @@
       "parentModule": "",
       "displayName": "my requests",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12792,7 +12792,7 @@
       "parentModule": "",
       "displayName": "View Certificate data",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12804,7 +12804,7 @@
       "parentModule": "",
       "displayName": "Check Declaration",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12816,7 +12816,7 @@
       "parentModule": "",
       "displayName": "Update Declaration",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12840,7 +12840,7 @@
       "displayName": "PT Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -12852,7 +12852,7 @@
       "displayName": "PT Payment search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "",
       "code": "null",
       "path": ""
@@ -12863,7 +12863,7 @@
       "url": "/egov-pdf/download/BIRTHDEATH/birth-certificate",
       "displayName": "BND receipt search",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -12874,7 +12874,7 @@
       "url": "/egov-pdf/download/BIRTHDEATH/death-certificate",
       "displayName": "BND receipt search",
       "orderNumber": 3,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "egov-pdf",
       "code": "null",
       "path": ""
@@ -12885,7 +12885,7 @@
       "url": "/filestore/v1/files/static",
       "displayName": "BND how it works",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12959,7 +12959,7 @@
       "parentModule": "",
       "displayName": "Birth Plain Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12971,7 +12971,7 @@
       "parentModule": "",
       "displayName": "Death Plain Search",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "birth-death-services",
       "code": "null",
       "path": ""
@@ -12998,7 +12998,7 @@
       "parentModule": "",
       "displayName": "NSS",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
@@ -13010,7 +13010,7 @@
       "displayName": "Vendor Driver Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13022,7 +13022,7 @@
       "displayName": "Vendor Driver Update",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13034,7 +13034,7 @@
       "displayName": "Vendor Driver Search",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13045,7 +13045,7 @@
       "url": "/vendor/v1/_update",
       "displayName": "Update Vendor",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vendor",
       "code": "null",
       "path": ""
@@ -13056,7 +13056,7 @@
       "url": "/vehicle/v1/_update",
       "displayName": "Update Vehicle",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vehicle",
        "code": "null",
       "path": ""
@@ -13068,7 +13068,7 @@
       "displayName": "Vehicle Trip Create",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "vehicle",
       "code": "null",
       "path": ""
@@ -13342,7 +13342,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
