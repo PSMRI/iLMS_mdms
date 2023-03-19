@@ -33435,12 +33435,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "HELPDESK",
-      "actionid": 2435,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "EMPLOYEE",
       "actionid": 2436,
       "actioncode": "",
