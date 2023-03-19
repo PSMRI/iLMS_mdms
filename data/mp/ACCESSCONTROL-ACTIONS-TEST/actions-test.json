@@ -6284,7 +6284,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6295,7 +6295,7 @@
          "url": "/report/rainmaker-pgr/SourceWiseReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6307,7 +6307,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6318,7 +6318,7 @@
          "url": "/report/rainmaker-pgr/DescriptionReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6330,7 +6330,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6341,7 +6341,7 @@
          "url": "/report/rainmaker-pgr/EmployeeReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6353,7 +6353,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6364,7 +6364,7 @@
          "url": "/report/rainmaker-pgr/StateSourceReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6376,7 +6376,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6387,7 +6387,7 @@
          "url": "/report/rainmaker-pgr/StateULBReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6399,7 +6399,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6410,7 +6410,7 @@
          "url": "/report/rainmaker-pgr/DepartmentReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6422,7 +6422,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6433,7 +6433,7 @@
          "url": "/report/rainmaker-pgr/ULBDepartmentReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6445,7 +6445,7 @@
          "displayName": "Rainmaker PGR report",
          "orderNumber": 1,
          "parentModule": "147",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -6456,7 +6456,7 @@
          "url": "/report/rainmaker-pgr/ULBEmployeeWiseReport/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "RainmakerPGRReports",
          "code": "null",
          "path": "PGR Report"
@@ -7022,7 +7022,7 @@
          "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7034,7 +7034,7 @@
          "displayName": "rainmaker-pgr-ULBDepartmentReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7130,7 +7130,7 @@
          "displayName": "rainmaker-pgr-ULBEmployeeWiseReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
@@ -7142,7 +7142,7 @@
          "displayName": "rainmaker-pgr-ULBDepartmentReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "report",
          "code": "null",
          "path": ""
