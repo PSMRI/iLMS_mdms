@@ -3225,7 +3225,7 @@
          "url": "/report/rainmaker-pgr/_get",
          "displayName": "PGR Report",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "PGRREPORTS",
          "code": "null",
          "path": "PGR Report"
