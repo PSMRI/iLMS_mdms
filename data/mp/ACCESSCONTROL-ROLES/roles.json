@@ -136,7 +136,13 @@
       "name": "Citizen",
       "code": "CITIZEN",
       "description": "Create Gr"
+    },
+    {
+      "name": "Pgr Admin",
+      "code": "PGR-ADMIN",
+      "description": "Admin"
     }
+
 
    ]
 }
