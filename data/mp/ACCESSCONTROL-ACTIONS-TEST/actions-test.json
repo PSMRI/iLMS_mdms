@@ -13346,6 +13346,19 @@
          "serviceCode": "egov-survey-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2441,
+         "name": "ULBReport",
+         "url": "url",
+         "displayName": "ULB Register",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "COLLECTIONS",
+         "code": "null",
+         "leftIcon": "action:description",
+         "navigationURL": "report/rainmaker-common/ULBReport",
+         "path": "Complaints.ULB Report"
       }
    ]
 }
