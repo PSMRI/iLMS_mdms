@@ -13359,6 +13359,19 @@
          "leftIcon": "action:description",
          "navigationURL": "report/pgr/ULBReport",
          "path": "Complaints.ULB Report"
+      },
+      {
+         "id": 2442,
+         "name": "LMEPerformanceReport",
+         "url": "url",
+         "displayName": "LME Register",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "COLLECTIONS",
+         "code": "null",
+         "leftIcon": "action:description",
+         "navigationURL": "/report/pgr/LMEPerformanceReport",
+         "path": "Complaints.LME Report"
       }
    ]
 }

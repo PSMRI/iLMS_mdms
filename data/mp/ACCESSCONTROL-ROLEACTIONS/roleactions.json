@@ -16312,6 +16312,12 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 2038,
       "actioncode": "",
