@@ -33213,6 +33213,12 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "STATE_L3_GENERIC",
       "actionid": 2433,
       "actioncode": "",
