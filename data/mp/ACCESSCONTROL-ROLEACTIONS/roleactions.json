@@ -33745,6 +33745,18 @@
       "actionid": 2439,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2440,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "HELPDESK",
+      "actionid": 2440,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }

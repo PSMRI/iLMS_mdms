@@ -13291,17 +13291,6 @@
          "code": "null",
          "path": ""
       },
-      {
-         "id": 2435,
-         "name": "Survey Service: Update survey",
-         "url": "/egov-survey-services/egov-ss/survey/_update",
-         "displayName": "Update survey",
-         "orderNumber": 1,
-         "enabled": true,
-         "serviceCode": "egov-survey-services",
-         "code": "null",
-         "path": ""
-       },
        {
          "id": 2436,
          "name": "Survey Service: Delete survey",
@@ -13346,6 +13335,17 @@
          "serviceCode": "PGRReports",
          "code": "null",
          "path": "PGR Report"
-      }	   
+      },
+      {
+         "id": 2440,
+         "name": "Survey Service: Update survey",
+         "url": "/egov-survey-services/egov-ss/survey/_update",
+         "displayName": "Update survey",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "egov-survey-services",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
