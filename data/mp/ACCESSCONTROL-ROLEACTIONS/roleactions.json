@@ -33715,6 +33715,436 @@
       "actionid": 2440,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 2442,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 10,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1774,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 11,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 349,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 254,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 801,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 802,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 803,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1203,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 1204,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1205,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1524,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1525,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1526,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1527,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1528,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1529,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1530,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1531,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 698,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 695,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 699,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 700,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 168,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1532,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1533,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 1534,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1429,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1557,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1558,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1560,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1561,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1563,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1564,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1565,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 870,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 1588,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1591,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1556,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1775,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1842,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1843,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1848,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1849,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1850,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1851,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1852,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1853,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1854,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1855,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1856,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1857,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1858,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1859,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1844,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "SYSTEM",
+      "actionid": 1845,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2007,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2008,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2009,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2026,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 2025,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2012,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2019,
+      "actioncode": "",
+      "tenantId": "mp"
+    }, {
+      "rolecode": "SYSTEM",
+      "actionid": 2020,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2021,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "mp"
+    },{
+      "rolecode": "SYSTEM",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }

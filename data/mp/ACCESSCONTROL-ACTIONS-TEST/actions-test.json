@@ -13363,7 +13363,7 @@
       {
          "id": 2442,
          "name": "Auto call",
-         "url": "/pgr-services/mock/request/_auto",
+         "url": "/pgr-services/cron/request/_auto",
          "displayName": "Auto call",
          "orderNumber": 1,
          "enabled": true,
