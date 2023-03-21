@@ -13359,6 +13359,17 @@
          "leftIcon": "action:description",
          "navigationURL": "report/pgr/ULBReport",
          "path": "Complaints.ULB Report"
+      },
+      {
+         "id": 2442,
+         "name": "Auto call",
+         "url": "/pgr-services/mock/request/_auto",
+         "displayName": "Auto call",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "pgr-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
