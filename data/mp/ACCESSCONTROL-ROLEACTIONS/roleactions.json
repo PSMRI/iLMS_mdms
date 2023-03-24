@@ -33553,6 +33553,12 @@
       "actionid": 2438,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 2438,
+      "actioncode": "",
+      "tenantId": "mp"
     },  
     {
       "rolecode": "STATE_L3_GENERIC",
