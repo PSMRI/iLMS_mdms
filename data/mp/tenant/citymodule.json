@@ -346,6 +346,9 @@
       "tenants": [
         {
           "code": "mp"
+        },
+        {
+          "code": "mp.health"
         }
         
       ]
