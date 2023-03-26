@@ -146,6 +146,16 @@
       "code": "SYSTEM",
       "name": "System user",
       "description": "System user role"
+    },
+    {
+      "code": "DIVISION_ADMIN",
+      "name": "Division Admin",
+      "description": "Division Admin"
+    },
+    {
+      "code": "DISTRICT_ADMIN",
+      "name": "District Admin",
+      "description": "Division Admin"
     }
   ]
 }
