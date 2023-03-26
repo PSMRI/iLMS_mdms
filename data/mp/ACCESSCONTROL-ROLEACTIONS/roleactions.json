@@ -34168,6 +34168,18 @@
       "actionid": 1890,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "DIVISION_ADMIN",
+      "actionid": 1894,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DISTRICT_ADMIN",
+      "actionid": 1894,
+      "actioncode": "",
+      "tenantId": "mp"
     }
 
   ]
