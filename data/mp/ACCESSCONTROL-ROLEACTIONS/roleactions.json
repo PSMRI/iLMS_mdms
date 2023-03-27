@@ -10755,18 +10755,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1706,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1707,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "SUPERUSER",
       "actionid": 1708,
       "actioncode": "",
