@@ -3,17 +3,17 @@
     	"moduleName": "ilms",
     	"Division": [{
             "name": "Gwalior",
-            "code": "GWL001",
+            "code": "DVI001",
             "active": true
         },
         {
             "name": "Jabalpur",
-            "code": "JBL002",
+            "code": "DVI002",
             "active": true
         },
 	{
             "name": "Indore",
-            "code": "IND003",
+            "code": "DVI003",
             "active": true
         }
     ]

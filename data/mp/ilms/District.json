@@ -1,267 +1,133 @@
 { 
 	"tenantId": "mp",
     	"moduleName": "ilms",
-    	"District": [{
-            "name": "Alirajpur",
-            "code": "A0001",
-            "active": true
-        },
-        {
-            "name": "Anuppur",
-            "code": "A002",
-            "active": true
-        },
-	{
-            "name": "Ashok Nagar",
-            "code": "A003",
-            "active": true
-        },
-	{
-            "name": "Balaghat",
-            "code": "BAL004",
-            "active": true
-        },
-      {
-            "name": "Barwani",
-            "code": "BA005",
-            "active": true
-        },
-	{
-            "name": "Betul",
-            "code": "BE006",
-            "active": true
-        },
-      {
-            "name": "Bhind",
-            "code": "BH007",
-            "active": true
-        },
-	{
-            "name": "Bhopal",
-            "code": "BPL008",
-            "active": true
-        },
-      {
-            "name": "Burhanpur",
-            "code": "BPR009",
-            "active": true
-        },
-	{
-            "name": "Chhatarpur",
-            "code": "CTR010",
-            "active": true
-        },
-      {
-            "name": "Chhindwara",
-            "code": "CWA011",
-            "active": true
-        },
-      {
-            "name": "Damoh",
-            "code": "DAM012",
-            "active": true
-        },
-	{
-            "name": "Datia",
-            "code": "DA013",
-            "active": true
-        },
-      {
-            "name": "Dewas",
-            "code": "DS014",
-            "active": true
-        },
-	{
-            "name": "Dhar",
-            "code": "DHA015",
-            "active": true
-        },
-       {
-            "name": "Dindori",
-            "code": "DIR016",
-            "active": true
-        },
-	{
-            "name": "East Nimar",
-            "code": "EN017",
-            "active": true
-        },
-      {
-            "name": "Guna",
-            "code": "GUNA018",
-            "active": true
-        },
-	{
-            "name": "Gwalior",
-            "code": "GWL019",
-            "active": true
-        },
-      {
-            "name": "Harda",
-            "code": "HA020",
-            "active": true
-        },
-       {
-            "name": "Hoshangabad",
-            "code": "HSD021",
-            "active": true
-        },
-	{
-            "name": "Indore",
-            "code": "IND022",
-            "active": true
-        },
-      {
-            "name": "Jabalpur",
-            "code": "JBL023",
-            "active": true
-        },
-	{
-            "name": "Jhabua",
-            "code": "JHA024",
-            "active": true
-        },
-       {
-            "name": "Katni",
-            "code": "KAT025",
-            "active": true
-        },
-       {
-            "name": "Khandwa",
-            "code": "KHA026",
-            "active": true
-        },
-	{
-            "name": "Khargone",
-            "code": "KHA027",
-            "active": true
-        },
-      {
-            "name": "Mandla",
-            "code": "MAN028",
-            "active": true
-        },
-	{
-            "name": "Mandsaur",
-            "code": "MAN029",
-            "active": true
-        },
-       {
-            "name": "Morena",
-            "code": "MM030",
-            "active": true
-        },
-       {
-            "name": "Narsinghpur",
-            "code": "NSP031",
-            "active": true
-        },
-	{
-            "name": "Neemuch",
-            "code": "NEE032",
-            "active": true
-        },
-      {
-            "name": "Panna",
-            "code": "PA033",
-            "active": true
-        },
-	{
-            "name": "Raisen",
-            "code": "RI034",
-            "active": true
-        },
-       {
-            "name": "Rajgarh",
-            "code": "RH035",
-            "active": true
-        },
-       {
-            "name": "Ratlam",
-            "code": "RAT036",
-            "active": true
-        },
-	{
-            "name": "Rewa",
-            "code": "RE037",
-            "active": true
-        },
-      {
-            "name": "Sagar",
-            "code": "SA038",
-            "active": true
-        },
-	{
-            "name": "Satna",
-            "code": "SAT039",
-            "active": true
-        },
-       {
-            "name": "Sehore",
-            "code": "SEH040",
-            "active": true
-        },
-       {
-            "name": "Seoni",
-            "code": "S041",
-            "active": true
-        },
-	{
-            "name": "Shahdol",
-            "code": "SHa042",
-            "active": true
-        },
-      {
-            "name": "Shajapur",
-            "code": "SHAS043",
-            "active": true
-        },
-	{
-            "name": "Sheopur",
-            "code": "SHEL044",
-            "active": true
-        },
-       {
-            "name": "Shivpuri",
-            "code": "SHI045",
-            "active": true
-        },
-      {
-            "name": "Sidhi",
-            "code": "SID046",
-            "active": true
-        },
-       {
-            "name": "Singrauli",
-            "code": "SIN047",
-            "active": true
-        },
-	{
-            "name": "Tikamgarh",
-            "code": "TIK048",
-            "active": true
-        },
-      {
-            "name": "Ujjain",
-            "code": "UJJ049",
-            "active": true
-        },
-	{
-            "name": "Umaria",
-            "code": "UMA050",
-            "active": true
-        },
-       {
-            "name": "Vidisha",
-            "code": "VID051",
-            "active": true
-        },
-       {
-            "name": "West Nimar",
-            "code": "WN052",
-            "active": true
-        }
-       
+    	"District": [                
+            {            
+                "name": "Jabalpur",
+                "code": "DIS001",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Katni",
+                "code": "DIS002",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Narsinghpur",
+                "code": "DIS003",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Seoni",
+                "code": "DIS004",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Chhindwara",
+                "code": "DIS005",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {     
+                "name": "Balaghat",
+                "code": "DIS006",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Mandla",
+                "code": "DIS007",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "name": "Dindori",
+                "code": "DIS008",
+                "divisionCode": "DVI002",
+                "active": true
+            },
+            {      
+                "code": "DIS009",
+                "divisionCode": "DVI003",
+                "active": true
+            },
         
+            {      
+                "name": "Barwani",
+                "code": "DIS0010",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Burhan",
+                "code": "DIS0011",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Dhar",
+                "code": "DIS0012",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Indore",
+                "code": "DIS0013",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Jhabua",
+                "code": "DIS0014",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {
+                
+                "name": "Khandwa",
+                "code": "DIS0015",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Khargone",
+                "code": "DIS0016",
+                "divisionCode": "DVI003",
+                "active": true
+            },
+            {      
+                "name": "Gwalior",
+                "code": "DIS0017",
+                "divisionCode": "DVI001",
+                "active": true
+            },
+            {      
+                "name": "Shivpuri",
+                "code": "DIS0018",
+                "divisionCode": "DVI001",
+                "active": true
+            },
+            {      
+                "name": "Guna",
+                "code": "DIS0019",
+                "divisionCode": "DVI001",
+                "active": true
+            },
+            {      
+                "name": "Datia",
+                "code": "DIS0020",
+                "divisionCode": "DVI001",
+                "active": true
+            },
+            {      
+                "name": "Ashoknagar",
+                "code": "DIS0021",
+                "divisionCode": "DVI001",
+                "active": true
+            }        
     ]
 }
