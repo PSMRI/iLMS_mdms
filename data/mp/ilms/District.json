@@ -51,7 +51,8 @@
                 "active": true
             },
             {      
-                "code": "DIS009",
+                "name": "Alirajpur",
+		"code": "DIS009",
                 "divisionCode": "DVI003",
                 "active": true
             },
