@@ -3,7 +3,7 @@
   "moduleName": "common-masters",
   "CronJobAPIConfig": [
     {
-      "jobName": "daily",
+      "jobName": "hourly",
       "active": "true",
       "method": "POST",
       "url": "http://pgr-services.egov:8080/pgr-services/cron/request/_auto",
