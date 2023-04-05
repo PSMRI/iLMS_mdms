@@ -101,6 +101,24 @@
         "$.tenantId"
       ]
     },
+    "InstitutionType": {
+      "masterName": "InstitutionType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "ComplainantType": {
+      "masterName": "ComplainantType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
     "CensusYear": {
       "masterName": "CensusYear",
       "moduleDefinition": null,
