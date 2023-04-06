@@ -744,32 +744,6 @@
       "active": true
     },
     {
-      "id": 197,
-      "serviceCode": "ChildHealthProgrammeCh",
-      "name": "Child Health Programme (CH)",
-      "stateId": 6,
-      "menuPath": "ChildHealthProgramme",
-      "grievanceNatureId": 38,
-      "grievanceTypeId": 2,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 198,
-      "serviceCode": "NrcNutritionRehabilitationCentre",
-      "name": "NRC (Nutrition Rehabilitation Centre)",
-      "stateId": 6,
-      "menuPath": "ChildHealthProgramme",
-      "grievanceNatureId": 38,
-      "grievanceTypeId": 2,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
       "id": 202,
       "serviceCode": "PolioEliminationProgrammePp",
       "name": "Polio Elimination Programme (PP)",
@@ -777,19 +751,6 @@
       "menuPath": "Immunisation",
       "grievanceNatureId": 38,
       "grievanceTypeId": 2,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 209,
-      "serviceCode": "IntegratedDiseaseSurveillanceProgramme",
-      "name": "Integrated Disease Surveillance Programme",
-      "stateId": 6,
-      "menuPath": "IntegratedDiseaseSurveillanceProgramme",
-      "grievanceNatureId": 37,
-      "grievanceTypeId": 1,
       "slaHours": 168,
       "pendingSLA": 144,
       "daysToReOpen": 1,
@@ -843,19 +804,6 @@
       "grievanceNatureId": 8,
       "grievanceTypeId": 1,
       "slaHours": 24,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 312,
-      "serviceCode": "Npcdcs",
-      "name": "NPCDCS",
-      "stateId": 6,
-      "menuPath": "NationalProgrammeForPreventionAndControlOfCancer",
-      "grievanceNatureId": 8,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
       "pendingSLA": 144,
       "daysToReOpen": 1,
       "active": true
