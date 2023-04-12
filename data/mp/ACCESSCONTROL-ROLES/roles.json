@@ -156,6 +156,11 @@
       "code": "DISTRICT_ADMIN",
       "name": "District Admin",
       "description": "Division Admin"
+    },
+    {
+      "code": "ANONYMOUS",
+      "name": "Anonymous",
+      "description": "System user role"
     }
   ]
 }
