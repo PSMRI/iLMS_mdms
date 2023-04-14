@@ -5,8 +5,6 @@
     {
       "id": 1,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "ICTC",
       "code": "ICTC",
       "active": true
@@ -14,8 +12,6 @@
     {
       "id": 2,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "ART centers",
       "code": "ART_CENTERS",
       "active": true
@@ -23,8 +19,6 @@
     {
       "id": 3,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Linked ART centers",
       "code": "LINKED_ART_CENTERS",
       "active": true
@@ -32,8 +26,6 @@
     {
       "id": 4,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "second line ART centers",
       "code": "SECOND_LINE_ART_CENTERS",
       "active": true
@@ -41,8 +33,6 @@
     {
       "id": 5,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Blood banks",
       "code": "BLOOD_BANKS",
       "active": true
@@ -50,8 +40,6 @@
     {
       "id": 6,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "community care centers",
       "code": "COMMUNITY_CARE_CENTERS",
       "active": true
@@ -59,8 +47,6 @@
     {
       "id": 7,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Targeted Interventions",
       "code": "TARGETED_INTERVENTIONS",
       "active": true
@@ -68,8 +54,6 @@
     {
       "id": 8,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Centers of Excellence",
       "code": "CENTERS_OF_EXCELLENCE",
       "active": true
@@ -77,8 +61,6 @@
     {
       "id": 9,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Other",
       "code": "OTHER",
       "active": true
@@ -86,8 +68,6 @@
     {
       "id": 10,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Sub Center",
       "code": "SUB_CENTER",
       "active": true
@@ -95,8 +75,6 @@
     {
       "id": 11,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "State Dispensary(SD)",
       "code": "STATE_DISPENSARY(SD)",
       "active": true
@@ -113,8 +91,6 @@
     {
       "id": 13,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "CHC",
       "code": "CHC",
       "active": true
@@ -122,7 +98,7 @@
     {
       "id": 14,
       "stateId": 6,
-      "districtId": [70,72,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
+      "districtId": [70,71,72,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
       "talukaId": 223,
       "name": "APHC",
       "code": "APHC",
@@ -131,7 +107,7 @@
     {
       "id": 15,
       "stateId": 6,
-      "districtId": [70,72,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
+      "districtId": [70,72,74,75,76,77,78,79,80,89,92,93,94,95,96,97,98,99,100,101,104,105,106,107],
       "talukaId": 223,
       "name": "SDH",
       "code": "SDH",
@@ -140,8 +116,6 @@
     {
       "id": 16,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Civil Hospital",
       "code": "CIVIL_HOSPITAL",
       "active": true
@@ -149,8 +123,6 @@
     {
       "id": 17,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "BPHC",
       "code": "BPHC",
       "active": true
@@ -167,8 +139,6 @@
     {
       "id": 19,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Model Hospitals",
       "code": "MODEL_HOSPITALS",
       "active": true
@@ -176,122 +146,99 @@
     {
       "id": 20,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "FRU",
       "code": "FRU",
       "active": true
     },
     {
-      "id": 21,
+      "id": 23,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Adarani Service",
       "code": "ADARANI_SERVICE",
       "active": true
     },
     {
-      "id": 22,
+      "id": 24,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Patna Medical College and Hospital",
       "code": "PATNA_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 23,
+      "id": 25,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Nalanda Medical College and Hospital",
       "code": "NALANDA_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 24,
+      "id": 26,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Darbhanga Medical College and Hospital",
       "code": "DARBHANGA_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 25,
+      "id": 27,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Shri Krishna Medical College and Hospital",
       "code": "SHRI_KRISHNA_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 26,
+      "id": 28,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Jawahar Lal Nehru Medical College and Hospital",
       "code": "JAWAHAR_LAL_NEHRU_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 27,
+      "id": 29,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Anugrah Narayan Magadh Medical College and Hospital",
       "code": "ANUGRAH_NARAYAN_MAGADH_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 28,
+      "id": 30,
       "stateId": 6,
-      "districtId": 70,
       "talukaId": 223,
       "name": "Mata Gujri Medical College and Hospital",
       "code": "MATA_GUJRI_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 29,
+      "id": 31,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Vardhman Medical College and Hospital",
       "code": "VARDHMAN_MEDICAL_COLLEGE_AND_HOSPITAL",
       "active": true
     },
     {
-      "id": 30,
+      "id": 32,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Indira Ghandhi Institute of Medical Science",
       "code": "INDIRA_GHANDHI_INSTITUTE_OF_MEDICAL_SCIENCE",
       "active": true
     },
     {
-      "id": 31,
+      "id": 33,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Indira Ghandhi Institute of Cardiology",
       "code": "INDIRA_GHANDHI_INSTITUTE_OF_CARDIOLOGY",
       "active": true
     },
     {
-      "id": 32,
+      "id": 34,
       "stateId": 6,
-      "districtId": [70,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
+      "districtId": [70,72,73,74,75,76,78,79,80,81,82,83,84,85,87,88,89,90,91,92,93,94,95,96,97,98,100,101,102,103,104,105,106,107],
       "talukaId": 223,
       "name": "Referral  Hospital",
       "code": "REFERRAL__HOSPITAL",
       "active": true
     },
     {
-      "id": 33,
+      "id": 35,
       "stateId": 6,
       "districtId": [70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
       "talukaId": 223,
@@ -300,16 +247,14 @@
       "active": true
     },
     {
-      "id": 34,
+      "id": 36,
       "stateId": 6,
-      "districtId": 70,
-      "talukaId": 223,
       "name": "Sub Divisional Hospital",
       "code": "SUB_DIVISIONAL_HOSPITAL",
       "active": true
     },
     {
-      "id": 35,
+      "id": 37,
       "stateId": 6,
       "districtId": [70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107],
       "talukaId": 223,
@@ -318,7 +263,7 @@
       "active": true
     },
     {
-      "id": 36,
+      "id": 38,
       "stateId": 6,
       "districtId": [72,73,74,78,79,82,84,90,93,95,96,98,101,105,107],
       "talukaId": 223,
