@@ -33547,7 +33547,103 @@
       "actionid": 2438,
       "actioncode": "",
       "tenantId": "mp"
-    },  
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
+      "actionid": 2433,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2433,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2433,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2433,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
+      "actionid": 2434,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2434,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2434,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2434,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
+      "actionid": 2436,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2436,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2436,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2436,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
+      "actionid": 2437,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2437,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2437,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2437,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
     {
       "rolecode": "STATE_L3_GENERIC",
       "actionid": 2438,
@@ -33569,6 +33665,30 @@
     {
       "rolecode": "STATE_L3_FOODSAFETY",
       "actionid": 2438,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_GENERIC",
+      "actionid": 2440,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_ASHA",
+      "actionid": 2440,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_EPIDEMIC",
+      "actionid": 2440,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "STATE_L3_FOODSAFETY",
+      "actionid": 2440,
       "actioncode": "",
       "tenantId": "mp"
     },
