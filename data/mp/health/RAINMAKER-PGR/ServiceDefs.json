@@ -1160,19 +1160,6 @@
       "active": true
     },
     {
-      "id": 398,
-      "serviceCode": "MinsconductbyICISAreprestative",
-      "name": "Minsconduct by ICIS Areprestative",
-      "stateId": 6,
-      "menuPath": "ImplementationSupportAgencyISATPA",
-      "grievanceNatureId": 40,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
       "id": 399,
       "serviceCode": "DemandingMoney",
       "name": "Demanding Money",
