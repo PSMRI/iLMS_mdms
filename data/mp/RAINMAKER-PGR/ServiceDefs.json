@@ -16,37 +16,11 @@
       "active": true
     },
     {
-      "id": 91,
-      "serviceCode": "DemandOfMoneyAgainstFreeServices",
-      "name": "Demand of Money against free services (Except RT & ASHA)",
-      "stateId": 6,
-      "menuPath": "GeneralServices",
-      "grievanceNatureId": 37,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
       "id": 93,
       "serviceCode": "Others",
       "name": "Others",
       "stateId": 6,
       "menuPath": "GeneralServices",
-      "grievanceNatureId": 37,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 101,
-      "serviceCode": "MamtaProgram",
-      "name": "Mamta program",
-      "stateId": 6,
-      "menuPath": "MaternalHealthProgram",
       "grievanceNatureId": 37,
       "grievanceTypeId": 1,
       "slaHours": 168,
@@ -123,19 +97,6 @@
       "id": 109,
       "serviceCode": "RoutineImmunisationRi",
       "name": "Routine Immunisation (RI)",
-      "stateId": 6,
-      "menuPath": "Immunisation",
-      "grievanceNatureId": 37,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 110,
-      "serviceCode": "PolioEliminationProgramPp",
-      "name": "Polio Elimination program (PP)",
       "stateId": 6,
       "menuPath": "Immunisation",
       "grievanceNatureId": 37,
@@ -835,19 +796,6 @@
       "active": true
     },
     {
-      "id": 318,
-      "serviceCode": "RegardingNon-functionalityOfCallCentre",
-      "name": "Regarding non-functionality of Call Centre",
-      "stateId": 6,
-      "menuPath": "RefferalTransportAmbulanceService",
-      "grievanceNatureId": 8,
-      "grievanceTypeId": 1,
-      "slaHours": 168,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
       "id": 322,
       "serviceCode": "ComplainRegardingSexDetermination",
       "name": "Complain regarding Sex-determination",
@@ -882,19 +830,6 @@
       "grievanceNatureId": 34,
       "grievanceTypeId": 2,
       "slaHours": 24,
-      "pendingSLA": 144,
-      "daysToReOpen": 1,
-      "active": true
-    },
-    {
-      "id": 366,
-      "serviceCode": "MukhyamantriKanyaUtthanYojanaMkuy",
-      "name": "Mukhyamantri Kanya Utthan Yojana (MKUY)",
-      "stateId": 6,
-      "menuPath": "MukhyamantriKanyaUtthanYojana",
-      "grievanceNatureId": 34,
-      "grievanceTypeId": 2,
-      "slaHours": 168,
       "pendingSLA": 144,
       "daysToReOpen": 1,
       "active": true
