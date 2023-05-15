@@ -17,7 +17,7 @@
     },
     {
       "id": 93,
-      "serviceCode": "Others",
+      "serviceCode": "Others-GeneralServices",
       "name": "Others",
       "stateId": 6,
       "menuPath": "GeneralServices",
@@ -498,7 +498,7 @@
     },
     {
       "id": 155,
-      "serviceCode": "DemandingMoney",
+      "serviceCode": "DemandingMoney-InsuranceCompany",
       "name": "Demanding Money",
       "stateId": 6,
       "menuPath": "InsuranceCompany",
@@ -602,7 +602,7 @@
     },
     {
       "id": 168,
-      "serviceCode": "Other",
+      "serviceCode": "Other-CallCenter",
       "name": "Other",
       "stateId": 6,
       "menuPath": "CallCenter",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": 399,
-      "serviceCode": "DemandingMoney",
+      "serviceCode": "DemandingMoney-ImplementationSupportAgencyISATPA",
       "name": "Demanding Money",
       "stateId": 6,
       "menuPath": "ImplementationSupportAgencyISATPA",
