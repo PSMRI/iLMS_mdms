@@ -2,22 +2,41 @@
   "tenantId": "mp",
   "moduleName": "egov-location",
   "TenantBoundary": [
-    {
-      "hierarchyType": {
-        "code": "ADMINISTRATION",
-        "name": "ADMINISTRATION"
+        {
+          "hierarchyType": {
+            "code": "ADMIN",
+            "name": "ADMIN"
+          },
+          "boundary":
+          {
+            "id": 1,
+            "boundaryNum": 1,
+            "name": "Madhya Pradesh",
+            "localname": "Madhya Pradesh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Madhya Pradesh",
+            "code": "mp",
+            "children": [
+
+            ]        
+          }
       },
-      "boundary":
       {
-        "id": 1,
-        "boundaryNum": 1,
-        "name": "Madhya Pradesh",
-        "localname": "Madhya Pradesh",
-        "longitude": null,
-        "latitude": null,
-        "label": "Madhya Pradesh",
-        "code": "mp",
-        "children": [
+          "hierarchyType": {
+            "code": "ADMINISTRATION",
+            "name": "ADMINISTRATION"
+          },
+          "boundary": {
+            "id": 1,
+            "boundaryNum": 1,
+            "name": "Madhya Pradesh",
+            "localname": "Madhya Pradesh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Madhya Pradesh",
+            "code": "mp",
+            "children": [
               {
               "id": 1,
               "boundaryNum": 1,
@@ -273,10 +292,10 @@
                         "code": "mp.jabalpur.dindori"
                       }
                 ]
-            } 
-        ]
-      }
-    }
+              } 
+            ]
+          }
+      }   
    
   ]
 }
