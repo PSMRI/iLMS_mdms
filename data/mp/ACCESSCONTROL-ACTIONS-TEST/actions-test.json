@@ -13382,6 +13382,39 @@
          "serviceCode": "pgr-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2443,
+         "name": "Create Advocate",
+         "url": "/legal-services/advocate/_create",
+         "displayName": "Create New Advocate",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "legal-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2444,
+         "name": "Update Advocate",
+         "url": "/legal-services/advocate/_update",
+         "displayName": "Update Advocate",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "legal-services",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 2445,
+         "name": "Search Advocate",
+         "url": "/legal-services/advocate/_search",
+         "displayName": "Search Advocate",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "legal-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
