@@ -11,14 +11,269 @@
       {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Bhopal",
-        "localname": "Bhopal",
+        "name": "Madhya Pradesh",
+        "localname": "Madhya Pradesh",
         "longitude": null,
         "latitude": null,
-        "label": "Bhopal",
+        "label": "Madhya Pradesh",
         "code": "mp",
         "children": [
-
+              {
+              "id": 1,
+              "boundaryNum": 1,
+              "name": "Gwalior",
+              "localname": "Gwalior",
+              "longitude": null,
+              "latitude": null,
+              "label": "Division",
+              "code": "mp.gwalior",
+              "children": [
+                    {
+                    "id": 1,
+                    "boundaryNum": 1,
+                    "name": "Shivpuri",
+                    "localname": "Shivpuri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "District",
+                    "division_code": "mp.gwalior",
+                    "code": "mp.gwalior.shivpuri"
+                    },
+                    {
+                      "id": 2,
+                      "boundaryNum": 2,
+                      "name": "Guna",
+                      "localname": "Guna",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "District",
+                      "division_code": "mp.gwalior",
+                      "code": "mp.gwalior.guna"
+                    },
+                    {
+                      "id": 3,
+                      "boundaryNum": 3,
+                      "name": "Datia",
+                      "localname": "Datia",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "District",
+                      "division_code": "mp.gwalior",
+                      "code": "mp.gwalior.datia"
+                    },
+                    {
+                      "id": 4,
+                      "boundaryNum": 4,
+                      "name": "Ashoknagar",
+                      "localname": "Ashoknagar",
+                      "longitude": null,
+                      "latitude": null,
+                      "label": "District",
+                      "division_code": "mp.gwalior",
+                      "code": "mp.gwalior.Ashoknagar"
+                    }
+                ]
+              },
+              {
+                "id": 2,
+                "boundaryNum": 2,
+                "name": "Indore",
+                "localname": "Indore",
+                "longitude": null,
+                "latitude": null,
+                "label": "Division",
+                "code": "mp.indore",
+                "children": [
+                      {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Alirajpur",
+                        "localname": "Alirajpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.alirajpur"
+                      },
+                      {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "Barwani",
+                        "localname": "Barwani",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.barwani"
+                      },
+                      {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "Burhan",
+                        "localname": "Burhan",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.burhan"
+                      },
+                      {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "Dhar",
+                        "localname": "Dhar",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.dhar"
+                      },
+                      {
+                        "id": 5,
+                        "boundaryNum": 5,
+                        "name": "Indore",
+                        "localname": "Indore",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.indore"
+                      },
+                      {
+                        "id": 6,
+                        "boundaryNum": 6,
+                        "name": "Jhabua",
+                        "localname": "Jhabua",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.jhabua"
+                      },
+                      {
+                        "id": 7,
+                        "boundaryNum": 7,
+                        "name": "Khandwa",
+                        "localname": "Khandwa",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.khandwa"
+                      },
+                      {
+                        "id": 8,
+                        "boundaryNum": 8,
+                        "name": "Khargone",
+                        "localname": "Khargone",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.indore",
+                        "code": "mp.indore.khargone"
+                      }                     
+                ]
+              },
+              {
+                "id":3,
+                "boundaryNum": 3,
+                "name": "Jabalpur",
+                "localname": "Jabalpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "Division",
+                "code": "mp.jabalpur",
+                "children": [ 
+                      {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "Jabalpur",
+                        "localname": "Jabalpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.jabalpur"
+                      },
+                      {
+                        "id": 2,
+                        "boundaryNum": 2,
+                        "name": "Katni",
+                        "localname": "Katni",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.katni"
+                      },
+                      {
+                        "id": 3,
+                        "boundaryNum": 3,
+                        "name": "Narsinghpur",
+                        "localname": "Narsinghpur",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.narsinghpur"
+                      },
+                      {
+                        "id": 4,
+                        "boundaryNum": 4,
+                        "name": "Seoni",
+                        "localname": "Seoni",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.seoni"
+                      },
+                      {
+                        "id": 5,
+                        "boundaryNum": 5,
+                        "name": "Chhindwara",
+                        "localname": "Chhindwara",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.chhindwara"
+                      },
+                      {
+                        "id": 6,
+                        "boundaryNum": 6,
+                        "name": "Balaghat",
+                        "localname": "Balaghat",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.balaghat"
+                      },
+                      {
+                        "id": 7,
+                        "boundaryNum": 7,
+                        "name": "Mandla",
+                        "localname": "Mandla",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.mandla"
+                      },
+                      {
+                        "id": 8,
+                        "boundaryNum": 8,
+                        "name": "Dindori",
+                        "localname": "Dindori",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "District",
+                        "division_code": "mp.jabalpur",
+                        "code": "mp.jabalpur.dindori"
+                      }
+                ]
+            } 
         ]
       }
     }
