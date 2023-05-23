@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"Department": [
         {
             "name": "DIRECTORATE PUBLIC INSTRUCTION",

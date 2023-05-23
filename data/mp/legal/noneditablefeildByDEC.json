@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"noneditablefeildByDEC": [
             {
             "name": "Unique id",

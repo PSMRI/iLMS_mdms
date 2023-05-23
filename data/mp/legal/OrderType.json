@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"OrderType": [{
             "name": "Interim Order",
             "code": "INTO001",

@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"HearingType": [{
             "name": "Motion Hearing",
             "code": "Motion_Hearing",

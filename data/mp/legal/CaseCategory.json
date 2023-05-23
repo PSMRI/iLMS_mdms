@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"CaseCategory": [{
             "name": "Service Relating to State Government",
             "code": "SRSG_001",

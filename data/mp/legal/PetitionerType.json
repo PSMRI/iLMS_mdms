@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"PetitionerType": [{
             "name": "Private Teacher",
             "code": "Private_Teacher",

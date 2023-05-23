@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "common-masters",
+    	"moduleName": "legal",
     	"CaseFlag": [{
             "name": "High",
             "code": "PRI001",

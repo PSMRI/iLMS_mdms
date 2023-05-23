@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"CaseStatus": [{
             "name": "Pending for admission",
             "code": "PFA001",

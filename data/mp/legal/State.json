@@ -1,6 +1,6 @@
 { 
 	"tenantId": "mp",
-    	"moduleName": "ilms",
+    	"moduleName": "legal",
     	"State": [{
             "name": "Madhya Pradesh",
             "code": "MP",
