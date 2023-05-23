@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "citymodule": [
     {
-      "module": "ILMS",
-      "code": "ILMS",
+      "module": "LEGAL",
+      "code": "LEGAL",
       "bannerImage": "https://s3-piramal-ilms.s3.amazonaws.com/images/ilms-bgImage.png",
       "active": true,
       "order":2,

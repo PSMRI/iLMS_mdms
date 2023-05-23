@@ -5,52 +5,52 @@
     [
       {
         "name": "Notice For Petition",
-        "code": "ILMS_DOCS_PETITION_COPY",
+        "code": "LEGAL_DOCS_PETITION_COPY",
         "active": true
       },
       {
         "name": "Counter Affidavit",
-        "code": "ILMS_DOCS_COUNTER_AFFIDAVIT",
+        "code": "LEGAL_DOCS_COUNTER_AFFIDAVIT",
         "active": true
       },
       {
         "name": "Supplementary Affidavit",
-        "code": "ILMS_DOCS_SUPPLEMENTARY_AFFIDAVIT",
+        "code": "LEGAL_DOCS_SUPPLEMENTARY_AFFIDAVIT",
         "active": true
       },
       {
         "name": "Reminder Notice For Counter Affidavit",
-        "code": "ILMS_DOCS_COUNTER_AFFIDAVIT_REMINDER",
+        "code": "LEGAL_DOCS_COUNTER_AFFIDAVIT_REMINDER",
         "active": true
       },
       {
         "name": "Reminder Notice For Supplementary Affidavit",
-        "code": "ILMS_DOCS_SUPPLEMENTARY_AFFIDAVIT_REMINDER",
+        "code": "LEGAL_DOCS_SUPPLEMENTARY_AFFIDAVIT_REMINDER",
         "active": true
       },
 	{
         "name": "Adjournment Notice",
-        "code": "ILMS_DOCS_ADJOURNMENT_NOTICE",
+        "code": "LEGAL_DOCS_ADJOURNMENT_NOTICE",
         "active": true
       },
 	{
         "name": "Action Notice",
-        "code": "ILMS_DOCS_ACTION_NOTICE",
+        "code": "LEGAL_DOCS_ACTION_NOTICE",
         "active": true
       },
 	{
         "name": "Interim Notice",
-        "code": "ILMS_DOCS_INTERIM_ORDER",
+        "code": "LEGAL_DOCS_INTERIM_ORDER",
         "active": true
       },
 	{
         "name": "Judgement",
-        "code": "ILMS_DOCS_JUDGEMENT",
+        "code": "LEGAL_DOCS_JUDGEMENT",
         "active": true
       },
       {
         "name": "Others",
-        "code": "ILMS_DOCS_OTHERS",
+        "code": "LEGAL_DOCS_OTHERS",
         "active": true
       }	    
     ]

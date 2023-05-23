@@ -14,9 +14,9 @@
                 {"W&S": {"services_name": "W&S","filterKey": "W&S"}},     
                 {"FSM": {"services_name": "FSM","filterKey": "FSM"}},
                 {"BND": {"services_name": "BND","filterKey": "BND"}},
-                {"ilms": {"services_name": "ILMS","filterKey": "ILMS"}}
+                {"legal": {"services_name": "LEGAL","filterKey": "LEGAL"}}
             ],
-            "SERVICES": ["Property Tax","W&S","MCOLLECT","FSM","OBPS","FIRENOC","Trade licence","PGR","BND","ILMS"],
+            "SERVICES": ["Property Tax","W&S","MCOLLECT","FSM","OBPS","FIRENOC","Trade licence","PGR","BND","LEGAL"],
       "MAP_CONFIG":[{
         "type": "Topology",
         "objects": {
