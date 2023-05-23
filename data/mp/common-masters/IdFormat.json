@@ -708,43 +708,43 @@
     },
     {
       "format": "CASE-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.case"
+      "idname": "legal.case"
     },
     {
       "format": "ACT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.act"
+      "idname": "legal.act"
     },
     {
       "format": "ADV-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.petitioner.advocate"
+      "idname": "legal.petitioner.advocate"
     },
     {
       "format": "ADV-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.respondent.advocate"
+      "idname": "legal.respondent.advocate"
     },
     {
       "format": "RES-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.respondent"
+      "idname": "legal.respondent"
     },
     {
       "format": "PET-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.petitioner"
+      "idname": "legal.petitioner"
     },
     {
       "format": "HEARING-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.hearing.details"
+      "idname": "legal.hearing.details"
     },
     {
       "format": "COURT-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.hearing.details.court"
+      "idname": "legal.hearing.details.court"
     },
     {
       "format": "JUD-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.judgement.details"
+      "idname": "legal.judgement.details"
     },
     {
       "format": "DOC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_PTID]",
-      "idname": "ilms.document.details"
+      "idname": "legal.document.details"
     }
   ]
 }

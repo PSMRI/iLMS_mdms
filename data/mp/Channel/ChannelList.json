@@ -1153,9 +1153,9 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "CREATE",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "CREATE_CASE",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1163,8 +1163,8 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
       "action": "FORWARD_TO_RO",
       "channelNames": [
         "SMS",
@@ -1173,8 +1173,8 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
       "action": "ASSIGNBACK_TO_DEC",
       "channelNames": [
         "SMS",
@@ -1183,9 +1183,9 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "UPDATE_AT_RO_LEVEL",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "APPROVED_AND_FORWARD_TO_OICA",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1193,38 +1193,8 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "FORWARD_TO_OICA",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "ASSIGNBACK_TO_RO",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "UPDATE_AT_OICA_LEVEL",
-      "channelNames": [
-        "SMS",
-        "EMAIL",
-        "EVENT"
-      ]
-    },
-    {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
       "action": "FORWARD_TO_AO",
       "channelNames": [
         "SMS",
@@ -1233,9 +1203,9 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "FORWARD_TO_OIC",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "ASSIGNBACK_TO_RO",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1243,9 +1213,9 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
-      "action": "CLOSE",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "SUBMIT_COUNTER_AFFIDAVIT",
       "channelNames": [
         "SMS",
         "EMAIL",
@@ -1253,8 +1223,28 @@
       ]
     },
     {
-      "businessService": "iLMS",
-      "module": "iLMS-services",
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "SUBMIT_SUPPLEMENTARY_AFFIDAVIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
+      "action": "PROCEED_WITH_JUDGEMENT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "LEGAL-CASE",
+      "module": "legal-services",
       "action": "INACTIVE",
       "channelNames": [
         "SMS",
