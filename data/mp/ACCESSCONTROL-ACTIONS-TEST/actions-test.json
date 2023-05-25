@@ -13483,7 +13483,7 @@
          "url": "/report/legal/HearingReport/_get",
          "displayName": "Legal report",
          "orderNumber": 0,
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "LegalReports",
          "code": "null",
          "path": "Hearing Report"
