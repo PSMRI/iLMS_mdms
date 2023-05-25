@@ -13415,6 +13415,42 @@
          "serviceCode": "legal-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 2446,
+         "name": "CASEReport",
+         "url": "url",
+         "displayName": "Case Report",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "COLLECTIONS",
+         "code": "null",
+         "leftIcon": "action:description",
+         "navigationURL": "report/legal/CASEReport",
+         "path": "Legal.Case Report"
+      },
+      {
+         "id": 2447,
+         "name": "LEGAL-CASEReport-Metadata",
+         "url": "/report/legal/CASEReport/metadata/_get",
+         "displayName": "Legal report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": true,
+         "serviceCode": "LegalReports",
+         "code": "null",
+         "path": "Case Report"
+      },
+      {
+         "id": 2448,
+         "name": "CASEReport",
+         "url": "/report/legal/CASEReport/_get",
+         "displayName": "Legal report",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "LegalReports",
+         "code": "null",
+         "path": "Case Report"
       }
    ]
 }
