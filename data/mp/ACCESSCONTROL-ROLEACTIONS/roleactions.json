@@ -34552,6 +34552,24 @@
       "actionid": 2448,
       "actioncode": "",
       "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2449,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2450,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
+      "rolecode": "DEC",
+      "actionid": 2451,
+      "actioncode": "",
+      "tenantId": "mp"
     }
   ]
 }
