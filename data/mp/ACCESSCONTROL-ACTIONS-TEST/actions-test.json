@@ -13487,6 +13487,42 @@
          "serviceCode": "LegalReports",
          "code": "null",
          "path": "Hearing Report"
+      },
+      {
+         "id": 2452,
+         "name": "LegalReport",
+         "url": "url",
+         "displayName": "Legal Report",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "COLLECTIONS",
+         "code": "null",
+         "leftIcon": "action:description",
+         "navigationURL": "report/legal/LegalReport",
+         "path": "Legal.Legal Report"
+      },
+      {
+         "id": 2453,
+         "name": "LEGAL-LegalReport-Metadata",
+         "url": "/report/legal/LegalReport/metadata/_get",
+         "displayName": "Legal report",
+         "orderNumber": 1,
+         "parentModule": "147",
+         "enabled": true,
+         "serviceCode": "LegalReports",
+         "code": "null",
+         "path": "Legal Report"
+      },
+      {
+         "id": 2454,
+         "name": "LegalReport",
+         "url": "/report/legal/LegalReport/_get",
+         "displayName": "Legal report",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "LegalReports",
+         "code": "null",
+         "path": "Legal Report"
       }
    ]
 }
