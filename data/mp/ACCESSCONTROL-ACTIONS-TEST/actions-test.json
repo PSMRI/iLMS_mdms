@@ -13523,6 +13523,17 @@
          "serviceCode": "LegalReports",
          "code": "null",
          "path": "Legal Report"
+      },
+      {
+         "id": 2455,
+         "name": "Case Count",
+         "url": "/legal-services/case/_count",
+         "displayName": "Case Count",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "legal-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
