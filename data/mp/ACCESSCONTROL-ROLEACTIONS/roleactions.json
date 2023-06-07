@@ -25324,6 +25324,12 @@
       "tenantId": "mp"
     },
     {
+      "rolecode": "AO",
+      "actionid": 2425,
+      "actioncode": "",
+      "tenantId": "mp"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 2435,
       "actioncode": "",
