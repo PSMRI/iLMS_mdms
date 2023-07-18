@@ -43,7 +43,12 @@
         "code": "LEGAL_DOCS_INTERIM_ORDER",
         "active": true
       },
-	{
+      {
+        "name": "Sof",
+        "code": "LEGAL_DOCS_SOF",
+        "active": true
+      },
+	    {
         "name": "Judgement",
         "code": "LEGAL_DOCS_JUDGEMENT",
         "active": true
