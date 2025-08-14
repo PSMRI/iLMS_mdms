@@ -13318,12 +13318,6 @@
       "tenantId": "mp"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1886,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
       "rolecode": "STADMIN",
       "actionid": 2431,
       "actioncode": "",
@@ -24606,12 +24600,6 @@
     {
       "rolecode": "CITIZEN",
       "actionid": 2399,
-      "actioncode": "",
-      "tenantId": "mp"
-    },
-    {
-      "rolecode": "BND_CEMP",
-      "actionid": 1886,
       "actioncode": "",
       "tenantId": "mp"
     },
